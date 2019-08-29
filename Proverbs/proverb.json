@@ -1,722 +1,728 @@
-[
-    {
-        "bangla": "অপদার্থ যেখান থেকে শুরু করে সেখানেই ফিরে আসে।",
-        "english": "A bad penny always turns up.",
-        "writer": ""
-    },
-    {
-        "bangla": "নাচতে না জানলে উঠোন বাঁকা। ",
-        "english": "A bad workman quarrels with his tools.",
-        "writer": ""
-    },
-    {
-        "bangla": "যত গর্জে তত বর্ষে না।",
-        "english": "A barking dog never or seldom bites.",
-        "writer": ""
-    },
-    {
-        "bangla": "মাথা নেই তার মাথাব্যথা।",
-        "english": "A beggar cannot be a bankrupt.",
-        "writer": ""
-    },
-    {
-        "bangla": "নেংটার নেই বাটপাড়ের ভয়। ",
-        "english": "A beggar may sing before a pick-pocket.",
-        "writer": ""
-    },
-    {
-        "bangla": "হাতের জিনিস ফেলে দূরের জিনিস নিতে নেই। ",
-        "english": "A bird in the hand is worth two in the bush.",
-        "writer": ""
-    },
-    {
-        "bangla": "বিনা মেঘে বজ্রপাত। ",
-        "english": "A bolt from the blue.",
-        "writer": ""
-    },
-    {
-        "bangla": "তর্জনকারী বা ষন্ডা সব সময়ই কাপুরুষ। ",
-        "english": "A bully is always a cow.",
-        "writer": ""
-    },
-    {
-        "bangla": "ঘর-পোড়া গরু সিন্দুরে মেঘ দেখলে ভয় পায়।",
-        "english": "A burnt child dreads the fire or Once bitten, twice shy.",
-        "writer": ""
-    },
-    {
-        "bangla": "কই মাছের প্রাণ বড়ই শক্ত। ",
-        "english": "A cat has nine lives.",
-        "writer": ""
-    },
-    {
-        "bangla": "সোজা আঙ্গুলে ঘি ওঠে না। ",
-        "english": "A cat in gloves catches no mice.",
-        "writer": ""
-    },
-    {
-        "bangla": "আপন গাঁয়ে কুকুর রাজা। ",
-        "english": "A cock is always bold on its own dunghill .",
-        "writer": ""
-    },
-    {
-        "bangla": "যতক্ষণ শ্বাস, ততকক্ষণ আঁশ। ",
-        "english": "A drawing man catches or clutches at a straw .",
-        "writer": ""
-    },
-    {
-        "bangla": "বোকার কাছে টাকা থাকে না। ",
-        "english": "A fool and his money are soon parted .",
-        "writer": ""
-    },
-    {
-        "bangla": "অসময়ের বন্ধুই প্রকৃত বন্ধু। ",
-        "english": "A friend in need is a friend in deed.",
-        "writer": ""
-    },
-    {
-        "bangla": "ভাত ছড়ালে কাকের অভাব হয় না। ",
-        "english": "A full purse never lacks friends.",
-        "writer": ""
-    },
-    {
-        "bangla": "টাকায় বাঘের দুধ মেলে। ",
-        "english": "A golden key can open any door.",
-        "writer": ""
-    },
-    {
-        "bangla": "স্বামী ভালো হলে স্ত্রীও ভালো হয়। ",
-        "english": "A good jack makes a good jill .",
-        "writer": ""
-    },
-    {
-        "bangla": "ঠাকুর ঘরে কে, আমি তো কলা খাইনি। ",
-        "english": "A guilty mind is always suspicious.",
-        "writer": ""
-    },
-    {
-        "bangla": "পকেটে টাকা থাকলে মনও ভালো থাকে। ",
-        "english": "A heavy purse makes a light heart.",
-        "writer": ""
-    },
-    {
-        "bangla": "একাই একশো। ",
-        "english": "A host in himself.",
-        "writer": ""
-    },
-    {
-        "bangla": "নেবু কচলালে তেতো হয়। ",
-        "english": "A jest driven hard, loses its point.",
-        "writer": ""
-    },
-    {
-        "bangla": "আজ বাদশা কাল ফকির। ",
-        "english": "A king today is a beggar tomorrow.",
-        "writer": ""
-    },
-    {
-        "bangla": "অল্পবিদ্যা ভয়ংকরী। ",
-        "english": "A little learning is a dangerous thing.",
-        "writer": ""
-    },
-    {
-        "bangla": "পাগলে কী না বলে, ছাগলে কী না খায়। ",
-        "english": "A mad man and a animal have no difference.",
-        "writer": ""
-    },
-    {
-        "bangla": "সঙ্গ দেখে লোক চেনা যায় । ",
-        "english": "A man is known by the company he keeps .",
-        "writer": ""
-    },
-    {
-        "bangla": "যে রক্ষক সেই ভক্ষক । ",
-        "english": "A poacher turned gamekeeper .",
-        "writer": ""
-    },
-    {
-        "bangla": "চোরে শোনে না ধর্মের কাহিনী ।",
-        "english": "A rogue is deaf to all good .",
-        "writer": ""
-    },
-    {
-        "bangla": "মনে বিষ, মুখে মধু",
-        "english": "A serpent under the flower.",
-        "writer": ""
-    },
-    {
-        "bangla": "কাঁঠালের আমসত্ত্ব। ",
-        "english": "A square peg in a round hole (An Impossibility).",
-        "writer": ""
-    },
-    {
-        "bangla": "সময়ের এক ফোঁড় অসময়ের দশ ফোঁড়। ",
-        "english": "A stitch in time saves nine.",
-        "writer": "",
-    },
-    {
-        "bangla": "বার মাসে তের পার্বণ। ",
-        "english": "A succession of festivities all the year round.",
-        "writer": ""
-    },
-    {
-        "bangla": "লোভে পাপ পাপে মৃত্যু । ",
-        "english": "A varice begets sin, sin begets death .",
-        "writer": ""
-    },
-    {
-        "bangla": "অপেক্ষার সময় শেষ হয় না । ",
-        "english": "A watched pot never boils .",
-        "writer": ""
-    },
-    {
-        "bangla": "হিতে বিপরীত । ",
-        "english": "Adversity often leads to prosperity .",
-        "writer": ""
-    },
-    {
-        "bangla": "মেঘ দেখে করিসনে ভয়,আড়ালে তার সূর্য হাসে ।",
-        "english": "After clouds comes fair weather.",
-        "writer": ""
-    },
-    {
-        "bangla": "চোর পালালে বুদ্ধি বাড়ে। ",
-        "english": "After death comes the doctor .",
-        "writer": ""
-    },
-    {
-        "bangla": "নুন আনতে পান্তা ফুরায়। ",
-        "english": "After meat comes mustard .",
-        "writer": ""
-    },
-    {
-        "bangla": "যত দোষ নন্দ ঘোষ। ",
-        "english": "All are blaming nobody",
-        "writer": ""
-    },
-    {
-        "bangla": "অতি লোভে তাঁতি নষ্ট। ",
-        "english": "Grasp all, lose all",
-        "writer": ""
-    },
-    {
-        "bangla": "চকচক করলেই সোনা হয় না। ",
-        "english": "All that glitters is not gold.",
-        "writer": ""
-    },
-    {
-        "bangla": "পুরোনো চাল ভাতে বাড়ে। ",
-        "english": "All that is old is not bad.",
-        "writer": ""
-    },
-    {
-        "bangla": "সবুরে মেওয়া ফলে। ",
-        "english": "Patience is bitter but its fruit is sweet.",
-        "writer": ""
-    },
-    {
-        "bangla": "যে সহে সে রহে; ",
-        "english": "All things come to him who waits .",
-        "writer": ""
-    },
-    {
-        "bangla": "সব ভালো তার, শেষ ভালো যার। ",
-        "english": "All well that ends well .",
-        "writer": ""
-    },
-    {
-        "bangla": "অলস মস্তিষ্ক শয়তানের কারখানা। ",
-        "english": "An idle brain is the devil’s workshop .",
-        "writer": ""
-    },
-    {
-        "bangla": "বুদ্ধির চেয়ে বিচক্ষণতা ভালো । ",
-        "english": "An ounce of discretion is worth a pound of wit .",
-        "writer": ""
-    },
-    {
-        "bangla": "প্রতিকারের চেয়ে প্রতিরোধ ভালো । ",
-        "english": "An ounce of prevention is worth a pound of cure .",
-        "writer": ""
-    },
-    {
-        "bangla": "যেমন গাছ, তার তেমনি ফল। ",
-        "english": "As is the tree, so is the fruit.",
-        "writer": ""
-    },
-    {
-        "bangla": "ঝোপ বুঝে কোপ মারা । ",
-        "english": "As the wind blows, you must set your sail.",
-        "writer": ""
-    },
-    {
-        "bangla": "যেমন কর্ম তেমন ফল । ",
-        "english": "As you sow so you reap.",
-        "writer": ""
-    },
-    {
-        "bangla": "লোভে পাপ, পাপে মৃত্যু। ",
-        "english": "Avarice begets sin and sin begets death.",
-        "writer": ""
-    },
-    {
-        "bangla": "যত গর্জে তত বর্ষে না । ",
-        "english": "Barking dogs seldom bite .",
-        "writer": ""
-    },
-    {
-        "bangla": "যার নুন খাও তার গুণ গাও। ",
-        "english": "Be true to your salt.",
-        "writer": ""
-    },
-    {
-        "bangla": "দুষ্ট গরুর চেয়ে শূন্য গোয়াল ভালো । ",
-        "english": "Better alone than in evil company",
-        "writer": ""
-    },
-    {
-        "bangla": "একেবারে না হওয়ার চেয়ে দেরিতে হওয়া ভালো । ",
-        "english": "Better late than never .",
-        "writer": ""
-    },
-    {
-        "bangla": "জলে কুমীর, ডাঙায় বাঘ। ",
-        "english": "Between two fires or Between the devil and the deep sea.",
-        "writer": ""
-    },
-    {
-        "bangla": "চোরে চোরে মাসতুতো ভাই । ",
-        "english": "Birds of the same feather flock together.",
-        "writer": ""
-    },
-    {
-        "bangla": "একই গোয়ালের গরু। ",
-        "english": "Birds of the same feather.",
-        "writer": ""
-    },
-    {
-        "bangla": "কয়লা ধুলে ময়লা যায় না । ",
-        "english": "Black will take no other hue .",
-        "writer": ""
-    },
-    {
-        "bangla": "দাঁত থাকতে দাঁতের মর্যাদা জানে না। ",
-        "english": "Blessings are not valued till they are gone.",
-        "writer": ""
-    },
-    {
-        "bangla": "রক্তের টান বড় টান। ",
-        "english": "Blood is thicker than water.",
-        "writer": ""
-    },
-    {
-        "bangla": "গোবরে পদ্মফুল। ",
-        "english": "Blossoms in the dust or Musk in a kennel.",
-        "writer": ""
-    },
-    {
-        "bangla": "দুধ কলা দিয়ে সাপ পোষা। ",
-        "english": "Breed up a crow, and it will pluck your eyes.",
-        "writer": ""
-    },
-    {
-        "bangla": "আঁধার ঘরের মানিক। ",
-        "english": "Bright gem in a dark cave.",
-        "writer": ""
-    },
-    {
-        "bangla": "আকাশকুসুম কল্পণা করা। ",
-        "english": "Build castles in the air.",
-        "writer": ""
-    },
-    {
-        "bangla": "নিজের নাক কেটে পরের যাত্রা ভঙ্গ করা। ",
-        "english": "Burn not your house to fright the mouse away .",
-        "writer": ""
-    },
-    {
-        "bangla": "তেলা মাথায় তেল দেওয়া । ",
-        "english": "Carry coal to new castle .",
-        "writer": ""
-    },
-    {
-        "bangla": "আগে ঘর তারপর পর",
-        "english": "Charity begins at home.",
-        "writer": ""
-    },
-    {
-        "bangla": "সস্তার তিন অবস্থা। ",
-        "english": "Cheap goods are dear in the long run.",
-        "writer": ""
-    },
-    {
-        "bangla": "ছেলের হাতের মোয়া। ",
-        "english": "Child's plaything.",
-        "writer": ""
-    },
-    {
-        "bangla": "বুড়ো শালিকের ঘাড়ে রোঁ। ",
-        "english": "Childish behavior of an old man .",
-        "writer": ""
-    },
-    {
-        "bangla": "ভালো হতে পয়সা লাগে না । ",
-        "english": "Civility/courtesy costs nothing .",
-        "writer": ""
-    },
-    {
-        "bangla": "গাছে কাঁঠাল গোঁফে তেল;",
-        "english": "Count (to) chickens till they are hatched .",
-        "writer": ""
-    },
-    {
-        "bangla": "আয় বুঝে ব্যয় করা। ",
-        "english": "Cut your coat according to your cloth.",
-        "writer": ""
-    },
-    {
-        "bangla": "বিপদ একাকী আসে না । ",
-        "english": "Danger never comes alone .",
-        "writer": ""
-    },
-    {
-        "bangla": "যেখানে বাঘের ভয়, সেখানেই সন্ধ্যা হয়। ",
-        "english": "Danger often comes where danger is feared.",
-        "writer": ""
-    },
-    {
-        "bangla": "মরণকালে ঔষুধ নাই। ",
-        "english": "Death defies doctors.",
-        "writer": ""
-    },
-    {
-        "bangla": "মৃত্যু বলে কয়ে আসে না। ",
-        "english": "Death keeps no calendar.",
-        "writer": ""
-    },
-    {
-        "bangla": "যেমনি বুনো ওল তেমনি বাঘা তেঁতুল । ",
-        "english": "Desperate diseases must have desperate remedies .",
-        "writer": ""
-    },
-    {
-        "bangla": "রতনে রতন চেনে । ",
-        "english": "Diamond cuts diamond .",
-        "writer": ""
-    },
-    {
-        "bangla": "পরিশ্রমই সৌভাগ্যের মূল। ",
-        "english": "Diligence is the mother of good luck.",
-        "writer": ""
-    },
-    {
-        "bangla": "মায়ের কাছে মামা বাড়ির গল্প করো না। ",
-        "english": "Do not teach your grandmother to such egg.",
-        "writer": ""
-    },
-    {
-        "bangla": "মন্ত্রের সাধন কিংবা শরীর পতন;",
-        "english": "to try one’s utmost.",
-        "writer": ""
-    },
-    {
-        "bangla": "এক লাফেই তালগাছে ওঠা যায় না। ",
-        "english": "Don't run before you can walk.",
-        "writer": ""
-    },
-    {
-        "bangla": "ছেড়ে দে মা কেঁদে বাঁচি। ",
-        "english": "Don't nag me, and leave me in peace.",
-        "writer": ""
-    },
-    {
-        "bangla": "গাছে কাঁঠাল গোঁফে তেল দিওনা । ",
-        "english": "Don’t count your chickens before they are hatched .",
-        "writer": ""
-    },
-    {
-        "bangla": "বলা সহজ, করা কঠিন । ",
-        "english": "Easier said than done.",
-        "writer": ""
-    },
-    {
-        "bangla": "দেওয়ালেরও কান আছে। ",
-        "english": "Even walls have ears.",
-        "writer": ""
-    },
-    {
-        "bangla": "দুঃখের পরে সুখ আসে  ",
-        "english": "Every cloud has silver shining .",
-        "writer": ""
-    },
-    {
-        "bangla": "চাচা আপন প্রাণ বাঁচা। ",
-        "english": "Every man is for himself.",
-        "writer": ""
-    },
-    {
-        "bangla": "পাপ ছাড়ে না বাপকে । ",
-        "english": "Every sin carries its own punishment .",
-        "writer": ""
-    },
-    {
-        "bangla": "ঠেখে শেখা আর দেখে শেখা। ",
-        "english": "Experience teaches better than wisdom.",
-        "writer": ""
-    },
-    {
-        "bangla": "ব্যর্থতাই সাফল্যের চাবি স্তম্ভস্বরূপ।  ",
-        "english": "Failure is the pillar of success .",
-        "writer": ""
-    },
-    {
-        "bangla": "যারে দেখতে নারি, তার চলন বাঁকা । ",
-        "english": "Faults are thick where love is thin .",
-        "writer": ""
-    },
-    {
-        "bangla": "গাঁয়ে মানে না আপনি মোড়ল। ",
-        "english": "Fool to others to himself a sage.",
-        "writer": ""
-    },
-    {
-        "bangla": "পরিশ্রমীদের প্রতি ভাগ্য সুপ্রসন্ন । ",
-        "english": "Fortune favors the industrious .",
-        "writer": ""
-    },
-    {
-        "bangla": "কাজের সময় কাজী, কাজ ফুরালে পাজী। ",
-        "english": "Get rid of one who has served the purpose.",
-        "writer": ""
-    },
-    {
-        "bangla": "কান টানলে মাথা আসে । ",
-        "english": "Give the one, the other will follow .",
-        "writer": ""
-    },
-    {
-        "bangla": "পরিশ্রমীদের আল্লাহ সাহায্য করেন। ",
-        "english": "God helps them who help themselves.",
-        "writer": ""
-    },
-    {
-        "bangla": "আপনার চরকায় তেল দাও।",
-        "english": "Grease your own wheel or Mind your own business.",
-        "writer": ""
-    },
-    {
-        "bangla": "নাই মামার চেয়ে কানা মামা ভাল।",
-        "english": "Something is better than nothing.",
-        "writer": ""
-    },
-    {
-        "bangla": "জাতের মেয়ে কালো ভালো নদীর পানি ঘোলা ভালো । ",
-        "english": "A man’s action is more important rather than his appearance",
-        "writer": ""
-    },
-    {
-        "bangla": "নুন আনতে পান্তা ফুরায়। ",
-        "english": "He can hardly keep the wolf from the door.",
-        "writer": ""
-    },
-    {
-        "bangla": "ভাজা মাছটি উলটে খেতে জানে না।",
-        "english": "He poses to be quite simple and innocent.",
-        "writer": ""
-    },
-    {
-        "bangla": "জীবে প্রেম করে যেইজন, সেইজন সেবিছে ঈশ্বর । ",
-        "english": "To love the creatures of God is to pray to God",
-        "writer": ""
-    },
-    {
-        "bangla": "মায়ের পায়ের তলে বেহেস্ত । ",
-        "english": "Heaven lies at the foot of mother .",
-        "writer": ""
-    },
-    {
-        "bangla": "শাক দিয়ে মাছ ঢাকা। ",
-        "english": "Hide in a superficial way.",
-        "writer": ""
-    },
-    {
-        "bangla": "পরিশ্রমই সৌভাগ্যের চাবিকাঠি। ",
-        "english": "Industry is the key to success .",
-        "writer": ""
-    },
-    {
-        "bangla": "এক হাতে তালি বাজে না। ",
-        "english": "It takes two to make a quarrel or battle.",
-        "writer": ""
-    },
-    {
-        "bangla": "দিন আনে, দিন খায়। ",
-        "english": "Living from hand to mouth.",
-        "writer": ""
-    },
-    {
-        "bangla": "ভাবিয়া করিও কাজ, করিয়া ভাবিও না। ",
-        "english": "Look before you leap .",
-        "writer": ""
-    },
-    {
-        "bangla": "মানুষ জন্মগতভাবে স্বাধীন, কিন্তু সর্বত্রই সে শৃঙ্খলিত। ",
-        "english": "Man is born free but everywhere he is in chain .",
-        "writer": ""
-    },
-    {
-        "bangla": "মানুষ বাঁচে তার কর্মে বয়সে নয় । ",
-        "english": "Man live in deeds not in years .",
-        "writer": ""
-    },
-    {
-        "bangla": "দশের লাঠি একের বোঝা। ",
-        "english": "Many a little makes a mickle .",
-        "writer": ""
-    },
-    {
-        "bangla": "দশে মিলে করি কাজ, হারি যিতি নাহি লাজ;",
-        "english": "Many drops make light work .",
-        "writer": ""
-    },
-    {
-        "bangla": "জোর যার মুল্লুক তার । ",
-        "english": "Might is right .",
-        "writer": ""
-    },
-    {
-        "bangla": "অর্থই অনর্থের মূল। ",
-        "english": "Money is the root of all evils.",
-        "writer": ""
-    },
-    {
-        "bangla": "প্রয়োজনই আবিষ্কারের প্রসূতি। ",
-        "english": "Necessity is the mother of invention.",
-        "writer": ""
-    },
-    {
-        "bangla": "অভাবে স্বভাব নষ্ট। ",
-        "english": "Necessity knows no law.",
-        "writer": ""
-    },
-    {
-        "bangla": "কারও পৌষ মাস, কারও সর্বনাশ। ",
-        "english": "Nero fiddles while Rome burns.",
-        "writer": ""
-    },
-    {
-        "bangla": "যার নুন খাও তার গুন গাও । ",
-        "english": "Be grateful to your patron.",
-        "writer": ""
-    },
-    {
-        "bangla": "চাঁদেও কলঙ্ক আছে । ",
-        "english": "No rose without thorns .",
-        "writer": ""
-    },
-    {
-        "bangla": "কারণ বিনা কার্য হয় না। ",
-        "english": "No smoke without fire.",
-        "writer": ""
-    },
-    {
-        "bangla": "মানুষ মাত্রই ভুল হয়। ",
-        "english": "None but a fool is always right .",
-        "writer": ""
-    },
-    {
-        "bangla": "কারন বিনা কার্য হয় না । ",
-        "english": "There is no smoke without fire.",
-        "writer": ""
-    },
-    {
-        "bangla": "ঠেলার নাম বাবাজি। ",
-        "english": "Nothing like force.",
-        "writer": ""
-    },
-    {
-        "bangla": "চুরি-বিদ্যা বড় বিদ্যা যদি না পড়ে ধরা। ",
-        "english": "Nothing like stealing if it goes undetected.",
-        "writer": ""
-    },
-    {
-        "bangla": "আভাগা যেদিকে চায়, সাগর শুকিয়ে যায়। ",
-        "english": "Once unlucky, always unlucky.",
-        "writer": ""
-    },
-    {
-        "bangla": "উদোর পিণ্ডি বুধোর ঘাড়ে। ",
-        "english": "One is punished for another's sin.",
-        "writer": ""
-    },
-    {
-        "bangla": "একটা মিথ্যা ঢাকতে দশটা মিথ্যা বলতে হয়। ",
-        "english": "One lie makes many.",
-        "writer": ""
-    },
-    {
-        "bangla": "কাঁটা দিয়ে কাঁটা তুলতে হয় । ",
-        "english": "One nail drives out another .",
-        "writer": ""
-    },
-    {
-        "bangla": "এক মাঘে শীত যায় না। ",
-        "english": "Nothing ends for ever.",
-        "writer": ""
-    },
-    {
-        "bangla": "অসীর চেয়ে মসি বড়",
-        "english": "one’s own things are the best.",
-        "writer": ""
-    },
-    {
-        "bangla": "সবুরে মেওয়া ফলে। ",
-        "english": "Patience has its reward.",
-        "writer": ""
-    },
-    {
-        "bangla": "বজ্র আঁটুনি ফস্কা গেরো । ",
-        "english": "Penny wise, pound foolish .",
-        "writer": ""
-    },
-    {
-        "bangla": "যা রটে তা কিছু তো বটে। ",
-        "english": "Rumour has some element of truth in it.",
-        "writer": ""
-    },
-    {
-        "bangla": "সাবধানের মার নেই। ",
-        "english": "Safe bind, safe find .",
-        "writer": ""
-    },
-    {
-        "bangla": "মৌনতাই সম্মতির লক্ষণ। ",
-        "english": "Silence gives consent.",
-        "writer": ""
-    },
-    {
-        "bangla": "ওস্তাদের মার শেষ রাতে। ",
-        "english": "The most expert person start at last.",
-        "writer": ""
-    },
-    {
-        "bangla": "চরিত্রই মানব জীবনের সর্বশ্রেষ্ঠ সম্পদ। ",
-        "english": "Character is the best wealth in a man’s life.",
-        "writer": ""
-    },
-    {
-        "bangla": "ভূতের মুখে রাম রাম। ",
-        "english": "The devil listening to the Scriptures.",
-        "writer": ""
-    },
-    {
-        "bangla": "আলালের ঘরের দুলাল। ",
-        "english": "The spoilt child of a rich parent.",
-        "writer": ""
-    },
-    {
-        "bangla": "ভাবিয়া করিও কাজ। ",
-        "english": "Look before you leap",
-        "writer": ""
-    }
-]
+{
+    "versionCode": 1,
+    "cancellable": false,
+    "url": "http://tiny.cc/BuySellBD",
+    "data_version": 1,
+    "probad": [
+        {
+            "bangla": "নাচতে না জানলে উঠোন বাঁকা। ",
+            "english": "A bad workman quarrels with his tools.",
+            "writer": ""
+        },
+        {
+            "bangla": "যত গর্জে তত বর্ষে না।",
+            "english": "A barking dog never or seldom bites.",
+            "writer": ""
+        },
+        {
+            "bangla": "মাথা নেই তার মাথাব্যথা।",
+            "english": "A beggar cannot be a bankrupt.",
+            "writer": ""
+        },
+        {
+            "bangla": "নেংটার নেই বাটপাড়ের ভয়। ",
+            "english": "A beggar may sing before a pick-pocket.",
+            "writer": ""
+        },
+        {
+            "bangla": "অপদার্থ যেখান থেকে শুরু করে সেখানেই ফিরে আসে।",
+            "english": "A bad penny always turns up.",
+            "writer": ""
+        },
+        {
+            "bangla": "হাতের জিনিস ফেলে দূরের জিনিস নিতে নেই। ",
+            "english": "A bird in the hand is worth two in the bush.",
+            "writer": ""
+        },
+        {
+            "bangla": "বিনা মেঘে বজ্রপাত। ",
+            "english": "A bolt from the blue.",
+            "writer": ""
+        },
+        {
+            "bangla": "তর্জনকারী বা ষন্ডা সব সময়ই কাপুরুষ। ",
+            "english": "A bully is always a cow.",
+            "writer": ""
+        },
+        {
+            "bangla": "ঘর-পোড়া গরু সিন্দুরে মেঘ দেখলে ভয় পায়।",
+            "english": "A burnt child dreads the fire or Once bitten, twice shy.",
+            "writer": ""
+        },
+        {
+            "bangla": "কই মাছের প্রাণ বড়ই শক্ত। ",
+            "english": "A cat has nine lives.",
+            "writer": ""
+        },
+        {
+            "bangla": "সোজা আঙ্গুলে ঘি ওঠে না। ",
+            "english": "A cat in gloves catches no mice.",
+            "writer": ""
+        },
+        {
+            "bangla": "আপন গাঁয়ে কুকুর রাজা। ",
+            "english": "A cock is always bold on its own dunghill .",
+            "writer": ""
+        },
+        {
+            "bangla": "যতক্ষণ শ্বাস, ততকক্ষণ আঁশ। ",
+            "english": "A drawing man catches or clutches at a straw .",
+            "writer": ""
+        },
+        {
+            "bangla": "বোকার কাছে টাকা থাকে না। ",
+            "english": "A fool and his money are soon parted .",
+            "writer": ""
+        },
+        {
+            "bangla": "অসময়ের বন্ধুই প্রকৃত বন্ধু। ",
+            "english": "A friend in need is a friend in deed.",
+            "writer": ""
+        },
+        {
+            "bangla": "ভাত ছড়ালে কাকের অভাব হয় না। ",
+            "english": "A full purse never lacks friends.",
+            "writer": ""
+        },
+        {
+            "bangla": "টাকায় বাঘের দুধ মেলে। ",
+            "english": "A golden key can open any door.",
+            "writer": ""
+        },
+        {
+            "bangla": "স্বামী ভালো হলে স্ত্রীও ভালো হয়। ",
+            "english": "A good jack makes a good jill .",
+            "writer": ""
+        },
+        {
+            "bangla": "ঠাকুর ঘরে কে, আমি তো কলা খাইনি। ",
+            "english": "A guilty mind is always suspicious.",
+            "writer": ""
+        },
+        {
+            "bangla": "পকেটে টাকা থাকলে মনও ভালো থাকে। ",
+            "english": "A heavy purse makes a light heart.",
+            "writer": ""
+        },
+        {
+            "bangla": "একাই একশো। ",
+            "english": "A host in himself.",
+            "writer": ""
+        },
+        {
+            "bangla": "নেবু কচলালে তেতো হয়। ",
+            "english": "A jest driven hard, loses its point.",
+            "writer": ""
+        },
+        {
+            "bangla": "আজ বাদশা কাল ফকির। ",
+            "english": "A king today is a beggar tomorrow.",
+            "writer": ""
+        },
+        {
+            "bangla": "অল্পবিদ্যা ভয়ংকরী। ",
+            "english": "A little learning is a dangerous thing.",
+            "writer": ""
+        },
+        {
+            "bangla": "পাগলে কী না বলে, ছাগলে কী না খায়। ",
+            "english": "A mad man and a animal have no difference.",
+            "writer": ""
+        },
+        {
+            "bangla": "সঙ্গ দেখে লোক চেনা যায় । ",
+            "english": "A man is known by the company he keeps .",
+            "writer": ""
+        },
+        {
+            "bangla": "যে রক্ষক সেই ভক্ষক । ",
+            "english": "A poacher turned gamekeeper .",
+            "writer": ""
+        },
+        {
+            "bangla": "চোরে শোনে না ধর্মের কাহিনী ।",
+            "english": "A rogue is deaf to all good .",
+            "writer": ""
+        },
+        {
+            "bangla": "মনে বিষ, মুখে মধু",
+            "english": "A serpent under the flower.",
+            "writer": ""
+        },
+        {
+            "bangla": "কাঁঠালের আমসত্ত্ব। ",
+            "english": "A square peg in a round hole (An Impossibility).",
+            "writer": ""
+        },
+        {
+            "bangla": "সময়ের এক ফোঁড় অসময়ের দশ ফোঁড়। ",
+            "english": "A stitch in time saves nine.",
+            "writer": "",
+        },
+        {
+            "bangla": "বার মাসে তের পার্বণ। ",
+            "english": "A succession of festivities all the year round.",
+            "writer": ""
+        },
+        {
+            "bangla": "লোভে পাপ পাপে মৃত্যু । ",
+            "english": "A varice begets sin, sin begets death .",
+            "writer": ""
+        },
+        {
+            "bangla": "অপেক্ষার সময় শেষ হয় না । ",
+            "english": "A watched pot never boils .",
+            "writer": ""
+        },
+        {
+            "bangla": "হিতে বিপরীত । ",
+            "english": "Adversity often leads to prosperity .",
+            "writer": ""
+        },
+        {
+            "bangla": "মেঘ দেখে করিসনে ভয়,আড়ালে তার সূর্য হাসে ।",
+            "english": "After clouds comes fair weather.",
+            "writer": ""
+        },
+        {
+            "bangla": "চোর পালালে বুদ্ধি বাড়ে। ",
+            "english": "After death comes the doctor .",
+            "writer": ""
+        },
+        {
+            "bangla": "নুন আনতে পান্তা ফুরায়। ",
+            "english": "After meat comes mustard .",
+            "writer": ""
+        },
+        {
+            "bangla": "যত দোষ নন্দ ঘোষ। ",
+            "english": "All are blaming nobody",
+            "writer": ""
+        },
+        {
+            "bangla": "অতি লোভে তাঁতি নষ্ট। ",
+            "english": "Grasp all, lose all",
+            "writer": ""
+        },
+        {
+            "bangla": "চকচক করলেই সোনা হয় না। ",
+            "english": "All that glitters is not gold.",
+            "writer": ""
+        },
+        {
+            "bangla": "পুরোনো চাল ভাতে বাড়ে। ",
+            "english": "All that is old is not bad.",
+            "writer": ""
+        },
+        {
+            "bangla": "সবুরে মেওয়া ফলে। ",
+            "english": "Patience is bitter but its fruit is sweet.",
+            "writer": ""
+        },
+        {
+            "bangla": "যে সহে সে রহে; ",
+            "english": "All things come to him who waits .",
+            "writer": ""
+        },
+        {
+            "bangla": "সব ভালো তার, শেষ ভালো যার। ",
+            "english": "All well that ends well .",
+            "writer": ""
+        },
+        {
+            "bangla": "অলস মস্তিষ্ক শয়তানের কারখানা। ",
+            "english": "An idle brain is the devil’s workshop .",
+            "writer": ""
+        },
+        {
+            "bangla": "বুদ্ধির চেয়ে বিচক্ষণতা ভালো । ",
+            "english": "An ounce of discretion is worth a pound of wit .",
+            "writer": ""
+        },
+        {
+            "bangla": "প্রতিকারের চেয়ে প্রতিরোধ ভালো । ",
+            "english": "An ounce of prevention is worth a pound of cure .",
+            "writer": ""
+        },
+        {
+            "bangla": "যেমন গাছ, তার তেমনি ফল। ",
+            "english": "As is the tree, so is the fruit.",
+            "writer": ""
+        },
+        {
+            "bangla": "ঝোপ বুঝে কোপ মারা । ",
+            "english": "As the wind blows, you must set your sail.",
+            "writer": ""
+        },
+        {
+            "bangla": "যেমন কর্ম তেমন ফল । ",
+            "english": "As you sow so you reap.",
+            "writer": ""
+        },
+        {
+            "bangla": "লোভে পাপ, পাপে মৃত্যু। ",
+            "english": "Avarice begets sin and sin begets death.",
+            "writer": ""
+        },
+        {
+            "bangla": "যত গর্জে তত বর্ষে না । ",
+            "english": "Barking dogs seldom bite .",
+            "writer": ""
+        },
+        {
+            "bangla": "যার নুন খাও তার গুণ গাও। ",
+            "english": "Be true to your salt.",
+            "writer": ""
+        },
+        {
+            "bangla": "দুষ্ট গরুর চেয়ে শূন্য গোয়াল ভালো । ",
+            "english": "Better alone than in evil company",
+            "writer": ""
+        },
+        {
+            "bangla": "একেবারে না হওয়ার চেয়ে দেরিতে হওয়া ভালো । ",
+            "english": "Better late than never .",
+            "writer": ""
+        },
+        {
+            "bangla": "জলে কুমীর, ডাঙায় বাঘ। ",
+            "english": "Between two fires or Between the devil and the deep sea.",
+            "writer": ""
+        },
+        {
+            "bangla": "চোরে চোরে মাসতুতো ভাই । ",
+            "english": "Birds of the same feather flock together.",
+            "writer": ""
+        },
+        {
+            "bangla": "একই গোয়ালের গরু। ",
+            "english": "Birds of the same feather.",
+            "writer": ""
+        },
+        {
+            "bangla": "কয়লা ধুলে ময়লা যায় না । ",
+            "english": "Black will take no other hue .",
+            "writer": ""
+        },
+        {
+            "bangla": "দাঁত থাকতে দাঁতের মর্যাদা জানে না। ",
+            "english": "Blessings are not valued till they are gone.",
+            "writer": ""
+        },
+        {
+            "bangla": "রক্তের টান বড় টান। ",
+            "english": "Blood is thicker than water.",
+            "writer": ""
+        },
+        {
+            "bangla": "গোবরে পদ্মফুল। ",
+            "english": "Blossoms in the dust or Musk in a kennel.",
+            "writer": ""
+        },
+        {
+            "bangla": "দুধ কলা দিয়ে সাপ পোষা। ",
+            "english": "Breed up a crow, and it will pluck your eyes.",
+            "writer": ""
+        },
+        {
+            "bangla": "আঁধার ঘরের মানিক। ",
+            "english": "Bright gem in a dark cave.",
+            "writer": ""
+        },
+        {
+            "bangla": "আকাশকুসুম কল্পণা করা। ",
+            "english": "Build castles in the air.",
+            "writer": ""
+        },
+        {
+            "bangla": "নিজের নাক কেটে পরের যাত্রা ভঙ্গ করা। ",
+            "english": "Burn not your house to fright the mouse away .",
+            "writer": ""
+        },
+        {
+            "bangla": "তেলা মাথায় তেল দেওয়া । ",
+            "english": "Carry coal to new castle .",
+            "writer": ""
+        },
+        {
+            "bangla": "আগে ঘর তারপর পর",
+            "english": "Charity begins at home.",
+            "writer": ""
+        },
+        {
+            "bangla": "সস্তার তিন অবস্থা। ",
+            "english": "Cheap goods are dear in the long run.",
+            "writer": ""
+        },
+        {
+            "bangla": "ছেলের হাতের মোয়া। ",
+            "english": "Child's plaything.",
+            "writer": ""
+        },
+        {
+            "bangla": "বুড়ো শালিকের ঘাড়ে রোঁ। ",
+            "english": "Childish behavior of an old man .",
+            "writer": ""
+        },
+        {
+            "bangla": "ভালো হতে পয়সা লাগে না । ",
+            "english": "Civility/courtesy costs nothing .",
+            "writer": ""
+        },
+        {
+            "bangla": "গাছে কাঁঠাল গোঁফে তেল;",
+            "english": "Count (to) chickens till they are hatched .",
+            "writer": ""
+        },
+        {
+            "bangla": "আয় বুঝে ব্যয় করা। ",
+            "english": "Cut your coat according to your cloth.",
+            "writer": ""
+        },
+        {
+            "bangla": "বিপদ একাকী আসে না । ",
+            "english": "Danger never comes alone .",
+            "writer": ""
+        },
+        {
+            "bangla": "যেখানে বাঘের ভয়, সেখানেই সন্ধ্যা হয়। ",
+            "english": "Danger often comes where danger is feared.",
+            "writer": ""
+        },
+        {
+            "bangla": "মরণকালে ঔষুধ নাই। ",
+            "english": "Death defies doctors.",
+            "writer": ""
+        },
+        {
+            "bangla": "মৃত্যু বলে কয়ে আসে না। ",
+            "english": "Death keeps no calendar.",
+            "writer": ""
+        },
+        {
+            "bangla": "যেমনি বুনো ওল তেমনি বাঘা তেঁতুল । ",
+            "english": "Desperate diseases must have desperate remedies .",
+            "writer": ""
+        },
+        {
+            "bangla": "রতনে রতন চেনে । ",
+            "english": "Diamond cuts diamond .",
+            "writer": ""
+        },
+        {
+            "bangla": "পরিশ্রমই সৌভাগ্যের মূল। ",
+            "english": "Diligence is the mother of good luck.",
+            "writer": ""
+        },
+        {
+            "bangla": "মায়ের কাছে মামা বাড়ির গল্প করো না। ",
+            "english": "Do not teach your grandmother to such egg.",
+            "writer": ""
+        },
+        {
+            "bangla": "মন্ত্রের সাধন কিংবা শরীর পতন;",
+            "english": "to try one’s utmost.",
+            "writer": ""
+        },
+        {
+            "bangla": "এক লাফেই তালগাছে ওঠা যায় না। ",
+            "english": "Don't run before you can walk.",
+            "writer": ""
+        },
+        {
+            "bangla": "ছেড়ে দে মা কেঁদে বাঁচি। ",
+            "english": "Don't nag me, and leave me in peace.",
+            "writer": ""
+        },
+        {
+            "bangla": "গাছে কাঁঠাল গোঁফে তেল দিওনা । ",
+            "english": "Don’t count your chickens before they are hatched .",
+            "writer": ""
+        },
+        {
+            "bangla": "বলা সহজ, করা কঠিন । ",
+            "english": "Easier said than done.",
+            "writer": ""
+        },
+        {
+            "bangla": "দেওয়ালেরও কান আছে। ",
+            "english": "Even walls have ears.",
+            "writer": ""
+        },
+        {
+            "bangla": "দুঃখের পরে সুখ আসে  ",
+            "english": "Every cloud has silver shining .",
+            "writer": ""
+        },
+        {
+            "bangla": "চাচা আপন প্রাণ বাঁচা। ",
+            "english": "Every man is for himself.",
+            "writer": ""
+        },
+        {
+            "bangla": "পাপ ছাড়ে না বাপকে । ",
+            "english": "Every sin carries its own punishment .",
+            "writer": ""
+        },
+        {
+            "bangla": "ঠেখে শেখা আর দেখে শেখা। ",
+            "english": "Experience teaches better than wisdom.",
+            "writer": ""
+        },
+        {
+            "bangla": "ব্যর্থতাই সাফল্যের চাবি স্তম্ভস্বরূপ।  ",
+            "english": "Failure is the pillar of success .",
+            "writer": ""
+        },
+        {
+            "bangla": "যারে দেখতে নারি, তার চলন বাঁকা । ",
+            "english": "Faults are thick where love is thin .",
+            "writer": ""
+        },
+        {
+            "bangla": "গাঁয়ে মানে না আপনি মোড়ল। ",
+            "english": "Fool to others to himself a sage.",
+            "writer": ""
+        },
+        {
+            "bangla": "পরিশ্রমীদের প্রতি ভাগ্য সুপ্রসন্ন । ",
+            "english": "Fortune favors the industrious .",
+            "writer": ""
+        },
+        {
+            "bangla": "কাজের সময় কাজী, কাজ ফুরালে পাজী। ",
+            "english": "Get rid of one who has served the purpose.",
+            "writer": ""
+        },
+        {
+            "bangla": "কান টানলে মাথা আসে । ",
+            "english": "Give the one, the other will follow .",
+            "writer": ""
+        },
+        {
+            "bangla": "পরিশ্রমীদের আল্লাহ সাহায্য করেন। ",
+            "english": "God helps them who help themselves.",
+            "writer": ""
+        },
+        {
+            "bangla": "আপনার চরকায় তেল দাও।",
+            "english": "Grease your own wheel or Mind your own business.",
+            "writer": ""
+        },
+        {
+            "bangla": "নাই মামার চেয়ে কানা মামা ভাল।",
+            "english": "Something is better than nothing.",
+            "writer": ""
+        },
+        {
+            "bangla": "জাতের মেয়ে কালো ভালো নদীর পানি ঘোলা ভালো । ",
+            "english": "A man’s action is more important rather than his appearance",
+            "writer": ""
+        },
+        {
+            "bangla": "নুন আনতে পান্তা ফুরায়। ",
+            "english": "He can hardly keep the wolf from the door.",
+            "writer": ""
+        },
+        {
+            "bangla": "ভাজা মাছটি উলটে খেতে জানে না।",
+            "english": "He poses to be quite simple and innocent.",
+            "writer": ""
+        },
+        {
+            "bangla": "জীবে প্রেম করে যেইজন, সেইজন সেবিছে ঈশ্বর । ",
+            "english": "To love the creatures of God is to pray to God",
+            "writer": ""
+        },
+        {
+            "bangla": "মায়ের পায়ের তলে বেহেস্ত । ",
+            "english": "Heaven lies at the foot of mother .",
+            "writer": ""
+        },
+        {
+            "bangla": "শাক দিয়ে মাছ ঢাকা। ",
+            "english": "Hide in a superficial way.",
+            "writer": ""
+        },
+        {
+            "bangla": "পরিশ্রমই সৌভাগ্যের চাবিকাঠি। ",
+            "english": "Industry is the key to success .",
+            "writer": ""
+        },
+        {
+            "bangla": "এক হাতে তালি বাজে না। ",
+            "english": "It takes two to make a quarrel or battle.",
+            "writer": ""
+        },
+        {
+            "bangla": "দিন আনে, দিন খায়। ",
+            "english": "Living from hand to mouth.",
+            "writer": ""
+        },
+        {
+            "bangla": "ভাবিয়া করিও কাজ, করিয়া ভাবিও না। ",
+            "english": "Look before you leap .",
+            "writer": ""
+        },
+        {
+            "bangla": "মানুষ জন্মগতভাবে স্বাধীন, কিন্তু সর্বত্রই সে শৃঙ্খলিত। ",
+            "english": "Man is born free but everywhere he is in chain .",
+            "writer": ""
+        },
+        {
+            "bangla": "মানুষ বাঁচে তার কর্মে বয়সে নয় । ",
+            "english": "Man live in deeds not in years .",
+            "writer": ""
+        },
+        {
+            "bangla": "দশের লাঠি একের বোঝা। ",
+            "english": "Many a little makes a mickle .",
+            "writer": ""
+        },
+        {
+            "bangla": "দশে মিলে করি কাজ, হারি যিতি নাহি লাজ;",
+            "english": "Many drops make light work .",
+            "writer": ""
+        },
+        {
+            "bangla": "জোর যার মুল্লুক তার । ",
+            "english": "Might is right .",
+            "writer": ""
+        },
+        {
+            "bangla": "অর্থই অনর্থের মূল। ",
+            "english": "Money is the root of all evils.",
+            "writer": ""
+        },
+        {
+            "bangla": "প্রয়োজনই আবিষ্কারের প্রসূতি। ",
+            "english": "Necessity is the mother of invention.",
+            "writer": ""
+        },
+        {
+            "bangla": "অভাবে স্বভাব নষ্ট। ",
+            "english": "Necessity knows no law.",
+            "writer": ""
+        },
+        {
+            "bangla": "কারও পৌষ মাস, কারও সর্বনাশ। ",
+            "english": "Nero fiddles while Rome burns.",
+            "writer": ""
+        },
+        {
+            "bangla": "যার নুন খাও তার গুন গাও । ",
+            "english": "Be grateful to your patron.",
+            "writer": ""
+        },
+        {
+            "bangla": "চাঁদেও কলঙ্ক আছে । ",
+            "english": "No rose without thorns .",
+            "writer": ""
+        },
+        {
+            "bangla": "কারণ বিনা কার্য হয় না। ",
+            "english": "No smoke without fire.",
+            "writer": ""
+        },
+        {
+            "bangla": "মানুষ মাত্রই ভুল হয়। ",
+            "english": "None but a fool is always right .",
+            "writer": ""
+        },
+        {
+            "bangla": "কারন বিনা কার্য হয় না । ",
+            "english": "There is no smoke without fire.",
+            "writer": ""
+        },
+        {
+            "bangla": "ঠেলার নাম বাবাজি। ",
+            "english": "Nothing like force.",
+            "writer": ""
+        },
+        {
+            "bangla": "চুরি-বিদ্যা বড় বিদ্যা যদি না পড়ে ধরা। ",
+            "english": "Nothing like stealing if it goes undetected.",
+            "writer": ""
+        },
+        {
+            "bangla": "আভাগা যেদিকে চায়, সাগর শুকিয়ে যায়। ",
+            "english": "Once unlucky, always unlucky.",
+            "writer": ""
+        },
+        {
+            "bangla": "উদোর পিণ্ডি বুধোর ঘাড়ে। ",
+            "english": "One is punished for another's sin.",
+            "writer": ""
+        },
+        {
+            "bangla": "একটা মিথ্যা ঢাকতে দশটা মিথ্যা বলতে হয়। ",
+            "english": "One lie makes many.",
+            "writer": ""
+        },
+        {
+            "bangla": "কাঁটা দিয়ে কাঁটা তুলতে হয় । ",
+            "english": "One nail drives out another .",
+            "writer": ""
+        },
+        {
+            "bangla": "এক মাঘে শীত যায় না। ",
+            "english": "Nothing ends for ever.",
+            "writer": ""
+        },
+        {
+            "bangla": "অসীর চেয়ে মসি বড়",
+            "english": "one’s own things are the best.",
+            "writer": ""
+        },
+        {
+            "bangla": "সবুরে মেওয়া ফলে। ",
+            "english": "Patience has its reward.",
+            "writer": ""
+        },
+        {
+            "bangla": "বজ্র আঁটুনি ফস্কা গেরো । ",
+            "english": "Penny wise, pound foolish .",
+            "writer": ""
+        },
+        {
+            "bangla": "যা রটে তা কিছু তো বটে। ",
+            "english": "Rumour has some element of truth in it.",
+            "writer": ""
+        },
+        {
+            "bangla": "সাবধানের মার নেই। ",
+            "english": "Safe bind, safe find .",
+            "writer": ""
+        },
+        {
+            "bangla": "মৌনতাই সম্মতির লক্ষণ। ",
+            "english": "Silence gives consent.",
+            "writer": ""
+        },
+        {
+            "bangla": "ওস্তাদের মার শেষ রাতে। ",
+            "english": "The most expert person start at last.",
+            "writer": ""
+        },
+        {
+            "bangla": "চরিত্রই মানব জীবনের সর্বশ্রেষ্ঠ সম্পদ। ",
+            "english": "Character is the best wealth in a man’s life.",
+            "writer": ""
+        },
+        {
+            "bangla": "ভূতের মুখে রাম রাম। ",
+            "english": "The devil listening to the Scriptures.",
+            "writer": ""
+        },
+        {
+            "bangla": "আলালের ঘরের দুলাল। ",
+            "english": "The spoilt child of a rich parent.",
+            "writer": ""
+        },
+        {
+            "bangla": "ভাবিয়া করিও কাজ। ",
+            "english": "Look before you leap",
+            "writer": ""
+        }
+    ]
+}
