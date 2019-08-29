@@ -5,12 +5,6 @@
     "data_version": 1,
     "names": [
         {
-            "number": 0,
-            "arabicName": "الله",
-            "englishPronunciation": "Allah",
-            "englishMeaning": "The Greatest Name"
-        },
-        {
             "number": 1,
             "arabicName": "الرَّحْمَنُ",
             "englishPronunciation": "Ar Rahmaan",
@@ -345,6 +339,264 @@
             "arabicName": "الْحَمِيدُ",
             "englishPronunciation": "Al Hameed",
             "englishMeaning": "The Praised"
+        },
+        {
+            "number": 57,
+            "arabicName": "الْمُحْصِي",
+            "englishPronunciation": "Al Muhsi",
+            "englishMeaning": "The Appraiser"
+        },
+        {
+            "number": 58,
+            "arabicName": "الْمُبْدِئُ",
+            "englishPronunciation": "Al Mubdi",
+            "englishMeaning": "The Originator"
+        },
+        {
+            "number": 59,
+            "arabicName": "الْمُعِيدُ",
+            "englishPronunciation": "Al Mu'eed",
+            "englishMeaning": "The Restorer"
+        },
+        {
+            "number": 60,
+            "arabicName": "الْمُحْيِي",
+            "englishPronunciation": "Al Muhiy",
+            "englishMeaning": "The Giver of life"
+        },
+        {
+            "number": 61,
+            "arabicName": "اَلْمُمِيتُ",
+            "englishPronunciation": "Al Mumeet",
+            "englishMeaning": "The Taker of life"
+        },
+        {
+            "number": 62,
+            "arabicName": "الْحَيُّ",
+            "englishPronunciation": "Al Haiyy",
+            "englishMeaning": "The Ever Living"
+        },
+        {
+            "number": 63,
+            "arabicName": "الْقَيُّومُ",
+            "englishPronunciation": "Al Qayyoom",
+            "englishMeaning": "The Self Existing"
+        },
+        {
+            "number": 64,
+            "arabicName": "الْوَاجِدُ",
+            "englishPronunciation": "Al Waajid",
+            "englishMeaning": "The Finder"
+        },
+        {
+            "number": 65,
+            "arabicName": "الْمَاجِدُ",
+            "englishPronunciation": "Al Maajid",
+            "englishMeaning": "The Glorious"
+        },
+        {
+            "number": 66,
+            "arabicName": "الْواحِدُ",
+            "englishPronunciation": "Al Waahid",
+            "englishMeaning": "The Only One"
+        },
+        {
+            "number": 67,
+            "arabicName": "اَلاَحَدُ",
+            "englishPronunciation": "Al Ahad",
+            "englishMeaning": "The One"
+        },
+        {
+            "number": 68,
+            "arabicName": "الصَّمَدُ",
+            "englishPronunciation": "As Samad",
+            "englishMeaning": "The Supreme Provider"
+        },
+        {
+            "number": 69,
+            "arabicName": "الْقَادِرُ",
+            "englishPronunciation": "Al Qaadir",
+            "englishMeaning": "The Powerful"
+        },
+        {
+            "number": 70,
+            "arabicName": "الْمُقْتَدِرُ",
+            "englishPronunciation": "Al Muqtadir",
+            "englishMeaning": "The Creator of all power"
+        },
+        {
+            "number": 71,
+            "arabicName": "الْمُقَدِّمُ",
+            "englishPronunciation": "Al Muqaddim",
+            "englishMeaning": "The Expediter"
+        },
+        {
+            "number": 72,
+            "arabicName": "الْمُؤَخِّرُ",
+            "englishPronunciation": "Al Mu’akhir",
+            "englishMeaning": "The Delayer"
+        },
+        {
+            "number": 73,
+            "arabicName": "الأوَّلُ",
+            "englishPronunciation": "Al Awwal",
+            "englishMeaning": "The First"
+        },
+        {
+            "number": 74,
+            "arabicName": "الآخِرُ",
+            "englishPronunciation": "Al Aakhir",
+            "englishMeaning": "The Last"
+        },
+        {
+            "number": 75,
+            "arabicName": "الظَّاهِرُ",
+            "englishPronunciation": "Az Zaahir",
+            "englishMeaning": "The Manifest"
+        },
+        {
+            "number": 76,
+            "arabicName": "الْبَاطِنُ",
+            "englishPronunciation": "Al Baatin",
+            "englishMeaning": "The Hidden"
+        },
+        {
+            "number": 77,
+            "arabicName": "الْوَالِي",
+            "englishPronunciation": "Al Waali",
+            "englishMeaning": "The Governor"
+        },
+        {
+            "number": 78,
+            "arabicName": "الْمُتَعَالِي",
+            "englishPronunciation": "Al Muta’ali",
+            "englishMeaning": "The Supreme One"
+        },
+        {
+            "number": 79,
+            "arabicName": "الْبَرُّ",
+            "englishPronunciation": "Al Barr",
+            "englishMeaning": "The Doer of Good"
+        },
+        {
+            "number": 80,
+            "arabicName": "التَّوَابُ",
+            "englishPronunciation": "At Tawwaab",
+            "englishMeaning": "The Guide to Repentence"
+        },
+        {
+            "number": 81,
+            "arabicName": "الْمُنْتَقِمُ",
+            "englishPronunciation": "Al Muntaqim",
+            "englishMeaning": "The Avenger"
+        },
+        {
+            "number": 82,
+            "arabicName": "العَفُوُّ",
+            "englishPronunciation": "Al Afuww",
+            "englishMeaning": "The Forgiver"
+        },
+        {
+            "number": 83,
+            "arabicName": "الرَّؤُوفُ",
+            "englishPronunciation": "Ar Ra’oof",
+            "englishMeaning": "The Clement"
+        },
+        {
+            "number": 84,
+            "arabicName": "مَالِكُ الْمُلْكِ",
+            "englishPronunciation": "Maalik Ul Mulk",
+            "englishMeaning": "The Owner / Soverign of All"
+        },
+        {
+            "number": 85,
+            "arabicName": "ذُوالْجَلاَلِ وَالإكْرَامِ",
+            "englishPronunciation": "Dhu Al Jalaali Wa Al Ikraam",
+            "englishMeaning": "Possessor of Majesty and Bounty"
+        },
+        {
+            "number": 86,
+            "arabicName": "الْمُقْسِطُ",
+            "englishPronunciation": "Al Muqsit",
+            "englishMeaning": "The Equitable One"
+        },
+        {
+            "number": 87,
+            "arabicName": "الْجَامِعُ",
+            "englishPronunciation": "Al Jaami'",
+            "englishMeaning": "The Gatherer"
+        },
+        {
+            "number": 88,
+            "arabicName": "الْغَنِيُّ",
+            "englishPronunciation": "Al Ghaniyy",
+            "englishMeaning": "The Rich One"
+        },
+        {
+            "number": 89,
+            "arabicName": "الْمُغْنِي",
+            "englishPronunciation": "Al Mughi",
+            "englishMeaning": "The Enricher"
+        },
+        {
+            "number": 90,
+            "arabicName": "اَلْمَانِعُ",
+            "englishPronunciation": "Al Maani'",
+            "englishMeaning": "The Preventer of harm"
+        },
+        {
+            "number": 91,
+            "arabicName": "الضَّارَّ",
+            "englishPronunciation": "Ad Daaarr",
+            "englishMeaning": "The Creator of the harmful"
+        },
+        {
+            "number": 92,
+            "arabicName": "النَّافِعُ",
+            "englishPronunciation": "An Naafi’",
+            "englishMeaning": "The Bestower of Benefits"
+        },
+        {
+            "number": 93,
+            "arabicName": "النُّورُ",
+            "englishPronunciation": "An Noor",
+            "englishMeaning": "The Light"
+        },
+        {
+            "number": 94,
+            "arabicName": "الْهَادِي",
+            "englishPronunciation": "Al Haadi",
+            "englishMeaning": "The Guider"
+        },
+        {
+            "number": 95,
+            "arabicName": "الْبَدِيعُ",
+            "englishPronunciation": "Al Badi'",
+            "englishMeaning": "The Originator"
+        },
+        {
+            "number": 96,
+            "arabicName": "اَلْبَاقِي",
+            "englishPronunciation": "Al Baaqi",
+            "englishMeaning": "The Everlasting One"
+        },
+        {
+            "number": 97,
+            "arabicName": "الْوَارِثُ",
+            "englishPronunciation": "Al Waarith",
+            "englishMeaning": "The Inhertior"
+        },
+        {
+            "number": 98,
+            "arabicName": "الرَّشِيدُ",
+            "englishPronunciation": "Ar Rasheed",
+            "englishMeaning": "The Most Righteous Guide"
+        },
+        {
+            "number": 99,
+            "arabicName": "الصَّبُورُ",
+            "englishPronunciation": "As Saboor",
+            "englishMeaning": "The Patient One"
         }
     ]
 }
