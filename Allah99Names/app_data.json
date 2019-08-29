@@ -5,6 +5,12 @@
     "data_version": 1,
     "names": [
         {
+            "number": 0,
+            "arabicName": "الله",
+            "englishPronunciation": "Allah",
+            "englishMeaning": "The Greatest Name"
+        },
+        {
             "number": 1,
             "arabicName": "الرَّحْمَنُ",
             "englishPronunciation": "Ar Rahmaan",
