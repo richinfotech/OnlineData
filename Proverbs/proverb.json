@@ -1,7 +1,7 @@
 {
     "versionCode": 1,
     "cancellable": false,
-    "url": "http://tiny.cc/BuySellBD",
+    "url": "",
     "data_version": 1,
     "probad": [
         {
@@ -157,7 +157,7 @@
         {
             "bangla": "সময়ের এক ফোঁড় অসময়ের দশ ফোঁড়। ",
             "english": "A stitch in time saves nine.",
-            "writer": "",
+            "writer": ""
         },
         {
             "bangla": "বার মাসে তের পার্বণ। ",
