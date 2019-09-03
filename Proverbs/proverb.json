@@ -5,704 +5,724 @@
     "data_version": 1,
     "probad": [
         {
-            "arabicName": "اللَّه",
-            "englishPronunciation": "Allah",
-            "banglaPronunciation": "আল্লাহ",
-            "englishMeaning": "The Greatest Name",
-            "banglaMeaning": "আল্লাহ"
+            "bangla": "নাচতে না জানলে উঠোন বাঁকা। ",
+            "english": "A bad workman quarrels with his tools.",
+            "writer": ""
         },
         {
-            "arabicName": "الرَّحْمَنُ",
-            "englishPronunciation": "Ar Rahmaan",
-            "banglaPronunciation": "আর রাহমান",
-            "englishMeaning": "The Beneficent",
-            "banglaMeaning": "পরম দয়ালু"
+            "bangla": "যত গর্জে তত বর্ষে না।",
+            "english": "A barking dog never or seldom bites.",
+            "writer": ""
         },
         {
-            "arabicName": "الرَّحِيمُ",
-            "englishPronunciation": "Ar Raheem",
-            "banglaPronunciation": "আর-রহী'ম",
-            "englishMeaning": "The Merciful",
-            "banglaMeaning": "অতিশয়-মেহেরবান"
+            "bangla": "মাথা নেই তার মাথাব্যথা।",
+            "english": "A beggar cannot be a bankrupt.",
+            "writer": ""
         },
         {
-            "arabicName": "الْمَلِكُ",
-            "englishPronunciation": "Al Malik",
-            "banglaPronunciation": "আল-মালিক",
-            "englishMeaning": "The King / Eternal Lord",
-            "banglaMeaning": "সর্বকর্তৃত্বময়"
+            "bangla": "নেংটার নেই বাটপাড়ের ভয়। ",
+            "english": "A beggar may sing before a pick-pocket.",
+            "writer": ""
         },
         {
-            "arabicName": "الْقُدُّوسُ",
-            "englishPronunciation": "Al Quddus",
-            "banglaPronunciation": "আল-কুদ্দুস",
-            "englishMeaning": "The Purest",
-            "banglaMeaning": "নিষ্কলুষ, অতি পবিত্র"
+            "bangla": "অপদার্থ যেখান থেকে শুরু করে সেখানেই ফিরে আসে।",
+            "english": "A bad penny always turns up.",
+            "writer": ""
         },
         {
-            "arabicName": "السَّلاَمُ",
-            "englishPronunciation": "As Salaam",
-            "banglaPronunciation": "আস-সালাম",
-            "englishMeaning": "The Source of Peace",
-            "banglaMeaning": "নিরাপত্তা-দানকারী, শান্তি-দানকারী"
+            "bangla": "হাতের জিনিস ফেলে দূরের জিনিস নিতে নেই। ",
+            "english": "A bird in the hand is worth two in the bush.",
+            "writer": ""
         },
         {
-            "arabicName": "الْمُؤْمِنُ",
-            "englishPronunciation": "Al Mu'min",
-            "banglaPronunciation": "আল-মু'মিন",
-            "englishMeaning": "The inspirer of faith",
-            "banglaMeaning": "নিরাপত্তা ও ঈমান দানকারী"
+            "bangla": "বিনা মেঘে বজ্রপাত। ",
+            "english": "A bolt from the blue.",
+            "writer": ""
         },
         {
-            "arabicName": "الْمُهَيْمِنُ",
-            "englishPronunciation": "Al Muhaymin",
-            "banglaPronunciation": "আল-মুহাইমিন",
-            "englishMeaning": "The Guardian",
-            "banglaMeaning": "পরিপূর্ন রক্ষণাবেক্ষণকারী"
+            "bangla": "তর্জনকারী বা ষন্ডা সব সময়ই কাপুরুষ। ",
+            "english": "A bully is always a cow.",
+            "writer": ""
         },
         {
-            "arabicName": "الْعَزِيزُ",
-            "englishPronunciation": "Al Azeez",
-            "banglaPronunciation": "আল-আ'জীজ",
-            "englishMeaning": "The Precious / The Most Mighty",
-            "banglaMeaning": "পরাক্রমশালী, অপরাজেয়"
+            "bangla": "ঘর-পোড়া গরু সিন্দুরে মেঘ দেখলে ভয় পায়।",
+            "english": "A burnt child dreads the fire or Once bitten, twice shy.",
+            "writer": ""
         },
         {
-            "arabicName": "الْجَبَّارُ",
-            "englishPronunciation": "Al Jabbaar",
-            "banglaPronunciation": "আল-জাব্বার",
-            "englishMeaning": "The Compeller",
-            "banglaMeaning": "দুর্নিবার"
+            "bangla": "কই মাছের প্রাণ বড়ই শক্ত। ",
+            "english": "A cat has nine lives.",
+            "writer": ""
         },
         {
-            "arabicName": "الْمُتَكَبِّرُ",
-            "englishPronunciation": "Al Mutakabbir",
-            "banglaPronunciation": "আল-মুতাকাব্বিইর",
-            "englishMeaning": "The Greatest",
-            "banglaMeaning": "নিরঙ্কুশ শ্রেষ্ঠত্বের অধিকারী"
+            "bangla": "সোজা আঙ্গুলে ঘি ওঠে না। ",
+            "english": "A cat in gloves catches no mice.",
+            "writer": ""
         },
         {
-            "arabicName": "الْخَالِقُ",
-            "englishPronunciation": "Al Khaaliq",
-            "banglaPronunciation": "আল-খালিক্ব",
-            "englishMeaning": "The Creator",
-            "banglaMeaning": "সৃষ্টিকর্তা"
+            "bangla": "আপন গাঁয়ে কুকুর রাজা। ",
+            "english": "A cock is always bold on its own dunghill .",
+            "writer": ""
         },
         {
-            "arabicName": "الْبَارِئُ",
-            "englishPronunciation": "Al Baari",
-            "banglaPronunciation": "আল-বারী",
-            "englishMeaning": "The Maker of Order",
-            "banglaMeaning": "সঠিকভাবে সৃষ্টিকারী"
+            "bangla": "যতক্ষণ শ্বাস, ততকক্ষণ আঁশ। ",
+            "english": "A drawing man catches or clutches at a straw .",
+            "writer": ""
         },
         {
-            "arabicName": "الْمُصَوِّرُ",
-            "englishPronunciation": "Al Musawwir",
-            "banglaPronunciation": "আল-মুছউইর",
-            "englishMeaning": "The Shaper of Beauty",
-            "banglaMeaning": "আকৃতি-দানকারী"
+            "bangla": "বোকার কাছে টাকা থাকে না। ",
+            "english": "A fool and his money are soon parted .",
+            "writer": ""
         },
         {
-            "arabicName": "الْغَفَّارُ",
-            "englishPronunciation": "Al Ghaffaar",
-            "banglaPronunciation": "আল-গফ্ফার",
-            "englishMeaning": "The Forgiving",
-            "banglaMeaning": "পরম ক্ষমাশীল"
+            "bangla": "অসময়ের বন্ধুই প্রকৃত বন্ধু। ",
+            "english": "A friend in need is a friend in deed.",
+            "writer": ""
         },
         {
-            "arabicName": "الْقَهَّارُ",
-            "englishPronunciation": "Al Qahhaar",
-            "banglaPronunciation": "আল-ক্বাহার\t",
-            "englishMeaning": "The Subduer",
-            "banglaMeaning": "কঠোর"
+            "bangla": "ভাত ছড়ালে কাকের অভাব হয় না। ",
+            "english": "A full purse never lacks friends.",
+            "writer": ""
         },
         {
-            "arabicName": "الْوَهَّابُ",
-            "englishPronunciation": "Al Wahhaab",
-            "banglaPronunciation": "আল-ওয়াহ্হাব",
-            "englishMeaning": "The Giver of All",
-            "banglaMeaning": "সবকিছু দানকারী"
+            "bangla": "টাকায় বাঘের দুধ মেলে। ",
+            "english": "A golden key can open any door.",
+            "writer": ""
         },
         {
-            "arabicName": "الرَّزَّاقُ",
-            "englishPronunciation": "Ar Razzaaq",
-            "banglaPronunciation": "আর-রজ্জাক্ব",
-            "englishMeaning": "The Sustainer",
-            "banglaMeaning": "রিযকদাতা"
+            "bangla": "স্বামী ভালো হলে স্ত্রীও ভালো হয়। ",
+            "english": "A good jack makes a good jill .",
+            "writer": ""
         },
         {
-            "arabicName": "الْفَتَّاحُ",
-            "englishPronunciation": "Al Fattaah",
-            "banglaPronunciation": "আল ফাত্তাহ",
-            "englishMeaning": "The Opener",
-            "banglaMeaning": "বিজয়দানকারী"
+            "bangla": "ঠাকুর ঘরে কে, আমি তো কলা খাইনি। ",
+            "english": "A guilty mind is always suspicious.",
+            "writer": ""
         },
         {
-            "arabicName": "اَلْعَلِيْمُ",
-            "englishPronunciation": "Al 'Aleem",
-            "banglaPronunciation": "আল-আ'লীম",
-            "englishMeaning": "The Knower of all",
-            "banglaMeaning": "সর্বজ্ঞ\t"
+            "bangla": "পকেটে টাকা থাকলে মনও ভালো থাকে। ",
+            "english": "A heavy purse makes a light heart.",
+            "writer": ""
         },
         {
-            "arabicName": "الْقَابِضُ",
-            "englishPronunciation": "Al Qaabid",
-            "banglaPronunciation": "আল-ক্ববিদ্ব'",
-            "englishMeaning": "The Constrictor",
-            "banglaMeaning": "সংকীর্ণকারী"
+            "bangla": "একাই একশো। ",
+            "english": "A host in himself.",
+            "writer": ""
         },
         {
-            "arabicName": "الْبَاسِطُ",
-            "englishPronunciation": "Al Baasit",
-            "banglaPronunciation": "আল-বাসিত",
-            "englishMeaning": "The Reliever",
-            "banglaMeaning": "প্রশস্থকারী"
+            "bangla": "নেবু কচলালে তেতো হয়। ",
+            "english": "A jest driven hard, loses its point.",
+            "writer": ""
         },
         {
-            "arabicName": "الْخَافِضُ",
-            "englishPronunciation": "Al Khaafid",
-            "banglaPronunciation": "আল খাফেযু",
-            "englishMeaning": "The Abaser",
-            "banglaMeaning": "অবনত দানকারী"
+            "bangla": "আজ বাদশা কাল ফকির। ",
+            "english": "A king today is a beggar tomorrow.",
+            "writer": ""
         },
         {
-            "arabicName": "الرَّافِعُ",
-            "englishPronunciation": "Ar Raafi'",
-            "banglaPronunciation": "আর-রফীই'",
-            "englishMeaning": "The Exalter",
-            "banglaMeaning": "উন্নতকারী"
+            "bangla": "অল্পবিদ্যা ভয়ংকরী। ",
+            "english": "A little learning is a dangerous thing.",
+            "writer": ""
         },
         {
-            "arabicName": "الْمُعِزُّ",
-            "englishPronunciation": "Al Mu'iz",
-            "banglaPronunciation": "আল-মুই'জ্ব",
-            "englishMeaning": "The Bestower of Honour",
-            "banglaMeaning": "সন্মান-দানকারী"
+            "bangla": "পাগলে কী না বলে, ছাগলে কী না খায়। ",
+            "english": "A mad man and a animal have no difference.",
+            "writer": ""
         },
         {
-            "arabicName": "المُذِلُّ",
-            "englishPronunciation": "Al Mudhil",
-            "banglaPronunciation": "আল-মুদ্বি'ল্লু",
-            "englishMeaning": "The Humiliator",
-            "banglaMeaning": "বেইজ্জতকারী"
+            "bangla": "সঙ্গ দেখে লোক চেনা যায় । ",
+            "english": "A man is known by the company he keeps .",
+            "writer": ""
         },
         {
-            "arabicName": "السَّمِيعُ",
-            "englishPronunciation": "As Samee'",
-            "banglaPronunciation": "আস্-সামিই'",
-            "englishMeaning": "The Hearer of all",
-            "banglaMeaning": "সর্বশ্রোতা"
+            "bangla": "যে রক্ষক সেই ভক্ষক । ",
+            "english": "A poacher turned gamekeeper .",
+            "writer": ""
         },
         {
-            "arabicName": "الْبَصِيرُ",
-            "englishPronunciation": "Al Baseer",
-            "banglaPronunciation": "আল-বাছীর",
-            "englishMeaning": "The Seer of all",
-            "banglaMeaning": "সর্ববিষয়-দর্শনকারী"
+            "bangla": "চোরে শোনে না ধর্মের কাহিনী ।",
+            "english": "A rogue is deaf to all good .",
+            "writer": ""
         },
         {
-            "arabicName": "الْحَكَمُ",
-            "englishPronunciation": "Al Hakam",
-            "banglaPronunciation": "আল-হা'কাম",
-            "englishMeaning": "The Judge",
-            "banglaMeaning": "অটল বিচারক"
+            "bangla": "মনে বিষ, মুখে মধু",
+            "english": "A serpent under the flower.",
+            "writer": ""
         },
         {
-            "arabicName": "الْعَدْلُ",
-            "englishPronunciation": "Al 'Adl",
-            "banglaPronunciation": "আল-আ'দল",
-            "englishMeaning": "The Just",
-            "banglaMeaning": "পরিপূর্ণ-ন্যায়বিচারক"
+            "bangla": "কাঁঠালের আমসত্ত্ব। ",
+            "english": "A square peg in a round hole (An Impossibility).",
+            "writer": ""
         },
         {
-            "arabicName": "اللَّطِيفُ",
-            "englishPronunciation": "Al Lateef",
-            "banglaPronunciation": "আল-লাতীফ",
-            "englishMeaning": "The Subtle One",
-            "banglaMeaning": "সকল-গোপন-বিষয়ে-অবগত"
+            "bangla": "সময়ের এক ফোঁড় অসময়ের দশ ফোঁড়। ",
+            "english": "A stitch in time saves nine.",
+            "writer": ""
         },
         {
-            "arabicName": "الْخَبِيرُ",
-            "englishPronunciation": "Al Khabeer",
-            "banglaPronunciation": "আল-খ'বীর",
-            "englishMeaning": "The All Aware",
-            "banglaMeaning": "সকল ব্যাপারে জ্ঞাত"
+            "bangla": "বার মাসে তের পার্বণ। ",
+            "english": "A succession of festivities all the year round.",
+            "writer": ""
         },
         {
-            "arabicName": "الْحَلِيمُ",
-            "englishPronunciation": "Al Haleem",
-            "banglaPronunciation": "আল-হা'লীম",
-            "englishMeaning": "The Forebearing",
-            "banglaMeaning": "অত্যন্ত ধৈর্যশীল"
+            "bangla": "লোভে পাপ পাপে মৃত্যু । ",
+            "english": "A varice begets sin, sin begets death .",
+            "writer": ""
         },
         {
-            "arabicName": "الْعَظِيمُ",
-            "englishPronunciation": "Al 'Azeem",
-            "banglaPronunciation": "আল-আ'জীম",
-            "englishMeaning": "The Maginificent",
-            "banglaMeaning": "সর্বোচ্চ-মর্যাদাশীল"
+            "bangla": "অপেক্ষার সময় শেষ হয় না । ",
+            "english": "A watched pot never boils .",
+            "writer": ""
         },
         {
-            "arabicName": "الْغَفُورُ",
-            "englishPronunciation": "Al Ghafoor",
-            "banglaPronunciation": "আল-গফুর",
-            "englishMeaning": "The Great Forgiver",
-            "banglaMeaning": "পরম ক্ষমাশীল"
+            "bangla": "হিতে বিপরীত । ",
+            "english": "Adversity often leads to prosperity .",
+            "writer": ""
         },
         {
-            "arabicName": "الشَّكُورُ",
-            "englishPronunciation": "Ash Shakoor",
-            "banglaPronunciation": "আশ্-শাকুর",
-            "englishMeaning": "The Rewarder of Thankfulness",
-            "banglaMeaning": "গুনগ্রাহী"
+            "bangla": "মেঘ দেখে করিসনে ভয়,আড়ালে তার সূর্য হাসে ।",
+            "english": "After clouds comes fair weather.",
+            "writer": ""
         },
         {
-            "arabicName": "الْعَلِيُّ",
-            "englishPronunciation": "Al 'Aliyy",
-            "banglaPronunciation": "আল-আ'লিইউ",
-            "englishMeaning": "The Highest",
-            "banglaMeaning": "উচ্চ-মর্যাদাশীল"
+            "bangla": "চোর পালালে বুদ্ধি বাড়ে। ",
+            "english": "After death comes the doctor .",
+            "writer": ""
         },
         {
-            "arabicName": "الْكَبِيرُ",
-            "englishPronunciation": "Al Kabeer",
-            "banglaPronunciation": "আল-কাবিইর",
-            "englishMeaning": "The Greatest",
-            "banglaMeaning": "সুমহান"
+            "bangla": "নুন আনতে পান্তা ফুরায়। ",
+            "english": "After meat comes mustard .",
+            "writer": ""
         },
         {
-            "arabicName": "الْحَفِيظُ",
-            "englishPronunciation": "Al Hafeez",
-            "banglaPronunciation": "আল-হা'ফীজ",
-            "englishMeaning": "The Preserver",
-            "banglaMeaning": "সংরক্ষণকারী"
+            "bangla": "যত দোষ নন্দ ঘোষ। ",
+            "english": "All are blaming nobody",
+            "writer": ""
         },
         {
-            "arabicName": "المُقيِت",
-            "englishPronunciation": "Al Muqeet",
-            "banglaPronunciation": "আল-মুক্বীত",
-            "englishMeaning": "The Nourisher",
-            "banglaMeaning": "সকলের জীবনোপকরণ-দানকারী"
+            "bangla": "অতি লোভে তাঁতি নষ্ট। ",
+            "english": "Grasp all, lose all",
+            "writer": ""
         },
         {
-            "arabicName": "الْحسِيبُ",
-            "englishPronunciation": "Al Haseeb",
-            "banglaPronunciation": "আল-হাসীব",
-            "englishMeaning": "The Reckoner",
-            "banglaMeaning": "হিসাব-গ্রহণকারী"
+            "bangla": "চকচক করলেই সোনা হয় না। ",
+            "english": "All that glitters is not gold.",
+            "writer": ""
         },
         {
-            "arabicName": "الْجَلِيلُ",
-            "englishPronunciation": "Al Jaleel",
-            "banglaPronunciation": "আল-জালীল",
-            "englishMeaning": "The Majestic",
-            "banglaMeaning": "পরম মর্যাদার অধিকারী"
+            "bangla": "পুরোনো চাল ভাতে বাড়ে। ",
+            "english": "All that is old is not bad.",
+            "writer": ""
         },
         {
-            "arabicName": "الْكَرِيمُ",
-            "englishPronunciation": "Al Kareem",
-            "banglaPronunciation": "আল-কারীম",
-            "englishMeaning": "The Generous",
-            "banglaMeaning": "সুমহান দাতা"
+            "bangla": "সবুরে মেওয়া ফলে। ",
+            "english": "Patience is bitter but its fruit is sweet.",
+            "writer": ""
         },
         {
-            "arabicName": "الرَّقِيبُ",
-            "englishPronunciation": "Ar Raqeeb",
-            "banglaPronunciation": "আর-রক্বীব",
-            "englishMeaning": "The Watchful One",
-            "banglaMeaning": "তত্ত্বাবধায়ক"
+            "bangla": "যে সহে সে রহে; ",
+            "english": "All things come to him who waits .",
+            "writer": ""
         },
         {
-            "arabicName": "الْمُجِيبُ",
-            "englishPronunciation": "Al Mujeeb ",
-            "banglaPronunciation": "আল-মুজীব",
-            "englishMeaning": "The Responder to Prayer",
-            "banglaMeaning": "জবাব-দানকারী, কবুলকারী"
+            "bangla": "সব ভালো তার, শেষ ভালো যার। ",
+            "english": "All well that ends well .",
+            "writer": ""
         },
         {
-            "arabicName": "الْوَاسِعُ",
-            "englishPronunciation": "Al Waasi'",
-            "banglaPronunciation": "আল-ওয়াসি'",
-            "englishMeaning": "The All Comprehending",
-            "banglaMeaning": "সর্ব-ব্যাপী, সর্বত্র-বিরাজমান"
+            "bangla": "অলস মস্তিষ্ক শয়তানের কারখানা। ",
+            "english": "An idle brain is the devil’s workshop .",
+            "writer": ""
         },
         {
-            "arabicName": "الْحَكِيمُ",
-            "englishPronunciation": "Al Hakeem",
-            "banglaPronunciation": "আল-হাকীম",
-            "englishMeaning": "The Perfectly Wise",
-            "banglaMeaning": "পরম-প্রজ্ঞাময়"
+            "bangla": "বুদ্ধির চেয়ে বিচক্ষণতা ভালো । ",
+            "english": "An ounce of discretion is worth a pound of wit .",
+            "writer": ""
         },
         {
-            "arabicName": "الْوَدُودُ",
-            "englishPronunciation": "Al Wudood",
-            "banglaPronunciation": "আল-ওয়াদুদ",
-            "englishMeaning": "The Loving One",
-            "banglaMeaning": "(বান্দাদের প্রতি) সদয়"
+            "bangla": "প্রতিকারের চেয়ে প্রতিরোধ ভালো । ",
+            "english": "An ounce of prevention is worth a pound of cure .",
+            "writer": ""
         },
         {
-            "arabicName": "الْمَجِيدُ",
-            "englishPronunciation": "Al Majeed",
-            "banglaPronunciation": "আল-মাজীদ",
-            "englishMeaning": "The Most Glorious One",
-            "banglaMeaning": "সকল-মর্যাদার-অধিকারী"
+            "bangla": "যেমন গাছ, তার তেমনি ফল। ",
+            "english": "As is the tree, so is the fruit.",
+            "writer": ""
         },
         {
-            "arabicName": "الْبَاعِثُ",
-            "englishPronunciation": "Al Baa'ith",
-            "banglaPronunciation": "আল-বাই'ছ'",
-            "englishMeaning": "The Resurrector",
-            "banglaMeaning": "পুনুরুজ্জীবিতকারী"
+            "bangla": "ঝোপ বুঝে কোপ মারা । ",
+            "english": "As the wind blows, you must set your sail.",
+            "writer": ""
         },
         {
-            "arabicName": "الشَّهِيدُ",
-            "englishPronunciation": "Ash Shaheed",
-            "banglaPronunciation": "আশ্-শাহীদ",
-            "englishMeaning": "The Witness",
-            "banglaMeaning": "সর্বজ্ঞ-স্বাক্ষী"
+            "bangla": "যেমন কর্ম তেমন ফল । ",
+            "english": "As you sow so you reap.",
+            "writer": ""
         },
         {
-            "arabicName": "الْحَقُّ",
-            "englishPronunciation": "Al Haqq",
-            "banglaPronunciation": "আল-হা'ক্ব",
-            "englishMeaning": "The Truth",
-            "banglaMeaning": "পরম সত্য"
+            "bangla": "লোভে পাপ, পাপে মৃত্যু। ",
+            "english": "Avarice begets sin and sin begets death.",
+            "writer": ""
         },
         {
-            "arabicName": "الْوَكِيلُ",
-            "englishPronunciation": "Al Wakeel",
-            "banglaPronunciation": "আল-ওয়াকিল",
-            "englishMeaning": "The Trustee",
-            "banglaMeaning": "পরম নির্ভরযোগ্য কর্ম-সম্পাদনকারী"
+            "bangla": "যত গর্জে তত বর্ষে না । ",
+            "english": "Barking dogs seldom bite .",
+            "writer": ""
         },
         {
-            "arabicName": "الْقَوِيُّ",
-            "englishPronunciation": "Al Qawiyy",
-            "banglaPronunciation": "আল-ক্বউইউ",
-            "englishMeaning": "The Possessor of all strength",
-            "banglaMeaning": "পরম-শক্তির-অধিকারী"
+            "bangla": "যার নুন খাও তার গুণ গাও। ",
+            "english": "Be true to your salt.",
+            "writer": ""
         },
         {
-            "arabicName": "الْمَتِينُ",
-            "englishPronunciation": "Al Mateen",
-            "banglaPronunciation": "আল-মাতীন",
-            "englishMeaning": "The Forceful",
-            "banglaMeaning": "সুদৃঢ়"
+            "bangla": "দুষ্ট গরুর চেয়ে শূন্য গোয়াল ভালো । ",
+            "english": "Better alone than in evil company",
+            "writer": ""
         },
         {
-            "arabicName": "الْوَلِيُّ",
-            "englishPronunciation": "Al Waliyy",
-            "banglaPronunciation": "আল-ওয়ালিইউ",
-            "englishMeaning": "The Protector",
-            "banglaMeaning": "অভিভাবক ও সাহায্যকারী"
+            "bangla": "একেবারে না হওয়ার চেয়ে দেরিতে হওয়া ভালো । ",
+            "english": "Better late than never .",
+            "writer": ""
         },
         {
-            "arabicName": "الْحَمِيدُ",
-            "englishPronunciation": "Al Hameed",
-            "banglaPronunciation": "আল-হা'মীদ",
-            "englishMeaning": "The Praised",
-            "banglaMeaning": "সকল প্রশংসার অধিকারী"
+            "bangla": "জলে কুমীর, ডাঙায় বাঘ। ",
+            "english": "Between two fires or Between the devil and the deep sea.",
+            "writer": ""
         },
         {
-            "arabicName": "الْمُحْصِي",
-            "englishPronunciation": "Al Muhsi",
-            "banglaPronunciation": "আল-মুহছী",
-            "englishMeaning": "The Appraiser",
-            "banglaMeaning": "সকল সৃষ্টির ব্যপারে অবগত"
+            "bangla": "চোরে চোরে মাসতুতো ভাই । ",
+            "english": "Birds of the same feather flock together.",
+            "writer": ""
         },
         {
-            "arabicName": "الْمُبْدِئُ",
-            "englishPronunciation": "Al Mubdi",
-            "banglaPronunciation": "আল-মুব্দি'",
-            "englishMeaning": "The Originator",
-            "banglaMeaning": "প্রথমবার-সৃষ্টিকর্তা"
+            "bangla": "একই গোয়ালের গরু। ",
+            "english": "Birds of the same feather.",
+            "writer": ""
         },
         {
-            "arabicName": "الْمُعِيدُ",
-            "englishPronunciation": "Al Mu'eed",
-            "banglaPronunciation": "আল-মুঈ'দ",
-            "englishMeaning": "The Restorer",
-            "banglaMeaning": "পুনরায়-সৃষ্টিকর্তা\t"
+            "bangla": "কয়লা ধুলে ময়লা যায় না । ",
+            "english": "Black will take no other hue .",
+            "writer": ""
         },
         {
-            "arabicName": "الْمُحْيِي",
-            "englishPronunciation": "Al Muhiy",
-            "banglaPronunciation": "আল-মুহ'য়ী",
-            "englishMeaning": "The Giver of life",
-            "banglaMeaning": "জীবন-দানকারী"
+            "bangla": "দাঁত থাকতে দাঁতের মর্যাদা জানে না। ",
+            "english": "Blessings are not valued till they are gone.",
+            "writer": ""
         },
         {
-            "arabicName": "اَلْمُمِيتُ",
-            "englishPronunciation": "Al Mumeet",
-            "banglaPronunciation": "আল-মুমীত",
-            "englishMeaning": "The Taker of life",
-            "banglaMeaning": "মৃত্যু-দানকারী"
+            "bangla": "রক্তের টান বড় টান। ",
+            "english": "Blood is thicker than water.",
+            "writer": ""
         },
         {
-            "arabicName": "الْحَيُّ",
-            "englishPronunciation": "Al Haiyy",
-            "banglaPronunciation": "আল-হাইয়্যু",
-            "englishMeaning": "The Ever Living",
-            "banglaMeaning": "চিরঞ্জীব"
+            "bangla": "গোবরে পদ্মফুল। ",
+            "english": "Blossoms in the dust or Musk in a kennel.",
+            "writer": ""
         },
         {
-            "arabicName": "الْقَيُّومُ",
-            "englishPronunciation": "Al Qayyoom",
-            "banglaPronunciation": "আল-ক্বাইয়্যুম",
-            "englishMeaning": "The Self Existing",
-            "banglaMeaning": "সমস্তকিছুর ধারক ও সংরক্ষণকারী"
+            "bangla": "দুধ কলা দিয়ে সাপ পোষা। ",
+            "english": "Breed up a crow, and it will pluck your eyes.",
+            "writer": ""
         },
         {
-            "arabicName": "الْوَاجِدُ",
-            "englishPronunciation": "Al Waajid",
-            "banglaPronunciation": "আল-ওয়াজিদ",
-            "englishMeaning": "The Finder",
-            "banglaMeaning": "অফুরন্ত ভান্ডারের অধিকারী"
+            "bangla": "আঁধার ঘরের মানিক। ",
+            "english": "Bright gem in a dark cave.",
+            "writer": ""
         },
         {
-            "arabicName": "الْمَاجِدُ",
-            "englishPronunciation": "Al Maajid",
-            "banglaPronunciation": "আল-মাজিদ",
-            "englishMeaning": "The Glorious",
-            "banglaMeaning": "শ্রেষ্ঠত্বের অধিকারী"
+            "bangla": "আকাশকুসুম কল্পণা করা। ",
+            "english": "Build castles in the air.",
+            "writer": ""
         },
         {
-            "arabicName": "الْواحِدُ",
-            "englishPronunciation": "Al Waahid",
-            "banglaPronunciation": "আল-ওয়াহি'দ",
-            "englishMeaning": "The Only One",
-            "banglaMeaning": "এক ও অদ্বিতীয়"
+            "bangla": "নিজের নাক কেটে পরের যাত্রা ভঙ্গ করা। ",
+            "english": "Burn not your house to fright the mouse away .",
+            "writer": ""
         },
         {
-            "arabicName": "اَلاَحَدُ",
-            "englishPronunciation": "Al Ahad",
-            "banglaPronunciation": "আল আহাদ",
-            "englishMeaning": "The One and only",
-            "banglaMeaning": "এক ও অদ্বিতীয়"
+            "bangla": "তেলা মাথায় তেল দেওয়া । ",
+            "english": "Carry coal to new castle .",
+            "writer": ""
         },
         {
-            "arabicName": "الصَّمَدُ",
-            "englishPronunciation": "As Samad",
-            "banglaPronunciation": "আছ্-ছমাদ",
-            "englishMeaning": "The Supreme Provider",
-            "banglaMeaning": "অমুখাপেক্ষী"
+            "bangla": "আগে ঘর তারপর পর",
+            "english": "Charity begins at home.",
+            "writer": ""
         },
         {
-            "arabicName": "الْقَادِرُ",
-            "englishPronunciation": "Al Qaadir",
-            "banglaPronunciation": "আল-ক্বদির",
-            "englishMeaning": "The Powerful",
-            "banglaMeaning": "সর্বশক্তিমান"
+            "bangla": "সস্তার তিন অবস্থা। ",
+            "english": "Cheap goods are dear in the long run.",
+            "writer": ""
         },
         {
-            "arabicName": "الْمُقْتَدِرُ",
-            "englishPronunciation": "Al Muqtadir",
-            "banglaPronunciation": "আল-মুক্ব্তাদির",
-            "englishMeaning": "The Creator of all power",
-            "banglaMeaning": "নিরঙ্কুশ-সিদ্বান্তের-অধিকারী"
+            "bangla": "ছেলের হাতের মোয়া। ",
+            "english": "Child's plaything.",
+            "writer": ""
         },
         {
-            "arabicName": "الْمُقَدِّمُ",
-            "englishPronunciation": "Al Muqaddim",
-            "banglaPronunciation": "আল-মুক্বদ্দিম",
-            "englishMeaning": "The Expediter",
-            "banglaMeaning": "অগ্রসরকারী"
+            "bangla": "বুড়ো শালিকের ঘাড়ে রোঁ। ",
+            "english": "Childish behavior of an old man .",
+            "writer": ""
         },
         {
-            "arabicName": "الْمُؤَخِّرُ",
-            "englishPronunciation": "Al Mu’akhir",
-            "banglaPronunciation": "আল-মুয়াক্খির",
-            "englishMeaning": "The Delayer",
-            "banglaMeaning": "অবকাশ দানকারী"
+            "bangla": "ভালো হতে পয়সা লাগে না । ",
+            "english": "Civility/courtesy costs nothing .",
+            "writer": ""
         },
         {
-            "arabicName": "الأوَّلُ",
-            "englishPronunciation": "Al Awwal",
-            "banglaPronunciation": "আল-আউয়াল",
-            "englishMeaning": "The First",
-            "banglaMeaning": "অনাদি"
+            "bangla": "গাছে কাঁঠাল গোঁফে তেল;",
+            "english": "Count (to) chickens till they are hatched .",
+            "writer": ""
         },
         {
-            "arabicName": "الآخِرُ",
-            "englishPronunciation": "Al Aakhir",
-            "banglaPronunciation": "আল-আখির",
-            "englishMeaning": "The Last",
-            "banglaMeaning": "অনন্ত, সর্বশেষ"
+            "bangla": "আয় বুঝে ব্যয় করা। ",
+            "english": "Cut your coat according to your cloth.",
+            "writer": ""
         },
         {
-            "arabicName": "الظَّاهِرُ",
-            "englishPronunciation": "Az Zaahir",
-            "banglaPronunciation": "আজ-জ'হির",
-            "englishMeaning": "The Manifest",
-            "banglaMeaning": "সম্পূর্নরূপে-প্রকাশিত"
+            "bangla": "বিপদ একাকী আসে না । ",
+            "english": "Danger never comes alone .",
+            "writer": ""
         },
         {
-            "arabicName": "الْبَاطِنُ",
-            "englishPronunciation": "Al Baatin",
-            "banglaPronunciation": "আল-বাত্বিন",
-            "englishMeaning": "The Hidden",
-            "banglaMeaning": "দৃষ্টি হতে অদৃশ্য"
+            "bangla": "যেখানে বাঘের ভয়, সেখানেই সন্ধ্যা হয়। ",
+            "english": "Danger often comes where danger is feared.",
+            "writer": ""
         },
         {
-            "arabicName": "الْوَالِي",
-            "englishPronunciation": "Al Waali",
-            "banglaPronunciation": "আল-ওয়ালি",
-            "englishMeaning": "The Governor",
-            "banglaMeaning": "সমস্ত-কিছুর-অনিভাব্ক"
+            "bangla": "মরণকালে ঔষুধ নাই। ",
+            "english": "Death defies doctors.",
+            "writer": ""
         },
         {
-            "arabicName": "الْمُتَعَالِي",
-            "englishPronunciation": "Al Muta’ali",
-            "banglaPronunciation": "আল-মুতাআ'লি",
-            "englishMeaning": "The Supreme One",
-            "banglaMeaning": "সৃষ্টির গুনাবলীর উর্দ্ধে"
+            "bangla": "মৃত্যু বলে কয়ে আসে না। ",
+            "english": "Death keeps no calendar.",
+            "writer": ""
         },
         {
-            "arabicName": "الْبَرُّ",
-            "englishPronunciation": "Al Barr",
-            "banglaPronunciation": "আল-বার্",
-            "englishMeaning": "The Doer of Good",
-            "banglaMeaning": "পরম-উপকারী, অনুগ্রহশীল"
+            "bangla": "যেমনি বুনো ওল তেমনি বাঘা তেঁতুল । ",
+            "english": "Desperate diseases must have desperate remedies .",
+            "writer": ""
         },
         {
-            "arabicName": "التَّوَابُ",
-            "englishPronunciation": "At Tawwaab",
-            "banglaPronunciation": "আত্-তাওয়াব",
-            "englishMeaning": "The Guide to Repentence",
-            "banglaMeaning": "তাওবার তাওফিক দানকারী এবং কবুলকারী"
+            "bangla": "রতনে রতন চেনে । ",
+            "english": "Diamond cuts diamond .",
+            "writer": ""
         },
         {
-            "arabicName": "الْمُنْتَقِمُ",
-            "englishPronunciation": "Al Muntaqim",
-            "banglaPronunciation": "আল-মুনতাক্বিম",
-            "englishMeaning": "The Avenger",
-            "banglaMeaning": "প্রতিশোধ-গ্রহণকারী"
+            "bangla": "পরিশ্রমই সৌভাগ্যের মূল। ",
+            "english": "Diligence is the mother of good luck.",
+            "writer": ""
         },
         {
-            "arabicName": "العَفُوُّ",
-            "englishPronunciation": "Al Afuww",
-            "banglaPronunciation": "আল-আ'ফঊ",
-            "englishMeaning": "The Forgiver",
-            "banglaMeaning": "পরম-উদার"
+            "bangla": "মায়ের কাছে মামা বাড়ির গল্প করো না। ",
+            "english": "Do not teach your grandmother to such egg.",
+            "writer": ""
         },
         {
-            "arabicName": "الرَّؤُوفُ",
-            "englishPronunciation": "Ar Ra’oof",
-            "banglaPronunciation": "আর-রউফ",
-            "englishMeaning": "The Clement",
-            "banglaMeaning": "পরম-স্নেহশীল"
+            "bangla": "মন্ত্রের সাধন কিংবা শরীর পতন;",
+            "english": "to try one’s utmost.",
+            "writer": ""
         },
         {
-            "arabicName": "مَالِكُ الْمُلْكِ",
-            "englishPronunciation": "Maalik Ul Mulk",
-            "banglaPronunciation": "মালিকুল-মুলক",
-            "englishMeaning": "The Owner / Soverign of All",
-            "banglaMeaning": "সমগ্র জগতের বাদশাহ্\t"
+            "bangla": "এক লাফেই তালগাছে ওঠা যায় না। ",
+            "english": "Don't run before you can walk.",
+            "writer": ""
         },
         {
-            "arabicName": "ذُوالْجَلاَلِ وَالإكْرَامِ",
-            "englishPronunciation": "Dhu Al Jalaali Wa Al Ikraam",
-            "banglaPronunciation": "যুল-জালালি-ওয়াল-ইকরাম",
-            "englishMeaning": "Possessor of Majesty and Bounty",
-            "banglaMeaning": "মহিমান্বিত ও দয়াবান সত্তা"
+            "bangla": "ছেড়ে দে মা কেঁদে বাঁচি। ",
+            "english": "Don't nag me, and leave me in peace.",
+            "writer": ""
         },
         {
-            "arabicName": "الْمُقْسِطُ",
-            "englishPronunciation": "Al Muqsit",
-            "banglaPronunciation": "আল-মুক্ব্সিত",
-            "englishMeaning": "The Equitable One",
-            "banglaMeaning": "হকদারের হক-আদায়কারী"
+            "bangla": "গাছে কাঁঠাল গোঁফে তেল দিওনা । ",
+            "english": "Don’t count your chickens before they are hatched .",
+            "writer": ""
         },
         {
-            "arabicName": "الْجَامِعُ",
-            "englishPronunciation": "Al Jaami'",
-            "banglaPronunciation": "আল-জামিই'",
-            "englishMeaning": "The Gatherer",
-            "banglaMeaning": "একত্রকারী, সমবেতকারী"
+            "bangla": "বলা সহজ, করা কঠিন । ",
+            "english": "Easier said than done.",
+            "writer": ""
         },
         {
-            "arabicName": "الْغَنِيُّ",
-            "englishPronunciation": "Al Ghaniyy",
-            "banglaPronunciation": "আল-গণিই'",
-            "englishMeaning": "The Rich One",
-            "banglaMeaning": "অমুখাপেক্ষী"
+            "bangla": "দেওয়ালেরও কান আছে। ",
+            "english": "Even walls have ears.",
+            "writer": ""
         },
         {
-            "arabicName": "الْمُغْنِي",
-            "englishPronunciation": "Al Mughi",
-            "banglaPronunciation": "আল-মুগনিই'",
-            "englishMeaning": "The Enricher",
-            "banglaMeaning": "পরম-অভাবমোচনকারী"
+            "bangla": "দুঃখের পরে সুখ আসে  ",
+            "english": "Every cloud has silver shining .",
+            "writer": ""
         },
         {
-            "arabicName": "اَلْمَانِعُ",
-            "englishPronunciation": "Al Maani'",
-            "banglaPronunciation": "আল-মানিই'",
-            "englishMeaning": "The Preventer of harm",
-            "banglaMeaning": "প্রতিহতকারী"
+            "bangla": "চাচা আপন প্রাণ বাঁচা। ",
+            "english": "Every man is for himself.",
+            "writer": ""
         },
         {
-            "arabicName": "الضَّارَّ",
-            "englishPronunciation": "Ad Daaarr",
-            "banglaPronunciation": "আয্-যর",
-            "englishMeaning": "The Creator of the harmful",
-            "banglaMeaning": "ক্ষতিসাধনকারী"
+            "bangla": "পাপ ছাড়ে না বাপকে । ",
+            "english": "Every sin carries its own punishment .",
+            "writer": ""
         },
         {
-            "arabicName": "النَّافِعُ",
-            "englishPronunciation": "An Naafi’",
-            "banglaPronunciation": "আন্-নাফিই'",
-            "englishMeaning": "The Bestower of Benefits",
-            "banglaMeaning": "কল্যাণকারী"
+            "bangla": "ঠেখে শেখা আর দেখে শেখা। ",
+            "english": "Experience teaches better than wisdom.",
+            "writer": ""
         },
         {
-            "arabicName": "النُّورُ",
-            "englishPronunciation": "An Noor",
-            "banglaPronunciation": "আন্-নূর",
-            "englishMeaning": "The Light",
-            "banglaMeaning": "পরম-আলো"
+            "bangla": "ব্যর্থতাই সাফল্যের চাবি স্তম্ভস্বরূপ।  ",
+            "english": "Failure is the pillar of success .",
+            "writer": ""
         },
         {
-            "arabicName": "الْهَادِي",
-            "englishPronunciation": "Al Haadi",
-            "banglaPronunciation": "আল-হাদী",
-            "englishMeaning": "The Guider",
-            "banglaMeaning": "পথ-প্রদর্শক"
+            "bangla": "যারে দেখতে নারি, তার চলন বাঁকা । ",
+            "english": "Faults are thick where love is thin .",
+            "writer": ""
         },
         {
-            "arabicName": "الْبَدِيعُ",
-            "englishPronunciation": "Al Badi'",
-            "banglaPronunciation": "আল-বাদীই'",
-            "englishMeaning": "The Originator",
-            "banglaMeaning": "অতুলনীয়"
+            "bangla": "গাঁয়ে মানে না আপনি মোড়ল। ",
+            "english": "Fool to others to himself a sage.",
+            "writer": ""
         },
         {
-            "arabicName": "اَلْبَاقِي",
-            "englishPronunciation": "Al Baaqi",
-            "banglaPronunciation": "আল-বাক্বী",
-            "englishMeaning": "The Everlasting One",
-            "banglaMeaning": "চিরস্থায়ী, অবিনশ্বর"
+            "bangla": "পরিশ্রমীদের প্রতি ভাগ্য সুপ্রসন্ন । ",
+            "english": "Fortune favors the industrious .",
+            "writer": ""
         },
         {
-            "arabicName": "الْوَارِثُ",
-            "englishPronunciation": "Al Waarith",
-            "banglaPronunciation": "আল-ওয়ারিস'",
-            "englishMeaning": "The Inhertior",
-            "banglaMeaning": "উত্তরাধিকারী"
+            "bangla": "কাজের সময় কাজী, কাজ ফুরালে পাজী। ",
+            "english": "Get rid of one who has served the purpose.",
+            "writer": ""
         },
         {
-            "arabicName": "الرَّشِيدُ",
-            "englishPronunciation": "Ar Rasheed",
-            "banglaPronunciation": "আর-রাশীদ",
-            "englishMeaning": "The Most Righteous Guide",
-            "banglaMeaning": "সঠিক পথ-প্রদর্শক"
+            "bangla": "কান টানলে মাথা আসে । ",
+            "english": "Give the one, the other will follow .",
+            "writer": ""
         },
         {
-            "arabicName": "الصَّبُورُ",
-            "englishPronunciation": "As Saboor",
-            "banglaPronunciation": "আস-সবুর",
-            "englishMeaning": "The Patient One",
-            "banglaMeaning": "অত্যধিক ধৈর্যধারণকারী"
+            "bangla": "পরিশ্রমীদের আল্লাহ সাহায্য করেন। ",
+            "english": "God helps them who help themselves.",
+            "writer": ""
+        },
+        {
+            "bangla": "আপনার চরকায় তেল দাও।",
+            "english": "Grease your own wheel or Mind your own business.",
+            "writer": ""
+        },
+        {
+            "bangla": "নাই মামার চেয়ে কানা মামা ভাল।",
+            "english": "Something is better than nothing.",
+            "writer": ""
+        },
+        {
+            "bangla": "জাতের মেয়ে কালো ভালো নদীর পানি ঘোলা ভালো । ",
+            "english": "A man’s action is more important rather than his appearance",
+            "writer": ""
+        },
+        {
+            "bangla": "নুন আনতে পান্তা ফুরায়। ",
+            "english": "He can hardly keep the wolf from the door.",
+            "writer": ""
+        },
+        {
+            "bangla": "ভাজা মাছটি উলটে খেতে জানে না।",
+            "english": "He poses to be quite simple and innocent.",
+            "writer": ""
+        },
+        {
+            "bangla": "জীবে প্রেম করে যেইজন, সেইজন সেবিছে ঈশ্বর । ",
+            "english": "To love the creatures of God is to pray to God",
+            "writer": ""
+        },
+        {
+            "bangla": "মায়ের পায়ের তলে বেহেস্ত । ",
+            "english": "Heaven lies at the foot of mother .",
+            "writer": ""
+        },
+        {
+            "bangla": "শাক দিয়ে মাছ ঢাকা। ",
+            "english": "Hide in a superficial way.",
+            "writer": ""
+        },
+        {
+            "bangla": "পরিশ্রমই সৌভাগ্যের চাবিকাঠি। ",
+            "english": "Industry is the key to success .",
+            "writer": ""
+        },
+        {
+            "bangla": "এক হাতে তালি বাজে না। ",
+            "english": "It takes two to make a quarrel or battle.",
+            "writer": ""
+        },
+        {
+            "bangla": "দিন আনে, দিন খায়। ",
+            "english": "Living from hand to mouth.",
+            "writer": ""
+        },
+        {
+            "bangla": "ভাবিয়া করিও কাজ, করিয়া ভাবিও না। ",
+            "english": "Look before you leap .",
+            "writer": ""
+        },
+        {
+            "bangla": "মানুষ জন্মগতভাবে স্বাধীন, কিন্তু সর্বত্রই সে শৃঙ্খলিত। ",
+            "english": "Man is born free but everywhere he is in chain .",
+            "writer": ""
+        },
+        {
+            "bangla": "মানুষ বাঁচে তার কর্মে বয়সে নয় । ",
+            "english": "Man live in deeds not in years .",
+            "writer": ""
+        },
+        {
+            "bangla": "দশের লাঠি একের বোঝা। ",
+            "english": "Many a little makes a mickle .",
+            "writer": ""
+        },
+        {
+            "bangla": "দশে মিলে করি কাজ, হারি যিতি নাহি লাজ;",
+            "english": "Many drops make light work .",
+            "writer": ""
+        },
+        {
+            "bangla": "জোর যার মুল্লুক তার । ",
+            "english": "Might is right .",
+            "writer": ""
+        },
+        {
+            "bangla": "অর্থই অনর্থের মূল। ",
+            "english": "Money is the root of all evils.",
+            "writer": ""
+        },
+        {
+            "bangla": "প্রয়োজনই আবিষ্কারের প্রসূতি। ",
+            "english": "Necessity is the mother of invention.",
+            "writer": ""
+        },
+        {
+            "bangla": "অভাবে স্বভাব নষ্ট। ",
+            "english": "Necessity knows no law.",
+            "writer": ""
+        },
+        {
+            "bangla": "কারও পৌষ মাস, কারও সর্বনাশ। ",
+            "english": "Nero fiddles while Rome burns.",
+            "writer": ""
+        },
+        {
+            "bangla": "যার নুন খাও তার গুন গাও । ",
+            "english": "Be grateful to your patron.",
+            "writer": ""
+        },
+        {
+            "bangla": "চাঁদেও কলঙ্ক আছে । ",
+            "english": "No rose without thorns .",
+            "writer": ""
+        },
+        {
+            "bangla": "কারণ বিনা কার্য হয় না। ",
+            "english": "No smoke without fire.",
+            "writer": ""
+        },
+        {
+            "bangla": "মানুষ মাত্রই ভুল হয়। ",
+            "english": "None but a fool is always right .",
+            "writer": ""
+        },
+        {
+            "bangla": "কারন বিনা কার্য হয় না । ",
+            "english": "There is no smoke without fire.",
+            "writer": ""
+        },
+        {
+            "bangla": "ঠেলার নাম বাবাজি। ",
+            "english": "Nothing like force.",
+            "writer": ""
+        },
+        {
+            "bangla": "চুরি-বিদ্যা বড় বিদ্যা যদি না পড়ে ধরা। ",
+            "english": "Nothing like stealing if it goes undetected.",
+            "writer": ""
+        },
+        {
+            "bangla": "আভাগা যেদিকে চায়, সাগর শুকিয়ে যায়। ",
+            "english": "Once unlucky, always unlucky.",
+            "writer": ""
+        },
+        {
+            "bangla": "উদোর পিণ্ডি বুধোর ঘাড়ে। ",
+            "english": "One is punished for another's sin.",
+            "writer": ""
+        },
+        {
+            "bangla": "একটা মিথ্যা ঢাকতে দশটা মিথ্যা বলতে হয়। ",
+            "english": "One lie makes many.",
+            "writer": ""
+        },
+        {
+            "bangla": "কাঁটা দিয়ে কাঁটা তুলতে হয় । ",
+            "english": "One nail drives out another .",
+            "writer": ""
+        },
+        {
+            "bangla": "এক মাঘে শীত যায় না। ",
+            "english": "Nothing ends for ever.",
+            "writer": ""
+        },
+        {
+            "bangla": "অসীর চেয়ে মসি বড়",
+            "english": "one’s own things are the best.",
+            "writer": ""
+        },
+        {
+            "bangla": "সবুরে মেওয়া ফলে। ",
+            "english": "Patience has its reward.",
+            "writer": ""
+        },
+        {
+            "bangla": "বজ্র আঁটুনি ফস্কা গেরো । ",
+            "english": "Penny wise, pound foolish .",
+            "writer": ""
+        },
+        {
+            "bangla": "যা রটে তা কিছু তো বটে। ",
+            "english": "Rumour has some element of truth in it.",
+            "writer": ""
+        },
+        {
+            "bangla": "সাবধানের মার নেই। ",
+            "english": "Safe bind, safe find .",
+            "writer": ""
+        },
+        {
+            "bangla": "মৌনতাই সম্মতির লক্ষণ। ",
+            "english": "Silence gives consent.",
+            "writer": ""
+        },
+        {
+            "bangla": "ওস্তাদের মার শেষ রাতে। ",
+            "english": "The most expert person start at last.",
+            "writer": ""
+        },
+        {
+            "bangla": "চরিত্রই মানব জীবনের সর্বশ্রেষ্ঠ সম্পদ। ",
+            "english": "Character is the best wealth in a man’s life.",
+            "writer": ""
+        },
+        {
+            "bangla": "ভূতের মুখে রাম রাম। ",
+            "english": "The devil listening to the Scriptures.",
+            "writer": ""
+        },
+        {
+            "bangla": "আলালের ঘরের দুলাল। ",
+            "english": "The spoilt child of a rich parent.",
+            "writer": ""
+        },
+        {
+            "bangla": "ভাবিয়া করিও কাজ। ",
+            "english": "Look before you leap",
+            "writer": ""
         }
     ]
 }
