@@ -5,604 +5,704 @@
     "data_version": 1,
     "names": [
         {
-            "number": 0,
             "arabicName": "اللَّه",
             "englishPronunciation": "Allah",
-            "englishMeaning": "The Greatest Name"
+            "banglaPronunciation": "আল্লাহ",
+            "englishMeaning": "The Greatest Name",
+            "banglaMeaning": "আল্লাহ"
         },
         {
-            "number": 1,
             "arabicName": "الرَّحْمَنُ",
             "englishPronunciation": "Ar Rahmaan",
-            "englishMeaning": "The Beneficent"
+            "banglaPronunciation": "আর রাহমান",
+            "englishMeaning": "The Beneficent",
+            "banglaMeaning": "পরম দয়ালু"
         },
         {
-            "number": 2,
             "arabicName": "الرَّحِيمُ",
             "englishPronunciation": "Ar Raheem",
-            "englishMeaning": "The Merciful"
+            "banglaPronunciation": "আর-রহী'ম",
+            "englishMeaning": "The Merciful",
+            "banglaMeaning": "অতিশয়-মেহেরবান"
         },
         {
-            "number": 3,
             "arabicName": "الْمَلِكُ",
             "englishPronunciation": "Al Malik",
-            "englishMeaning": "The King / Eternal Lord"
+            "banglaPronunciation": "আল-মালিক",
+            "englishMeaning": "The King / Eternal Lord",
+            "banglaMeaning": "সর্বকর্তৃত্বময়"
         },
         {
-            "number": 4,
             "arabicName": "الْقُدُّوسُ",
             "englishPronunciation": "Al Quddus",
-            "englishMeaning": "The Purest"
+            "banglaPronunciation": "আল-কুদ্দুস",
+            "englishMeaning": "The Purest",
+            "banglaMeaning": "নিষ্কলুষ, অতি পবিত্র"
         },
         {
-            "number": 5,
             "arabicName": "السَّلاَمُ",
             "englishPronunciation": "As Salaam",
-            "englishMeaning": "The Source of Peace"
+            "banglaPronunciation": "আস-সালাম",
+            "englishMeaning": "The Source of Peace",
+            "banglaMeaning": "নিরাপত্তা-দানকারী, শান্তি-দানকারী"
         },
         {
-            "number": 6,
             "arabicName": "الْمُؤْمِنُ",
             "englishPronunciation": "Al Mu'min",
-            "englishMeaning": "The inspirer of faith"
+            "banglaPronunciation": "আল-মু'মিন",
+            "englishMeaning": "The inspirer of faith",
+            "banglaMeaning": "নিরাপত্তা ও ঈমান দানকারী"
         },
         {
-            "number": 7,
             "arabicName": "الْمُهَيْمِنُ",
             "englishPronunciation": "Al Muhaymin",
-            "englishMeaning": "The Guardian"
+            "banglaPronunciation": "আল-মুহাইমিন",
+            "englishMeaning": "The Guardian",
+            "banglaMeaning": "পরিপূর্ন রক্ষণাবেক্ষণকারী"
         },
         {
-            "number": 8,
             "arabicName": "الْعَزِيزُ",
             "englishPronunciation": "Al Azeez",
-            "englishMeaning": "The Precious / The Most Mighty"
+            "banglaPronunciation": "আল-আ'জীজ",
+            "englishMeaning": "The Precious / The Most Mighty",
+            "banglaMeaning": "পরাক্রমশালী, অপরাজেয়"
         },
         {
-            "number": 9,
             "arabicName": "الْجَبَّارُ",
             "englishPronunciation": "Al Jabbaar",
-            "englishMeaning": "The Compeller"
+            "banglaPronunciation": "আল-জাব্বার",
+            "englishMeaning": "The Compeller",
+            "banglaMeaning": "দুর্নিবার"
         },
         {
-            "number": 10,
             "arabicName": "الْمُتَكَبِّرُ",
             "englishPronunciation": "Al Mutakabbir",
-            "englishMeaning": "The Greatest"
+            "banglaPronunciation": "আল-মুতাকাব্বিইর",
+            "englishMeaning": "The Greatest",
+            "banglaMeaning": "নিরঙ্কুশ শ্রেষ্ঠত্বের অধিকারী"
         },
         {
-            "number": 11,
             "arabicName": "الْخَالِقُ",
             "englishPronunciation": "Al Khaaliq",
-            "englishMeaning": "The Creator"
+            "banglaPronunciation": "আল-খালিক্ব",
+            "englishMeaning": "The Creator",
+            "banglaMeaning": "সৃষ্টিকর্তা"
         },
         {
-            "number": 12,
             "arabicName": "الْبَارِئُ",
             "englishPronunciation": "Al Baari",
-            "englishMeaning": "The Maker of Order"
+            "banglaPronunciation": "আল-বারী",
+            "englishMeaning": "The Maker of Order",
+            "banglaMeaning": "সঠিকভাবে সৃষ্টিকারী"
         },
         {
-            "number": 13,
             "arabicName": "الْمُصَوِّرُ",
             "englishPronunciation": "Al Musawwir",
-            "englishMeaning": "The Shaper of Beauty"
+            "banglaPronunciation": "আল-মুছউইর",
+            "englishMeaning": "The Shaper of Beauty",
+            "banglaMeaning": "আকৃতি-দানকারী"
         },
         {
-            "number": 14,
             "arabicName": "الْغَفَّارُ",
             "englishPronunciation": "Al Ghaffaar",
-            "englishMeaning": "The Forgiving"
+            "banglaPronunciation": "আল-গফ্ফার",
+            "englishMeaning": "The Forgiving",
+            "banglaMeaning": "পরম ক্ষমাশীল"
         },
         {
-            "number": 15,
             "arabicName": "الْقَهَّارُ",
             "englishPronunciation": "Al Qahhaar",
-            "englishMeaning": "The Subduer"
+            "banglaPronunciation": "আল-ক্বাহার\t",
+            "englishMeaning": "The Subduer",
+            "banglaMeaning": "কঠোর"
         },
         {
-            "number": 16,
             "arabicName": "الْوَهَّابُ",
             "englishPronunciation": "Al Wahhaab",
-            "englishMeaning": "The Giver of All"
+            "banglaPronunciation": "আল-ওয়াহ্হাব",
+            "englishMeaning": "The Giver of All",
+            "banglaMeaning": "সবকিছু দানকারী"
         },
         {
-            "number": 17,
             "arabicName": "الرَّزَّاقُ",
             "englishPronunciation": "Ar Razzaaq",
-            "englishMeaning": "The Sustainer"
+            "banglaPronunciation": "আর-রজ্জাক্ব",
+            "englishMeaning": "The Sustainer",
+            "banglaMeaning": "রিযকদাতা"
         },
         {
-            "number": 18,
             "arabicName": "الْفَتَّاحُ",
             "englishPronunciation": "Al Fattaah",
-            "englishMeaning": "The Opener"
+            "banglaPronunciation": "আল ফাত্তাহ",
+            "englishMeaning": "The Opener",
+            "banglaMeaning": "বিজয়দানকারী"
         },
         {
-            "number": 19,
             "arabicName": "اَلْعَلِيْمُ",
             "englishPronunciation": "Al 'Aleem",
-            "englishMeaning": "The Knower of all"
+            "banglaPronunciation": "আল-আ'লীম",
+            "englishMeaning": "The Knower of all",
+            "banglaMeaning": "সর্বজ্ঞ\t"
         },
         {
-            "number": 20,
             "arabicName": "الْقَابِضُ",
             "englishPronunciation": "Al Qaabid",
-            "englishMeaning": "The Constrictor"
+            "banglaPronunciation": "আল-ক্ববিদ্ব'",
+            "englishMeaning": "The Constrictor",
+            "banglaMeaning": "সংকীর্ণকারী"
         },
         {
-            "number": 21,
             "arabicName": "الْبَاسِطُ",
             "englishPronunciation": "Al Baasit",
-            "englishMeaning": "The Reliever"
+            "banglaPronunciation": "আল-বাসিত",
+            "englishMeaning": "The Reliever",
+            "banglaMeaning": "প্রশস্থকারী"
         },
         {
-            "number": 22,
             "arabicName": "الْخَافِضُ",
             "englishPronunciation": "Al Khaafid",
-            "englishMeaning": "The Abaser"
+            "banglaPronunciation": "আল খাফেযু",
+            "englishMeaning": "The Abaser",
+            "banglaMeaning": "অবনত দানকারী"
         },
         {
-            "number": 23,
             "arabicName": "الرَّافِعُ",
             "englishPronunciation": "Ar Raafi'",
-            "englishMeaning": "The Exalter"
+            "banglaPronunciation": "আর-রফীই'",
+            "englishMeaning": "The Exalter",
+            "banglaMeaning": "উন্নতকারী"
         },
         {
-            "number": 24,
             "arabicName": "الْمُعِزُّ",
             "englishPronunciation": "Al Mu'iz",
-            "englishMeaning": "The Bestower of Honour"
+            "banglaPronunciation": "আল-মুই'জ্ব",
+            "englishMeaning": "The Bestower of Honour",
+            "banglaMeaning": "সন্মান-দানকারী"
         },
         {
-            "number": 25,
             "arabicName": "المُذِلُّ",
             "englishPronunciation": "Al Mudhil",
-            "englishMeaning": "The Humiliator"
+            "banglaPronunciation": "আল-মুদ্বি'ল্লু",
+            "englishMeaning": "The Humiliator",
+            "banglaMeaning": "বেইজ্জতকারী"
         },
         {
-            "number": 26,
             "arabicName": "السَّمِيعُ",
             "englishPronunciation": "As Samee'",
-            "englishMeaning": "The Hearer of all"
+            "banglaPronunciation": "আস্-সামিই'",
+            "englishMeaning": "The Hearer of all",
+            "banglaMeaning": "সর্বশ্রোতা"
         },
         {
-            "number": 27,
             "arabicName": "الْبَصِيرُ",
             "englishPronunciation": "Al Baseer",
-            "englishMeaning": "The Seer of all"
+            "banglaPronunciation": "আল-বাছীর",
+            "englishMeaning": "The Seer of all",
+            "banglaMeaning": "সর্ববিষয়-দর্শনকারী"
         },
         {
-            "number": 28,
             "arabicName": "الْحَكَمُ",
             "englishPronunciation": "Al Hakam",
-            "englishMeaning": "The Judge"
+            "banglaPronunciation": "আল-হা'কাম",
+            "englishMeaning": "The Judge",
+            "banglaMeaning": "অটল বিচারক"
         },
         {
-            "number": 29,
             "arabicName": "الْعَدْلُ",
             "englishPronunciation": "Al 'Adl",
-            "englishMeaning": "The Just"
+            "banglaPronunciation": "আল-আ'দল",
+            "englishMeaning": "The Just",
+            "banglaMeaning": "পরিপূর্ণ-ন্যায়বিচারক"
         },
         {
-            "number": 30,
             "arabicName": "اللَّطِيفُ",
             "englishPronunciation": "Al Lateef",
-            "englishMeaning": "The Subtle One"
+            "banglaPronunciation": "আল-লাতীফ",
+            "englishMeaning": "The Subtle One",
+            "banglaMeaning": "সকল-গোপন-বিষয়ে-অবগত"
         },
         {
-            "number": 31,
             "arabicName": "الْخَبِيرُ",
             "englishPronunciation": "Al Khabeer",
-            "englishMeaning": "The All Aware"
+            "banglaPronunciation": "আল-খ'বীর",
+            "englishMeaning": "The All Aware",
+            "banglaMeaning": "সকল ব্যাপারে জ্ঞাত"
         },
         {
-            "number": 32,
             "arabicName": "الْحَلِيمُ",
             "englishPronunciation": "Al Haleem",
-            "englishMeaning": "The Forebearing"
+            "banglaPronunciation": "আল-হা'লীম",
+            "englishMeaning": "The Forebearing",
+            "banglaMeaning": "অত্যন্ত ধৈর্যশীল"
         },
         {
-            "number": 33,
             "arabicName": "الْعَظِيمُ",
             "englishPronunciation": "Al 'Azeem",
-            "englishMeaning": "The Maginificent"
+            "banglaPronunciation": "আল-আ'জীম",
+            "englishMeaning": "The Maginificent",
+            "banglaMeaning": "সর্বোচ্চ-মর্যাদাশীল"
         },
         {
-            "number": 34,
             "arabicName": "الْغَفُورُ",
             "englishPronunciation": "Al Ghafoor",
-            "englishMeaning": "The Great Forgiver"
+            "banglaPronunciation": "আল-গফুর",
+            "englishMeaning": "The Great Forgiver",
+            "banglaMeaning": "পরম ক্ষমাশীল"
         },
         {
-            "number": 35,
             "arabicName": "الشَّكُورُ",
             "englishPronunciation": "Ash Shakoor",
-            "englishMeaning": "The Rewarder of Thankfulness"
+            "banglaPronunciation": "আশ্-শাকুর",
+            "englishMeaning": "The Rewarder of Thankfulness",
+            "banglaMeaning": "গুনগ্রাহী"
         },
         {
-            "number": 36,
             "arabicName": "الْعَلِيُّ",
             "englishPronunciation": "Al 'Aliyy",
-            "englishMeaning": "The Highest"
+            "banglaPronunciation": "আল-আ'লিইউ",
+            "englishMeaning": "The Highest",
+            "banglaMeaning": "উচ্চ-মর্যাদাশীল"
         },
         {
-            "number": 37,
             "arabicName": "الْكَبِيرُ",
             "englishPronunciation": "Al Kabeer",
-            "englishMeaning": "The Greatest"
+            "banglaPronunciation": "আল-কাবিইর",
+            "englishMeaning": "The Greatest",
+            "banglaMeaning": "সুমহান"
         },
         {
-            "number": 38,
             "arabicName": "الْحَفِيظُ",
             "englishPronunciation": "Al Hafeez",
-            "englishMeaning": "The Preserver"
+            "banglaPronunciation": "আল-হা'ফীজ",
+            "englishMeaning": "The Preserver",
+            "banglaMeaning": "সংরক্ষণকারী"
         },
         {
-            "number": 39,
             "arabicName": "المُقيِت",
             "englishPronunciation": "Al Muqeet",
-            "englishMeaning": "The Nourisher"
+            "banglaPronunciation": "আল-মুক্বীত",
+            "englishMeaning": "The Nourisher",
+            "banglaMeaning": "সকলের জীবনোপকরণ-দানকারী"
         },
         {
-            "number": 40,
             "arabicName": "الْحسِيبُ",
             "englishPronunciation": "Al Haseeb",
-            "englishMeaning": "The Reckoner"
+            "banglaPronunciation": "আল-হাসীব",
+            "englishMeaning": "The Reckoner",
+            "banglaMeaning": "হিসাব-গ্রহণকারী"
         },
         {
-            "number": 41,
             "arabicName": "الْجَلِيلُ",
             "englishPronunciation": "Al Jaleel",
-            "englishMeaning": "The Majestic"
+            "banglaPronunciation": "আল-জালীল",
+            "englishMeaning": "The Majestic",
+            "banglaMeaning": "পরম মর্যাদার অধিকারী"
         },
         {
-            "number": 42,
             "arabicName": "الْكَرِيمُ",
             "englishPronunciation": "Al Kareem",
-            "englishMeaning": "The Generous"
+            "banglaPronunciation": "আল-কারীম",
+            "englishMeaning": "The Generous",
+            "banglaMeaning": "সুমহান দাতা"
         },
         {
-            "number": 43,
             "arabicName": "الرَّقِيبُ",
             "englishPronunciation": "Ar Raqeeb",
-            "englishMeaning": "The Watchful One"
+            "banglaPronunciation": "আর-রক্বীব",
+            "englishMeaning": "The Watchful One",
+            "banglaMeaning": "তত্ত্বাবধায়ক"
         },
         {
-            "number": 44,
             "arabicName": "الْمُجِيبُ",
             "englishPronunciation": "Al Mujeeb ",
-            "englishMeaning": "The Responder to Prayer"
+            "banglaPronunciation": "আল-মুজীব",
+            "englishMeaning": "The Responder to Prayer",
+            "banglaMeaning": "জবাব-দানকারী, কবুলকারী"
         },
         {
-            "number": 45,
             "arabicName": "الْوَاسِعُ",
             "englishPronunciation": "Al Waasi'",
-            "englishMeaning": "The All Comprehending"
+            "banglaPronunciation": "আল-ওয়াসি'",
+            "englishMeaning": "The All Comprehending",
+            "banglaMeaning": "সর্ব-ব্যাপী, সর্বত্র-বিরাজমান"
         },
         {
-            "number": 46,
             "arabicName": "الْحَكِيمُ",
             "englishPronunciation": "Al Hakeem",
-            "englishMeaning": "The Perfectly Wise"
+            "banglaPronunciation": "আল-হাকীম",
+            "englishMeaning": "The Perfectly Wise",
+            "banglaMeaning": "পরম-প্রজ্ঞাময়"
         },
         {
-            "number": 47,
             "arabicName": "الْوَدُودُ",
             "englishPronunciation": "Al Wudood",
-            "englishMeaning": "The Loving One"
+            "banglaPronunciation": "আল-ওয়াদুদ",
+            "englishMeaning": "The Loving One",
+            "banglaMeaning": "(বান্দাদের প্রতি) সদয়"
         },
         {
-            "number": 48,
             "arabicName": "الْمَجِيدُ",
             "englishPronunciation": "Al Majeed",
-            "englishMeaning": "The Most Glorious One"
+            "banglaPronunciation": "আল-মাজীদ",
+            "englishMeaning": "The Most Glorious One",
+            "banglaMeaning": "সকল-মর্যাদার-অধিকারী"
         },
         {
-            "number": 49,
             "arabicName": "الْبَاعِثُ",
             "englishPronunciation": "Al Baa'ith",
-            "englishMeaning": "The Resurrector"
+            "banglaPronunciation": "আল-বাই'ছ'",
+            "englishMeaning": "The Resurrector",
+            "banglaMeaning": "পুনুরুজ্জীবিতকারী"
         },
         {
-            "number": 50,
             "arabicName": "الشَّهِيدُ",
             "englishPronunciation": "Ash Shaheed",
-            "englishMeaning": "The Witness"
+            "banglaPronunciation": "আশ্-শাহীদ",
+            "englishMeaning": "The Witness",
+            "banglaMeaning": "সর্বজ্ঞ-স্বাক্ষী"
         },
         {
-            "number": 51,
             "arabicName": "الْحَقُّ",
             "englishPronunciation": "Al Haqq",
-            "englishMeaning": "The Truth"
+            "banglaPronunciation": "আল-হা'ক্ব",
+            "englishMeaning": "The Truth",
+            "banglaMeaning": "পরম সত্য"
         },
         {
-            "number": 52,
             "arabicName": "الْوَكِيلُ",
             "englishPronunciation": "Al Wakeel",
-            "englishMeaning": "The Trustee"
+            "banglaPronunciation": "আল-ওয়াকিল",
+            "englishMeaning": "The Trustee",
+            "banglaMeaning": "পরম নির্ভরযোগ্য কর্ম-সম্পাদনকারী"
         },
         {
-            "number": 53,
             "arabicName": "الْقَوِيُّ",
             "englishPronunciation": "Al Qawiyy",
-            "englishMeaning": "The Possessor of all strength"
+            "banglaPronunciation": "আল-ক্বউইউ",
+            "englishMeaning": "The Possessor of all strength",
+            "banglaMeaning": "পরম-শক্তির-অধিকারী"
         },
         {
-            "number": 54,
             "arabicName": "الْمَتِينُ",
             "englishPronunciation": "Al Mateen",
-            "englishMeaning": "The Forceful"
+            "banglaPronunciation": "আল-মাতীন",
+            "englishMeaning": "The Forceful",
+            "banglaMeaning": "সুদৃঢ়"
         },
         {
-            "number": 55,
             "arabicName": "الْوَلِيُّ",
             "englishPronunciation": "Al Waliyy",
-            "englishMeaning": "The Protector"
+            "banglaPronunciation": "আল-ওয়ালিইউ",
+            "englishMeaning": "The Protector",
+            "banglaMeaning": "অভিভাবক ও সাহায্যকারী"
         },
         {
-            "number": 56,
             "arabicName": "الْحَمِيدُ",
             "englishPronunciation": "Al Hameed",
-            "englishMeaning": "The Praised"
+            "banglaPronunciation": "আল-হা'মীদ",
+            "englishMeaning": "The Praised",
+            "banglaMeaning": "সকল প্রশংসার অধিকারী"
         },
         {
-            "number": 57,
             "arabicName": "الْمُحْصِي",
             "englishPronunciation": "Al Muhsi",
-            "englishMeaning": "The Appraiser"
+            "banglaPronunciation": "আল-মুহছী",
+            "englishMeaning": "The Appraiser",
+            "banglaMeaning": "সকল সৃষ্টির ব্যপারে অবগত"
         },
         {
-            "number": 58,
             "arabicName": "الْمُبْدِئُ",
             "englishPronunciation": "Al Mubdi",
-            "englishMeaning": "The Originator"
+            "banglaPronunciation": "আল-মুব্দি'",
+            "englishMeaning": "The Originator",
+            "banglaMeaning": "প্রথমবার-সৃষ্টিকর্তা"
         },
         {
-            "number": 59,
             "arabicName": "الْمُعِيدُ",
             "englishPronunciation": "Al Mu'eed",
-            "englishMeaning": "The Restorer"
+            "banglaPronunciation": "আল-মুঈ'দ",
+            "englishMeaning": "The Restorer",
+            "banglaMeaning": "পুনরায়-সৃষ্টিকর্তা\t"
         },
         {
-            "number": 60,
             "arabicName": "الْمُحْيِي",
             "englishPronunciation": "Al Muhiy",
-            "englishMeaning": "The Giver of life"
+            "banglaPronunciation": "আল-মুহ'য়ী",
+            "englishMeaning": "The Giver of life",
+            "banglaMeaning": "জীবন-দানকারী"
         },
         {
-            "number": 61,
             "arabicName": "اَلْمُمِيتُ",
             "englishPronunciation": "Al Mumeet",
-            "englishMeaning": "The Taker of life"
+            "banglaPronunciation": "আল-মুমীত",
+            "englishMeaning": "The Taker of life",
+            "banglaMeaning": "মৃত্যু-দানকারী"
         },
         {
-            "number": 62,
             "arabicName": "الْحَيُّ",
             "englishPronunciation": "Al Haiyy",
-            "englishMeaning": "The Ever Living"
+            "banglaPronunciation": "আল-হাইয়্যু",
+            "englishMeaning": "The Ever Living",
+            "banglaMeaning": "চিরঞ্জীব"
         },
         {
-            "number": 63,
             "arabicName": "الْقَيُّومُ",
             "englishPronunciation": "Al Qayyoom",
-            "englishMeaning": "The Self Existing"
+            "banglaPronunciation": "আল-ক্বাইয়্যুম",
+            "englishMeaning": "The Self Existing",
+            "banglaMeaning": "সমস্তকিছুর ধারক ও সংরক্ষণকারী"
         },
         {
-            "number": 64,
             "arabicName": "الْوَاجِدُ",
             "englishPronunciation": "Al Waajid",
-            "englishMeaning": "The Finder"
+            "banglaPronunciation": "আল-ওয়াজিদ",
+            "englishMeaning": "The Finder",
+            "banglaMeaning": "অফুরন্ত ভান্ডারের অধিকারী"
         },
         {
-            "number": 65,
             "arabicName": "الْمَاجِدُ",
             "englishPronunciation": "Al Maajid",
-            "englishMeaning": "The Glorious"
+            "banglaPronunciation": "আল-মাজিদ",
+            "englishMeaning": "The Glorious",
+            "banglaMeaning": "শ্রেষ্ঠত্বের অধিকারী"
         },
         {
-            "number": 66,
             "arabicName": "الْواحِدُ",
             "englishPronunciation": "Al Waahid",
-            "englishMeaning": "The Only One"
+            "banglaPronunciation": "আল-ওয়াহি'দ",
+            "englishMeaning": "The Only One",
+            "banglaMeaning": "এক ও অদ্বিতীয়"
         },
         {
-            "number": 67,
             "arabicName": "اَلاَحَدُ",
             "englishPronunciation": "Al Ahad",
-            "englishMeaning": "The One"
+            "banglaPronunciation": "আল আহাদ",
+            "englishMeaning": "The One and only",
+            "banglaMeaning": "এক ও অদ্বিতীয়"
         },
         {
-            "number": 68,
             "arabicName": "الصَّمَدُ",
             "englishPronunciation": "As Samad",
-            "englishMeaning": "The Supreme Provider"
+            "banglaPronunciation": "আছ্-ছমাদ",
+            "englishMeaning": "The Supreme Provider",
+            "banglaMeaning": "অমুখাপেক্ষী"
         },
         {
-            "number": 69,
             "arabicName": "الْقَادِرُ",
             "englishPronunciation": "Al Qaadir",
-            "englishMeaning": "The Powerful"
+            "banglaPronunciation": "আল-ক্বদির",
+            "englishMeaning": "The Powerful",
+            "banglaMeaning": "সর্বশক্তিমান"
         },
         {
-            "number": 70,
             "arabicName": "الْمُقْتَدِرُ",
             "englishPronunciation": "Al Muqtadir",
-            "englishMeaning": "The Creator of all power"
+            "banglaPronunciation": "আল-মুক্ব্তাদির",
+            "englishMeaning": "The Creator of all power",
+            "banglaMeaning": "নিরঙ্কুশ-সিদ্বান্তের-অধিকারী"
         },
         {
-            "number": 71,
             "arabicName": "الْمُقَدِّمُ",
             "englishPronunciation": "Al Muqaddim",
-            "englishMeaning": "The Expediter"
+            "banglaPronunciation": "আল-মুক্বদ্দিম",
+            "englishMeaning": "The Expediter",
+            "banglaMeaning": "অগ্রসরকারী"
         },
         {
-            "number": 72,
             "arabicName": "الْمُؤَخِّرُ",
             "englishPronunciation": "Al Mu’akhir",
-            "englishMeaning": "The Delayer"
+            "banglaPronunciation": "আল-মুয়াক্খির",
+            "englishMeaning": "The Delayer",
+            "banglaMeaning": "অবকাশ দানকারী"
         },
         {
-            "number": 73,
             "arabicName": "الأوَّلُ",
             "englishPronunciation": "Al Awwal",
-            "englishMeaning": "The First"
+            "banglaPronunciation": "আল-আউয়াল",
+            "englishMeaning": "The First",
+            "banglaMeaning": "অনাদি"
         },
         {
-            "number": 74,
             "arabicName": "الآخِرُ",
             "englishPronunciation": "Al Aakhir",
-            "englishMeaning": "The Last"
+            "banglaPronunciation": "আল-আখির",
+            "englishMeaning": "The Last",
+            "banglaMeaning": "অনন্ত, সর্বশেষ"
         },
         {
-            "number": 75,
             "arabicName": "الظَّاهِرُ",
             "englishPronunciation": "Az Zaahir",
-            "englishMeaning": "The Manifest"
+            "banglaPronunciation": "আজ-জ'হির",
+            "englishMeaning": "The Manifest",
+            "banglaMeaning": "সম্পূর্নরূপে-প্রকাশিত"
         },
         {
-            "number": 76,
             "arabicName": "الْبَاطِنُ",
             "englishPronunciation": "Al Baatin",
-            "englishMeaning": "The Hidden"
+            "banglaPronunciation": "আল-বাত্বিন",
+            "englishMeaning": "The Hidden",
+            "banglaMeaning": "দৃষ্টি হতে অদৃশ্য"
         },
         {
-            "number": 77,
             "arabicName": "الْوَالِي",
             "englishPronunciation": "Al Waali",
-            "englishMeaning": "The Governor"
+            "banglaPronunciation": "আল-ওয়ালি",
+            "englishMeaning": "The Governor",
+            "banglaMeaning": "সমস্ত-কিছুর-অনিভাব্ক"
         },
         {
-            "number": 78,
             "arabicName": "الْمُتَعَالِي",
             "englishPronunciation": "Al Muta’ali",
-            "englishMeaning": "The Supreme One"
+            "banglaPronunciation": "আল-মুতাআ'লি",
+            "englishMeaning": "The Supreme One",
+            "banglaMeaning": "সৃষ্টির গুনাবলীর উর্দ্ধে"
         },
         {
-            "number": 79,
             "arabicName": "الْبَرُّ",
             "englishPronunciation": "Al Barr",
-            "englishMeaning": "The Doer of Good"
+            "banglaPronunciation": "আল-বার্",
+            "englishMeaning": "The Doer of Good",
+            "banglaMeaning": "পরম-উপকারী, অনুগ্রহশীল"
         },
         {
-            "number": 80,
             "arabicName": "التَّوَابُ",
             "englishPronunciation": "At Tawwaab",
-            "englishMeaning": "The Guide to Repentence"
+            "banglaPronunciation": "আত্-তাওয়াব",
+            "englishMeaning": "The Guide to Repentence",
+            "banglaMeaning": "তাওবার তাওফিক দানকারী এবং কবুলকারী"
         },
         {
-            "number": 81,
             "arabicName": "الْمُنْتَقِمُ",
             "englishPronunciation": "Al Muntaqim",
-            "englishMeaning": "The Avenger"
+            "banglaPronunciation": "আল-মুনতাক্বিম",
+            "englishMeaning": "The Avenger",
+            "banglaMeaning": "প্রতিশোধ-গ্রহণকারী"
         },
         {
-            "number": 82,
             "arabicName": "العَفُوُّ",
             "englishPronunciation": "Al Afuww",
-            "englishMeaning": "The Forgiver"
+            "banglaPronunciation": "আল-আ'ফঊ",
+            "englishMeaning": "The Forgiver",
+            "banglaMeaning": "পরম-উদার"
         },
         {
-            "number": 83,
             "arabicName": "الرَّؤُوفُ",
             "englishPronunciation": "Ar Ra’oof",
-            "englishMeaning": "The Clement"
+            "banglaPronunciation": "আর-রউফ",
+            "englishMeaning": "The Clement",
+            "banglaMeaning": "পরম-স্নেহশীল"
         },
         {
-            "number": 84,
             "arabicName": "مَالِكُ الْمُلْكِ",
             "englishPronunciation": "Maalik Ul Mulk",
-            "englishMeaning": "The Owner / Soverign of All"
+            "banglaPronunciation": "মালিকুল-মুলক",
+            "englishMeaning": "The Owner / Soverign of All",
+            "banglaMeaning": "সমগ্র জগতের বাদশাহ্\t"
         },
         {
-            "number": 85,
             "arabicName": "ذُوالْجَلاَلِ وَالإكْرَامِ",
             "englishPronunciation": "Dhu Al Jalaali Wa Al Ikraam",
-            "englishMeaning": "Possessor of Majesty and Bounty"
+            "banglaPronunciation": "যুল-জালালি-ওয়াল-ইকরাম",
+            "englishMeaning": "Possessor of Majesty and Bounty",
+            "banglaMeaning": "মহিমান্বিত ও দয়াবান সত্তা"
         },
         {
-            "number": 86,
             "arabicName": "الْمُقْسِطُ",
             "englishPronunciation": "Al Muqsit",
-            "englishMeaning": "The Equitable One"
+            "banglaPronunciation": "আল-মুক্ব্সিত",
+            "englishMeaning": "The Equitable One",
+            "banglaMeaning": "হকদারের হক-আদায়কারী"
         },
         {
-            "number": 87,
             "arabicName": "الْجَامِعُ",
             "englishPronunciation": "Al Jaami'",
-            "englishMeaning": "The Gatherer"
+            "banglaPronunciation": "আল-জামিই'",
+            "englishMeaning": "The Gatherer",
+            "banglaMeaning": "একত্রকারী, সমবেতকারী"
         },
         {
-            "number": 88,
             "arabicName": "الْغَنِيُّ",
             "englishPronunciation": "Al Ghaniyy",
-            "englishMeaning": "The Rich One"
+            "banglaPronunciation": "আল-গণিই'",
+            "englishMeaning": "The Rich One",
+            "banglaMeaning": "অমুখাপেক্ষী"
         },
         {
-            "number": 89,
             "arabicName": "الْمُغْنِي",
             "englishPronunciation": "Al Mughi",
-            "englishMeaning": "The Enricher"
+            "banglaPronunciation": "আল-মুগনিই'",
+            "englishMeaning": "The Enricher",
+            "banglaMeaning": "পরম-অভাবমোচনকারী"
         },
         {
-            "number": 90,
             "arabicName": "اَلْمَانِعُ",
             "englishPronunciation": "Al Maani'",
-            "englishMeaning": "The Preventer of harm"
+            "banglaPronunciation": "আল-মানিই'",
+            "englishMeaning": "The Preventer of harm",
+            "banglaMeaning": "প্রতিহতকারী"
         },
         {
-            "number": 91,
             "arabicName": "الضَّارَّ",
             "englishPronunciation": "Ad Daaarr",
-            "englishMeaning": "The Creator of the harmful"
+            "banglaPronunciation": "আয্-যর",
+            "englishMeaning": "The Creator of the harmful",
+            "banglaMeaning": "ক্ষতিসাধনকারী"
         },
         {
-            "number": 92,
             "arabicName": "النَّافِعُ",
             "englishPronunciation": "An Naafi’",
-            "englishMeaning": "The Bestower of Benefits"
+            "banglaPronunciation": "আন্-নাফিই'",
+            "englishMeaning": "The Bestower of Benefits",
+            "banglaMeaning": "কল্যাণকারী"
         },
         {
-            "number": 93,
             "arabicName": "النُّورُ",
             "englishPronunciation": "An Noor",
-            "englishMeaning": "The Light"
+            "banglaPronunciation": "আন্-নূর",
+            "englishMeaning": "The Light",
+            "banglaMeaning": "পরম-আলো"
         },
         {
-            "number": 94,
             "arabicName": "الْهَادِي",
             "englishPronunciation": "Al Haadi",
-            "englishMeaning": "The Guider"
+            "banglaPronunciation": "আল-হাদী",
+            "englishMeaning": "The Guider",
+            "banglaMeaning": "পথ-প্রদর্শক"
         },
         {
-            "number": 95,
             "arabicName": "الْبَدِيعُ",
             "englishPronunciation": "Al Badi'",
-            "englishMeaning": "The Originator"
+            "banglaPronunciation": "আল-বাদীই'",
+            "englishMeaning": "The Originator",
+            "banglaMeaning": "অতুলনীয়"
         },
         {
-            "number": 96,
             "arabicName": "اَلْبَاقِي",
             "englishPronunciation": "Al Baaqi",
-            "englishMeaning": "The Everlasting One"
+            "banglaPronunciation": "আল-বাক্বী",
+            "englishMeaning": "The Everlasting One",
+            "banglaMeaning": "চিরস্থায়ী, অবিনশ্বর"
         },
         {
-            "number": 97,
             "arabicName": "الْوَارِثُ",
             "englishPronunciation": "Al Waarith",
-            "englishMeaning": "The Inhertior"
+            "banglaPronunciation": "আল-ওয়ারিস'",
+            "englishMeaning": "The Inhertior",
+            "banglaMeaning": "উত্তরাধিকারী"
         },
         {
-            "number": 98,
             "arabicName": "الرَّشِيدُ",
             "englishPronunciation": "Ar Rasheed",
-            "englishMeaning": "The Most Righteous Guide"
+            "banglaPronunciation": "আর-রাশীদ",
+            "englishMeaning": "The Most Righteous Guide",
+            "banglaMeaning": "সঠিক পথ-প্রদর্শক"
         },
         {
-            "number": 99,
             "arabicName": "الصَّبُورُ",
             "englishPronunciation": "As Saboor",
-            "englishMeaning": "The Patient One"
+            "banglaPronunciation": "আস-সবুর",
+            "englishMeaning": "The Patient One",
+            "banglaMeaning": "অত্যধিক ধৈর্যধারণকারী"
         }
     ]
 }
