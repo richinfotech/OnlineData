@@ -1,0 +1,34 @@
+{
+    "versionCode": 1,
+    "cancellable": false,
+    "url": "http://tiny.cc/BuySellBD",
+    "items": [
+        {
+            "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+            "title": "Plabon",
+            "description":"Algebra
+            1. (a + b)2 = a2 +2ab + b2;
+            a2 + b2 =(a+b)2−2ab 
+             
+            2. (a−b)2 = a2 −2ab + b2;
+            a2 + b2 =(a−b)2+2ab
+            
+            3. (a + b+ c)2 = a2 +b2 + c2 +2(ab + bc + ca) 
+            
+            x4. (a + b)3 = a3 + b3 +3ab(a + b); a3 + b3 =(a+b)3−3ab(a + b) 5. (a−b)3 = a3 −b3 −3ab(a−b); a3 −b3 =(a−b)3+3ab(a−b) 6. a2 −b2 =(a+b)(a−b) 7. a3 −b3 =(a−b)(a2 +ab + b2) 8. a3 + b3 =(a+b)(a2 −ab + b2) 9. an −bn =(a−b)(an−1 + an−2b +an−3b2 +···+bn−1) 10. an = a.a.a... n times 11. am.an = am+n 12. am an = am−n if m>n = 1 ifm=n
+            =
+            1 an−m
+            if m<n;a∈R,a 6=0 13. (am)n = amn =(an)m 14. (ab)n = an.bn 15.a bn = an bn 16. a0 = 1 wherea∈R,a 6=0 17. a−n = 1 an ,an = 1 a−n 18. ap/q = q √ap 19. If am = an and a6=±1,a6= 0 thenm=n 20. If an = bn where n 6= 0, thena=±b 21. If √x,√y are quadratic surds and if a+√x =√y, thena= 0 and x = y 22. If √x,√y are quadratic surds and if a+√x = b+√y then a = b and x = y 23. If a,m,n arepositiverealnumbersanda6= 1,thenlogamn = logam+loga n 24. If a,m,n are positive real numbers, a6= 1, then logam n= logam−loga n25. If a and m are positive real numbers, a6= 1 then logamn=nloga m 26. If a,b and k are positive real numbers, b6=1,k6= 1, then log ba= logk a logk b 27. logb a = 1 loga b where a,b are positive real numbers, a6=1,b6=1 28. if a,m,n are positive real numbers, a 6= 1 and if loga m = log an, then m=n
+            Typeset by AMS-TEX
+            2
+            29. if a+ib = 0 wherei=√−1, then a = b =0 30. if a+ib = x + iy, where i =√ − 1, then a = x and b = y 31. Therootsofthequadraticequation ax2+bx+c = 0;a6= 0are −b±√b2 −4ac 2a The solution set of the equation is(−b+√∆ 2a , −b−√∆ 2a ) where ∆ = discriminant = b2 −4ac 32. The roots are real and distinct if ∆ > 0. 33. The roots are real and coincident if ∆ = 0. 34. The roots are non-real if ∆ < 0. 35. If α and β are the roots of the equation ax2 +bx + c =0,a6= 0 then i) α+β = −b a =− coeﬀ. of x coeﬀ. of x2 ii) α·β = c a = constant term coeﬀ. of x2 36. The quadratic equation whose roots are α and β is (x−α)(x−β)=0 i.e. x2 −(α+β)x +αβ =0 i.e. x2 −Sx+P = 0 whereS=Sum of the roots and P =Product of the roots. 37. For an arithmeticprogression(A.P.) whoseﬁrstterm is (a) and the common diﬀerence is (d). i) nth term= tn = a+(n−1)d ii) The sum of the ﬁrst (n) terms =Sn=n 2 (a+l)=n 2{2a+(n−1)d} where l =last term= a+(n−1)d. 38. For a geometric progression(G.P.) whose ﬁrstterm is (a) and common ratio is (γ), i) nth term= tn = aγn−1. ii) The sum of the ﬁrst (n) terms: Sn =a(1−γn) 1−γ ifγ<1 =a(γn−1) γ −1 if γ>1 =na if γ =1 . 39. For any sequence {tn},Sn−Sn−1 = tn where Sn =Sum of the ﬁrst (n) terms. 40. n Pγ =1 γ =1+2+3+···+n= n 2 (n+1). 41. n Pγ =1 γ2 =12+22+32+···+n2 = n 6 (n+1)(2n +1).
+            3
+            42.
+            n Pγ =1
+            γ3 =13+23+33+43+···+n3 = n2 4
+            (n+1)2.
+            43. n! = (1) .(2).(3).....(n−1).n. 44. n!=n(n−1)! = n(n−1)(n−2)! = ..... 45. 0! = 1. 46. (a+b)n = an +nan−1b+ n(n−1) 2! an−2b2 + n(n−1)(n−2) 3! an−3b3 +···+ bn,n>1."
+        },
+
+    ]
+}
