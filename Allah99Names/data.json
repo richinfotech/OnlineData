@@ -5,704 +5,804 @@
     "data_version": 1,
     "names": [
         {
-            "arabicName": "اللَّه",
+            "arabicName": "اللّٰه",
             "englishPronunciation": "Allah",
             "banglaPronunciation": "আল্লাহ",
             "englishMeaning": "The Greatest Name",
-            "banglaMeaning": "আল্লাহ"
+            "banglaMeaning": "আল্লাহ",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ar-allah.ogg"
         },
         {
             "arabicName": "الرَّحْمَنُ",
             "englishPronunciation": "Ar Rahmaan",
             "banglaPronunciation": "আর রাহমান",
             "englishMeaning": "The Beneficent",
-            "banglaMeaning": "পরম দয়ালু"
+            "banglaMeaning": "পরম দয়ালু",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/8/8a/01-ar-rahman.ogg"
         },
         {
             "arabicName": "الرَّحِيمُ",
             "englishPronunciation": "Ar Raheem",
             "banglaPronunciation": "আর-রহী'ম",
             "englishMeaning": "The Merciful",
-            "banglaMeaning": "অতিশয়-মেহেরবান"
+            "banglaMeaning": "অতিশয়-মেহেরবান",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/e/e6/02-ar-rahim.ogg"
         },
         {
             "arabicName": "الْمَلِكُ",
             "englishPronunciation": "Al Malik",
             "banglaPronunciation": "আল-মালিক",
             "englishMeaning": "The King / Eternal Lord",
-            "banglaMeaning": "সর্বকর্তৃত্বময়"
+            "banglaMeaning": "সর্বকর্তৃত্বময়",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/6/62/03-al-malik.ogg"
         },
         {
             "arabicName": "الْقُدُّوسُ",
             "englishPronunciation": "Al Quddus",
             "banglaPronunciation": "আল-কুদ্দুস",
             "englishMeaning": "The Purest",
-            "banglaMeaning": "নিষ্কলুষ, অতি পবিত্র"
+            "banglaMeaning": "নিষ্কলুষ, অতি পবিত্র",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/c/ce/04-al-quddus.ogg"
         },
         {
             "arabicName": "السَّلاَمُ",
             "englishPronunciation": "As Salaam",
             "banglaPronunciation": "আস-সালাম",
             "englishMeaning": "The Source of Peace",
-            "banglaMeaning": "নিরাপত্তা-দানকারী, শান্তি-দানকারী"
+            "banglaMeaning": "নিরাপত্তা-দানকারী, শান্তি-দানকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/5/51/05-as-salam.ogg"
         },
         {
             "arabicName": "الْمُؤْمِنُ",
             "englishPronunciation": "Al Mu'min",
             "banglaPronunciation": "আল-মু'মিন",
             "englishMeaning": "The inspirer of faith",
-            "banglaMeaning": "নিরাপত্তা ও ঈমান দানকারী"
+            "banglaMeaning": "নিরাপত্তা ও ঈমান দানকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/6/68/06-al-mumin.ogg"
         },
         {
             "arabicName": "الْمُهَيْمِنُ",
             "englishPronunciation": "Al Muhaymin",
             "banglaPronunciation": "আল-মুহাইমিন",
             "englishMeaning": "The Guardian",
-            "banglaMeaning": "পরিপূর্ন রক্ষণাবেক্ষণকারী"
+            "banglaMeaning": "পরিপূর্ন রক্ষণাবেক্ষণকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/e/ef/07-al-muhaymin.ogg"
         },
         {
             "arabicName": "الْعَزِيزُ",
             "englishPronunciation": "Al Azeez",
             "banglaPronunciation": "আল-আ'জীজ",
             "englishMeaning": "The Precious / The Most Mighty",
-            "banglaMeaning": "পরাক্রমশালী, অপরাজেয়"
+            "banglaMeaning": "পরাক্রমশালী, অপরাজেয়",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/f/f9/08-al-aziz.ogg"
         },
         {
             "arabicName": "الْجَبَّارُ",
             "englishPronunciation": "Al Jabbaar",
             "banglaPronunciation": "আল-জাব্বার",
             "englishMeaning": "The Compeller",
-            "banglaMeaning": "দুর্নিবার"
+            "banglaMeaning": "দুর্নিবার",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/e/e5/09-al-jabbar.ogg"
         },
         {
             "arabicName": "الْمُتَكَبِّرُ",
             "englishPronunciation": "Al Mutakabbir",
             "banglaPronunciation": "আল-মুতাকাব্বিইর",
             "englishMeaning": "The Greatest",
-            "banglaMeaning": "নিরঙ্কুশ শ্রেষ্ঠত্বের অধিকারী"
+            "banglaMeaning": "নিরঙ্কুশ শ্রেষ্ঠত্বের অধিকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/a/a9/10-al-mutakabbir.ogg"
         },
         {
             "arabicName": "الْخَالِقُ",
             "englishPronunciation": "Al Khaaliq",
             "banglaPronunciation": "আল-খালিক্ব",
             "englishMeaning": "The Creator",
-            "banglaMeaning": "সৃষ্টিকর্তা"
+            "banglaMeaning": "সৃষ্টিকর্তা",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/a/a6/11-al-khaliq.ogg"
         },
         {
             "arabicName": "الْبَارِئُ",
             "englishPronunciation": "Al Baari",
             "banglaPronunciation": "আল-বারী",
             "englishMeaning": "The Maker of Order",
-            "banglaMeaning": "সঠিকভাবে সৃষ্টিকারী"
+            "banglaMeaning": "সঠিকভাবে সৃষ্টিকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/0/0b/12-al-bari.ogg"
         },
         {
             "arabicName": "الْمُصَوِّرُ",
             "englishPronunciation": "Al Musawwir",
             "banglaPronunciation": "আল-মুছউইর",
             "englishMeaning": "The Shaper of Beauty",
-            "banglaMeaning": "আকৃতি-দানকারী"
+            "banglaMeaning": "আকৃতি-দানকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/d/dc/13-al-musawwir.ogg"
         },
         {
             "arabicName": "الْغَفَّارُ",
             "englishPronunciation": "Al Ghaffaar",
             "banglaPronunciation": "আল-গফ্ফার",
             "englishMeaning": "The Forgiving",
-            "banglaMeaning": "পরম ক্ষমাশীল"
+            "banglaMeaning": "পরম ক্ষমাশীল",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/e/ea/14-al-ghaffar.ogg"
         },
         {
             "arabicName": "الْقَهَّارُ",
             "englishPronunciation": "Al Qahhaar",
             "banglaPronunciation": "আল-ক্বাহার\t",
             "englishMeaning": "The Subduer",
-            "banglaMeaning": "কঠোর"
+            "banglaMeaning": "কঠোর",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/d/d1/15-al-qahhar.ogg"
         },
         {
             "arabicName": "الْوَهَّابُ",
             "englishPronunciation": "Al Wahhaab",
             "banglaPronunciation": "আল-ওয়াহ্হাব",
             "englishMeaning": "The Giver of All",
-            "banglaMeaning": "সবকিছু দানকারী"
+            "banglaMeaning": "সবকিছু দানকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/c/c6/16-al-wahhab.ogg"
         },
         {
             "arabicName": "الرَّزَّاقُ",
             "englishPronunciation": "Ar Razzaaq",
             "banglaPronunciation": "আর-রজ্জাক্ব",
             "englishMeaning": "The Sustainer",
-            "banglaMeaning": "রিযকদাতা"
+            "banglaMeaning": "রিযকদাতা",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/4/43/17-ar-razzaq.ogg"
         },
         {
             "arabicName": "الْفَتَّاحُ",
             "englishPronunciation": "Al Fattaah",
             "banglaPronunciation": "আল ফাত্তাহ",
             "englishMeaning": "The Opener",
-            "banglaMeaning": "বিজয়দানকারী"
+            "banglaMeaning": "বিজয়দানকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/4/4e/18-al-fattah.ogg"
         },
         {
             "arabicName": "اَلْعَلِيْمُ",
             "englishPronunciation": "Al 'Aleem",
             "banglaPronunciation": "আল-আ'লীম",
             "englishMeaning": "The Knower of all",
-            "banglaMeaning": "সর্বজ্ঞ\t"
+            "banglaMeaning": "সর্বজ্ঞ\t",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/9/96/19-al-alim.ogg"
         },
         {
             "arabicName": "الْقَابِضُ",
             "englishPronunciation": "Al Qaabid",
             "banglaPronunciation": "আল-ক্ববিদ্ব'",
             "englishMeaning": "The Constrictor",
-            "banglaMeaning": "সংকীর্ণকারী"
+            "banglaMeaning": "সংকীর্ণকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/2/27/20-al-qabid.ogg"
         },
         {
             "arabicName": "الْبَاسِطُ",
             "englishPronunciation": "Al Baasit",
             "banglaPronunciation": "আল-বাসিত",
             "englishMeaning": "The Reliever",
-            "banglaMeaning": "প্রশস্থকারী"
+            "banglaMeaning": "প্রশস্থকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/c/c0/21-al-basit.ogg"
         },
         {
             "arabicName": "الْخَافِضُ",
             "englishPronunciation": "Al Khaafid",
             "banglaPronunciation": "আল খাফেযু",
             "englishMeaning": "The Abaser",
-            "banglaMeaning": "অবনত দানকারী"
+            "banglaMeaning": "অবনত দানকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/f/fa/22-al-khafid.ogg"
         },
         {
             "arabicName": "الرَّافِعُ",
             "englishPronunciation": "Ar Raafi'",
             "banglaPronunciation": "আর-রফীই'",
             "englishMeaning": "The Exalter",
-            "banglaMeaning": "উন্নতকারী"
+            "banglaMeaning": "উন্নতকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/9/96/23-ar-rafi.ogg"
         },
         {
             "arabicName": "الْمُعِزُّ",
             "englishPronunciation": "Al Mu'iz",
             "banglaPronunciation": "আল-মুই'জ্ব",
             "englishMeaning": "The Bestower of Honour",
-            "banglaMeaning": "সন্মান-দানকারী"
+            "banglaMeaning": "সন্মান-দানকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/f/f6/24-al-muizz.ogg"
         },
         {
             "arabicName": "المُذِلُّ",
             "englishPronunciation": "Al Mudhil",
             "banglaPronunciation": "আল-মুদ্বি'ল্লু",
             "englishMeaning": "The Humiliator",
-            "banglaMeaning": "বেইজ্জতকারী"
+            "banglaMeaning": "বেইজ্জতকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/b/b0/25-al-mudhill.ogg"
         },
         {
             "arabicName": "السَّمِيعُ",
             "englishPronunciation": "As Samee'",
             "banglaPronunciation": "আস্-সামিই'",
             "englishMeaning": "The Hearer of all",
-            "banglaMeaning": "সর্বশ্রোতা"
+            "banglaMeaning": "সর্বশ্রোতা",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/f/fe/26-as-sami.ogg"
         },
         {
             "arabicName": "الْبَصِيرُ",
             "englishPronunciation": "Al Baseer",
             "banglaPronunciation": "আল-বাছীর",
             "englishMeaning": "The Seer of all",
-            "banglaMeaning": "সর্ববিষয়-দর্শনকারী"
+            "banglaMeaning": "সর্ববিষয়-দর্শনকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/2/28/27-al-basir.ogg"
         },
         {
             "arabicName": "الْحَكَمُ",
             "englishPronunciation": "Al Hakam",
             "banglaPronunciation": "আল-হা'কাম",
             "englishMeaning": "The Judge",
-            "banglaMeaning": "অটল বিচারক"
+            "banglaMeaning": "অটল বিচারক",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/e/eb/28-al-hakam.ogg"
         },
         {
             "arabicName": "الْعَدْلُ",
             "englishPronunciation": "Al 'Adl",
             "banglaPronunciation": "আল-আ'দল",
             "englishMeaning": "The Just",
-            "banglaMeaning": "পরিপূর্ণ-ন্যায়বিচারক"
+            "banglaMeaning": "পরিপূর্ণ-ন্যায়বিচারক",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/b/bd/29-al-adl.ogg"
         },
         {
             "arabicName": "اللَّطِيفُ",
             "englishPronunciation": "Al Lateef",
             "banglaPronunciation": "আল-লাতীফ",
             "englishMeaning": "The Subtle One",
-            "banglaMeaning": "সকল-গোপন-বিষয়ে-অবগত"
+            "banglaMeaning": "সকল-গোপন-বিষয়ে-অবগত",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/2/25/30-al-latif.ogg"
         },
         {
             "arabicName": "الْخَبِيرُ",
             "englishPronunciation": "Al Khabeer",
             "banglaPronunciation": "আল-খ'বীর",
             "englishMeaning": "The All Aware",
-            "banglaMeaning": "সকল ব্যাপারে জ্ঞাত"
+            "banglaMeaning": "সকল ব্যাপারে জ্ঞাত",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/d/d2/31-al-khabir.ogg"
         },
         {
             "arabicName": "الْحَلِيمُ",
             "englishPronunciation": "Al Haleem",
             "banglaPronunciation": "আল-হা'লীম",
             "englishMeaning": "The Forebearing",
-            "banglaMeaning": "অত্যন্ত ধৈর্যশীল"
+            "banglaMeaning": "অত্যন্ত ধৈর্যশীল",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/a/a1/32-al-halim.ogg"
         },
         {
             "arabicName": "الْعَظِيمُ",
             "englishPronunciation": "Al 'Azeem",
             "banglaPronunciation": "আল-আ'জীম",
             "englishMeaning": "The Maginificent",
-            "banglaMeaning": "সর্বোচ্চ-মর্যাদাশীল"
+            "banglaMeaning": "সর্বোচ্চ-মর্যাদাশীল",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/5/51/33-al-azim.ogg"
         },
         {
             "arabicName": "الْغَفُورُ",
             "englishPronunciation": "Al Ghafoor",
             "banglaPronunciation": "আল-গফুর",
             "englishMeaning": "The Great Forgiver",
-            "banglaMeaning": "পরম ক্ষমাশীল"
+            "banglaMeaning": "পরম ক্ষমাশীল",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/e/ec/34-al-ghafur.ogg"
         },
         {
             "arabicName": "الشَّكُورُ",
             "englishPronunciation": "Ash Shakoor",
             "banglaPronunciation": "আশ্-শাকুর",
             "englishMeaning": "The Rewarder of Thankfulness",
-            "banglaMeaning": "গুনগ্রাহী"
+            "banglaMeaning": "গুনগ্রাহী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/9/9b/35-ash-shakur.ogg"
         },
         {
             "arabicName": "الْعَلِيُّ",
             "englishPronunciation": "Al 'Aliyy",
             "banglaPronunciation": "আল-আ'লিইউ",
             "englishMeaning": "The Highest",
-            "banglaMeaning": "উচ্চ-মর্যাদাশীল"
+            "banglaMeaning": "উচ্চ-মর্যাদাশীল",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/4/44/36-al-ali.ogg"
         },
         {
             "arabicName": "الْكَبِيرُ",
             "englishPronunciation": "Al Kabeer",
             "banglaPronunciation": "আল-কাবিইর",
             "englishMeaning": "The Greatest",
-            "banglaMeaning": "সুমহান"
+            "banglaMeaning": "সুমহান",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/c/cf/37_al-kabir.ogg"
         },
         {
             "arabicName": "الْحَفِيظُ",
             "englishPronunciation": "Al Hafeez",
             "banglaPronunciation": "আল-হা'ফীজ",
             "englishMeaning": "The Preserver",
-            "banglaMeaning": "সংরক্ষণকারী"
+            "banglaMeaning": "সংরক্ষণকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/8/88/38-al-hafiz.ogg"
         },
         {
             "arabicName": "المُقيِت",
             "englishPronunciation": "Al Muqeet",
             "banglaPronunciation": "আল-মুক্বীত",
             "englishMeaning": "The Nourisher",
-            "banglaMeaning": "সকলের জীবনোপকরণ-দানকারী"
+            "banglaMeaning": "সকলের জীবনোপকরণ-দানকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/e/e6/39-al-muqit.ogg"
         },
         {
             "arabicName": "الْحسِيبُ",
             "englishPronunciation": "Al Haseeb",
             "banglaPronunciation": "আল-হাসীব",
             "englishMeaning": "The Reckoner",
-            "banglaMeaning": "হিসাব-গ্রহণকারী"
+            "banglaMeaning": "হিসাব-গ্রহণকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/b/b0/40-al-hasib.ogg"
         },
         {
             "arabicName": "الْجَلِيلُ",
             "englishPronunciation": "Al Jaleel",
             "banglaPronunciation": "আল-জালীল",
             "englishMeaning": "The Majestic",
-            "banglaMeaning": "পরম মর্যাদার অধিকারী"
+            "banglaMeaning": "পরম মর্যাদার অধিকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/1/1d/41-al-jalil.ogg"
         },
         {
             "arabicName": "الْكَرِيمُ",
             "englishPronunciation": "Al Kareem",
             "banglaPronunciation": "আল-কারীম",
             "englishMeaning": "The Generous",
-            "banglaMeaning": "সুমহান দাতা"
+            "banglaMeaning": "সুমহান দাতা",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/7/7b/42_al-karim.ogg"
         },
         {
             "arabicName": "الرَّقِيبُ",
             "englishPronunciation": "Ar Raqeeb",
             "banglaPronunciation": "আর-রক্বীব",
             "englishMeaning": "The Watchful One",
-            "banglaMeaning": "তত্ত্বাবধায়ক"
+            "banglaMeaning": "তত্ত্বাবধায়ক",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/2/27/43-ar-raqib.ogg"
         },
         {
             "arabicName": "الْمُجِيبُ",
             "englishPronunciation": "Al Mujeeb ",
             "banglaPronunciation": "আল-মুজীব",
             "englishMeaning": "The Responder to Prayer",
-            "banglaMeaning": "জবাব-দানকারী, কবুলকারী"
+            "banglaMeaning": "জবাব-দানকারী, কবুলকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/1/17/44-al-mujib.ogg"
         },
         {
             "arabicName": "الْوَاسِعُ",
             "englishPronunciation": "Al Waasi'",
             "banglaPronunciation": "আল-ওয়াসি'",
             "englishMeaning": "The All Comprehending",
-            "banglaMeaning": "সর্ব-ব্যাপী, সর্বত্র-বিরাজমান"
+            "banglaMeaning": "সর্ব-ব্যাপী, সর্বত্র-বিরাজমান",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/d/d0/45-al-wasi.ogg"
         },
         {
             "arabicName": "الْحَكِيمُ",
             "englishPronunciation": "Al Hakeem",
             "banglaPronunciation": "আল-হাকীম",
             "englishMeaning": "The Perfectly Wise",
-            "banglaMeaning": "পরম-প্রজ্ঞাময়"
+            "banglaMeaning": "পরম-প্রজ্ঞাময়",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/6/62/46-al-hakim.ogg"
         },
         {
             "arabicName": "الْوَدُودُ",
             "englishPronunciation": "Al Wudood",
             "banglaPronunciation": "আল-ওয়াদুদ",
             "englishMeaning": "The Loving One",
-            "banglaMeaning": "(বান্দাদের প্রতি) সদয়"
+            "banglaMeaning": "(বান্দাদের প্রতি) সদয়",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/0/04/47-al-wadud.ogg"
         },
         {
             "arabicName": "الْمَجِيدُ",
             "englishPronunciation": "Al Majeed",
             "banglaPronunciation": "আল-মাজীদ",
             "englishMeaning": "The Most Glorious One",
-            "banglaMeaning": "সকল-মর্যাদার-অধিকারী"
+            "banglaMeaning": "সকল-মর্যাদার-অধিকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/7/73/48-al-majid.ogg"
         },
         {
             "arabicName": "الْبَاعِثُ",
             "englishPronunciation": "Al Baa'ith",
             "banglaPronunciation": "আল-বাই'ছ'",
             "englishMeaning": "The Resurrector",
-            "banglaMeaning": "পুনুরুজ্জীবিতকারী"
+            "banglaMeaning": "পুনুরুজ্জীবিতকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/9/97/49_al-baith.ogg"
         },
         {
             "arabicName": "الشَّهِيدُ",
             "englishPronunciation": "Ash Shaheed",
             "banglaPronunciation": "আশ্-শাহীদ",
             "englishMeaning": "The Witness",
-            "banglaMeaning": "সর্বজ্ঞ-স্বাক্ষী"
+            "banglaMeaning": "সর্বজ্ঞ-স্বাক্ষী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/0/08/50-ash-shahid.ogg"
         },
         {
             "arabicName": "الْحَقُّ",
             "englishPronunciation": "Al Haqq",
             "banglaPronunciation": "আল-হা'ক্ব",
             "englishMeaning": "The Truth",
-            "banglaMeaning": "পরম সত্য"
+            "banglaMeaning": "পরম সত্য",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/5/5e/51-al-haqq.ogg"
         },
         {
             "arabicName": "الْوَكِيلُ",
             "englishPronunciation": "Al Wakeel",
             "banglaPronunciation": "আল-ওয়াকিল",
             "englishMeaning": "The Trustee",
-            "banglaMeaning": "পরম নির্ভরযোগ্য কর্ম-সম্পাদনকারী"
+            "banglaMeaning": "পরম নির্ভরযোগ্য কর্ম-সম্পাদনকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/b/b1/52-al-wakil.ogg"
         },
         {
             "arabicName": "الْقَوِيُّ",
             "englishPronunciation": "Al Qawiyy",
             "banglaPronunciation": "আল-ক্বউইউ",
             "englishMeaning": "The Possessor of all strength",
-            "banglaMeaning": "পরম-শক্তির-অধিকারী"
+            "banglaMeaning": "পরম-শক্তির-অধিকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/4/43/53-al-qawi.ogg"
         },
         {
             "arabicName": "الْمَتِينُ",
             "englishPronunciation": "Al Mateen",
             "banglaPronunciation": "আল-মাতীন",
             "englishMeaning": "The Forceful",
-            "banglaMeaning": "সুদৃঢ়"
+            "banglaMeaning": "সুদৃঢ়",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/8/8e/54-al-matin.ogg"
         },
         {
             "arabicName": "الْوَلِيُّ",
             "englishPronunciation": "Al Waliyy",
             "banglaPronunciation": "আল-ওয়ালিইউ",
             "englishMeaning": "The Protector",
-            "banglaMeaning": "অভিভাবক ও সাহায্যকারী"
+            "banglaMeaning": "অভিভাবক ও সাহায্যকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/6/6a/55-al-wali.ogg"
         },
         {
             "arabicName": "الْحَمِيدُ",
             "englishPronunciation": "Al Hameed",
             "banglaPronunciation": "আল-হা'মীদ",
             "englishMeaning": "The Praised",
-            "banglaMeaning": "সকল প্রশংসার অধিকারী"
+            "banglaMeaning": "সকল প্রশংসার অধিকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/f/f3/56-al-hamid.ogg"
         },
         {
             "arabicName": "الْمُحْصِي",
             "englishPronunciation": "Al Muhsi",
             "banglaPronunciation": "আল-মুহছী",
             "englishMeaning": "The Appraiser",
-            "banglaMeaning": "সকল সৃষ্টির ব্যপারে অবগত"
+            "banglaMeaning": "সকল সৃষ্টির ব্যপারে অবগত",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/7/72/57-al-muhsi.ogg"
         },
         {
             "arabicName": "الْمُبْدِئُ",
             "englishPronunciation": "Al Mubdi",
             "banglaPronunciation": "আল-মুব্দি'",
             "englishMeaning": "The Originator",
-            "banglaMeaning": "প্রথমবার-সৃষ্টিকর্তা"
+            "banglaMeaning": "প্রথমবার-সৃষ্টিকর্তা",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/0/06/58-al-mubdi.ogg"
         },
         {
             "arabicName": "الْمُعِيدُ",
             "englishPronunciation": "Al Mu'eed",
             "banglaPronunciation": "আল-মুঈ'দ",
             "englishMeaning": "The Restorer",
-            "banglaMeaning": "পুনরায়-সৃষ্টিকর্তা\t"
+            "banglaMeaning": "পুনরায়-সৃষ্টিকর্তা\t",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/9/9e/59-al-muid.ogg"
         },
         {
             "arabicName": "الْمُحْيِي",
             "englishPronunciation": "Al Muhiy",
             "banglaPronunciation": "আল-মুহ'য়ী",
             "englishMeaning": "The Giver of life",
-            "banglaMeaning": "জীবন-দানকারী"
+            "banglaMeaning": "জীবন-দানকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/2/21/60-al-muhyi.ogg"
         },
         {
             "arabicName": "اَلْمُمِيتُ",
             "englishPronunciation": "Al Mumeet",
             "banglaPronunciation": "আল-মুমীত",
             "englishMeaning": "The Taker of life",
-            "banglaMeaning": "মৃত্যু-দানকারী"
+            "banglaMeaning": "মৃত্যু-দানকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/7/78/61-al-mumit.ogg"
         },
         {
             "arabicName": "الْحَيُّ",
             "englishPronunciation": "Al Haiyy",
             "banglaPronunciation": "আল-হাইয়্যু",
             "englishMeaning": "The Ever Living",
-            "banglaMeaning": "চিরঞ্জীব"
+            "banglaMeaning": "চিরঞ্জীব",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/6/65/62-al-hayy.ogg"
         },
         {
             "arabicName": "الْقَيُّومُ",
             "englishPronunciation": "Al Qayyoom",
             "banglaPronunciation": "আল-ক্বাইয়্যুম",
             "englishMeaning": "The Self Existing",
-            "banglaMeaning": "সমস্তকিছুর ধারক ও সংরক্ষণকারী"
+            "banglaMeaning": "সমস্তকিছুর ধারক ও সংরক্ষণকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/4/42/63-al-qayyum.ogg"
         },
         {
             "arabicName": "الْوَاجِدُ",
             "englishPronunciation": "Al Waajid",
             "banglaPronunciation": "আল-ওয়াজিদ",
             "englishMeaning": "The Finder",
-            "banglaMeaning": "অফুরন্ত ভান্ডারের অধিকারী"
+            "banglaMeaning": "অফুরন্ত ভান্ডারের অধিকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/1/16/64-al-wajid.ogg"
         },
         {
             "arabicName": "الْمَاجِدُ",
             "englishPronunciation": "Al Maajid",
             "banglaPronunciation": "আল-মাজিদ",
             "englishMeaning": "The Glorious",
-            "banglaMeaning": "শ্রেষ্ঠত্বের অধিকারী"
+            "banglaMeaning": "শ্রেষ্ঠত্বের অধিকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/e/e5/65-al-majid.ogg"
         },
         {
             "arabicName": "الْواحِدُ",
             "englishPronunciation": "Al Waahid",
             "banglaPronunciation": "আল-ওয়াহি'দ",
             "englishMeaning": "The Only One",
-            "banglaMeaning": "এক ও অদ্বিতীয়"
+            "banglaMeaning": "এক ও অদ্বিতীয়",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/8/8c/66-al-wahid.ogg"
         },
         {
             "arabicName": "اَلاَحَدُ",
             "englishPronunciation": "Al Ahad",
             "banglaPronunciation": "আল আহাদ",
             "englishMeaning": "The One and only",
-            "banglaMeaning": "এক ও অদ্বিতীয়"
+            "banglaMeaning": "এক ও অদ্বিতীয়",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/3/38/67-al-ahad.ogg"
         },
         {
             "arabicName": "الصَّمَدُ",
             "englishPronunciation": "As Samad",
             "banglaPronunciation": "আছ্-ছমাদ",
             "englishMeaning": "The Supreme Provider",
-            "banglaMeaning": "অমুখাপেক্ষী"
+            "banglaMeaning": "অমুখাপেক্ষী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/c/c5/68-as-samad.ogg"
         },
         {
             "arabicName": "الْقَادِرُ",
             "englishPronunciation": "Al Qaadir",
             "banglaPronunciation": "আল-ক্বদির",
             "englishMeaning": "The Powerful",
-            "banglaMeaning": "সর্বশক্তিমান"
+            "banglaMeaning": "সর্বশক্তিমান",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/d/d7/69-al-qadir.ogg"
         },
         {
             "arabicName": "الْمُقْتَدِرُ",
             "englishPronunciation": "Al Muqtadir",
             "banglaPronunciation": "আল-মুক্ব্তাদির",
             "englishMeaning": "The Creator of all power",
-            "banglaMeaning": "নিরঙ্কুশ-সিদ্বান্তের-অধিকারী"
+            "banglaMeaning": "নিরঙ্কুশ-সিদ্বান্তের-অধিকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/4/49/70-al-muqtadir.ogg"
         },
         {
             "arabicName": "الْمُقَدِّمُ",
             "englishPronunciation": "Al Muqaddim",
             "banglaPronunciation": "আল-মুক্বদ্দিম",
             "englishMeaning": "The Expediter",
-            "banglaMeaning": "অগ্রসরকারী"
+            "banglaMeaning": "অগ্রসরকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/7/77/71-al-muqaddim.ogg"
         },
         {
             "arabicName": "الْمُؤَخِّرُ",
             "englishPronunciation": "Al Mu’akhir",
             "banglaPronunciation": "আল-মুয়াক্খির",
             "englishMeaning": "The Delayer",
-            "banglaMeaning": "অবকাশ দানকারী"
+            "banglaMeaning": "অবকাশ দানকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/f/fb/72-al-muakhkhir.ogg"
         },
         {
             "arabicName": "الأوَّلُ",
             "englishPronunciation": "Al Awwal",
             "banglaPronunciation": "আল-আউয়াল",
             "englishMeaning": "The First",
-            "banglaMeaning": "অনাদি"
+            "banglaMeaning": "অনাদি",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/2/2e/73-al-awwal.ogg"
         },
         {
             "arabicName": "الآخِرُ",
             "englishPronunciation": "Al Aakhir",
             "banglaPronunciation": "আল-আখির",
             "englishMeaning": "The Last",
-            "banglaMeaning": "অনন্ত, সর্বশেষ"
+            "banglaMeaning": "অনন্ত, সর্বশেষ",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/8/8d/74-al-akhir.ogg"
         },
         {
             "arabicName": "الظَّاهِرُ",
             "englishPronunciation": "Az Zaahir",
             "banglaPronunciation": "আজ-জ'হির",
             "englishMeaning": "The Manifest",
-            "banglaMeaning": "সম্পূর্নরূপে-প্রকাশিত"
+            "banglaMeaning": "সম্পূর্নরূপে-প্রকাশিত",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/8/80/75-az-zahir.ogg"
         },
         {
             "arabicName": "الْبَاطِنُ",
             "englishPronunciation": "Al Baatin",
             "banglaPronunciation": "আল-বাত্বিন",
             "englishMeaning": "The Hidden",
-            "banglaMeaning": "দৃষ্টি হতে অদৃশ্য"
+            "banglaMeaning": "দৃষ্টি হতে অদৃশ্য",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/4/46/76-al-batin.ogg"
         },
         {
             "arabicName": "الْوَالِي",
             "englishPronunciation": "Al Waali",
             "banglaPronunciation": "আল-ওয়ালি",
             "englishMeaning": "The Governor",
-            "banglaMeaning": "সমস্ত-কিছুর-অনিভাব্ক"
+            "banglaMeaning": "সমস্ত-কিছুর-অনিভাব্ক",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/5/53/77-al-wali.ogg"
         },
         {
             "arabicName": "الْمُتَعَالِي",
             "englishPronunciation": "Al Muta’ali",
             "banglaPronunciation": "আল-মুতাআ'লি",
             "englishMeaning": "The Supreme One",
-            "banglaMeaning": "সৃষ্টির গুনাবলীর উর্দ্ধে"
+            "banglaMeaning": "সৃষ্টির গুনাবলীর উর্দ্ধে",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/d/da/78-al-mutaali.ogg"
         },
         {
             "arabicName": "الْبَرُّ",
             "englishPronunciation": "Al Barr",
             "banglaPronunciation": "আল-বার্",
             "englishMeaning": "The Doer of Good",
-            "banglaMeaning": "পরম-উপকারী, অনুগ্রহশীল"
+            "banglaMeaning": "পরম-উপকারী, অনুগ্রহশীল",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/d/d8/79-al-barr.ogg"
         },
         {
             "arabicName": "التَّوَابُ",
             "englishPronunciation": "At Tawwaab",
             "banglaPronunciation": "আত্-তাওয়াব",
             "englishMeaning": "The Guide to Repentence",
-            "banglaMeaning": "তাওবার তাওফিক দানকারী এবং কবুলকারী"
+            "banglaMeaning": "তাওবার তাওফিক দানকারী এবং কবুলকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/1/15/80-at-tawwab.ogg"
         },
         {
             "arabicName": "الْمُنْتَقِمُ",
             "englishPronunciation": "Al Muntaqim",
             "banglaPronunciation": "আল-মুনতাক্বিম",
             "englishMeaning": "The Avenger",
-            "banglaMeaning": "প্রতিশোধ-গ্রহণকারী"
+            "banglaMeaning": "প্রতিশোধ-গ্রহণকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/c/cc/81-al-muntaqim.ogg"
         },
         {
             "arabicName": "العَفُوُّ",
             "englishPronunciation": "Al Afuww",
             "banglaPronunciation": "আল-আ'ফঊ",
             "englishMeaning": "The Forgiver",
-            "banglaMeaning": "পরম-উদার"
+            "banglaMeaning": "পরম-উদার",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/0/05/82-al-afuw.ogg"
         },
         {
             "arabicName": "الرَّؤُوفُ",
             "englishPronunciation": "Ar Ra’oof",
             "banglaPronunciation": "আর-রউফ",
             "englishMeaning": "The Clement",
-            "banglaMeaning": "পরম-স্নেহশীল"
+            "banglaMeaning": "পরম-স্নেহশীল",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/d/d3/83-ar-rauf.ogg"
         },
         {
             "arabicName": "مَالِكُ الْمُلْكِ",
             "englishPronunciation": "Maalik Ul Mulk",
             "banglaPronunciation": "মালিকুল-মুলক",
             "englishMeaning": "The Owner / Soverign of All",
-            "banglaMeaning": "সমগ্র জগতের বাদশাহ্\t"
+            "banglaMeaning": "সমগ্র জগতের বাদশাহ্\t",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/0/01/84-malik-ul-mulk.ogg"
         },
         {
             "arabicName": "ذُوالْجَلاَلِ وَالإكْرَامِ",
             "englishPronunciation": "Dhu Al Jalaali Wa Al Ikraam",
             "banglaPronunciation": "যুল-জালালি-ওয়াল-ইকরাম",
             "englishMeaning": "Possessor of Majesty and Bounty",
-            "banglaMeaning": "মহিমান্বিত ও দয়াবান সত্তা"
+            "banglaMeaning": "মহিমান্বিত ও দয়াবান সত্তা",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/3/3a/85-dhul-jalaal-wal-ikraam.ogg"
         },
         {
             "arabicName": "الْمُقْسِطُ",
             "englishPronunciation": "Al Muqsit",
             "banglaPronunciation": "আল-মুক্ব্সিত",
             "englishMeaning": "The Equitable One",
-            "banglaMeaning": "হকদারের হক-আদায়কারী"
+            "banglaMeaning": "হকদারের হক-আদায়কারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/2/29/86-al-muqsit.ogg"
         },
         {
             "arabicName": "الْجَامِعُ",
             "englishPronunciation": "Al Jaami'",
             "banglaPronunciation": "আল-জামিই'",
             "englishMeaning": "The Gatherer",
-            "banglaMeaning": "একত্রকারী, সমবেতকারী"
+            "banglaMeaning": "একত্রকারী, সমবেতকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/2/27/87-al-jame.ogg"
         },
         {
             "arabicName": "الْغَنِيُّ",
             "englishPronunciation": "Al Ghaniyy",
             "banglaPronunciation": "আল-গণিই'",
             "englishMeaning": "The Rich One",
-            "banglaMeaning": "অমুখাপেক্ষী"
+            "banglaMeaning": "অমুখাপেক্ষী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/f/f4/88-al-ghani.ogg"
         },
         {
             "arabicName": "الْمُغْنِي",
             "englishPronunciation": "Al Mughi",
             "banglaPronunciation": "আল-মুগনিই'",
             "englishMeaning": "The Enricher",
-            "banglaMeaning": "পরম-অভাবমোচনকারী"
+            "banglaMeaning": "পরম-অভাবমোচনকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/b/b3/89-al-mughni.ogg"
         },
         {
             "arabicName": "اَلْمَانِعُ",
             "englishPronunciation": "Al Maani'",
             "banglaPronunciation": "আল-মানিই'",
             "englishMeaning": "The Preventer of harm",
-            "banglaMeaning": "প্রতিহতকারী"
+            "banglaMeaning": "প্রতিহতকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/a/ad/90-al-mani.ogg"
         },
         {
             "arabicName": "الضَّارَّ",
             "englishPronunciation": "Ad Daaarr",
             "banglaPronunciation": "আয্-যর",
             "englishMeaning": "The Creator of the harmful",
-            "banglaMeaning": "ক্ষতিসাধনকারী"
+            "banglaMeaning": "ক্ষতিসাধনকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/8/86/91-ad-darr.ogg"
         },
         {
             "arabicName": "النَّافِعُ",
             "englishPronunciation": "An Naafi’",
             "banglaPronunciation": "আন্-নাফিই'",
             "englishMeaning": "The Bestower of Benefits",
-            "banglaMeaning": "কল্যাণকারী"
+            "banglaMeaning": "কল্যাণকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/0/0e/92-an-nafi.ogg"
         },
         {
             "arabicName": "النُّورُ",
             "englishPronunciation": "An Noor",
             "banglaPronunciation": "আন্-নূর",
             "englishMeaning": "The Light",
-            "banglaMeaning": "পরম-আলো"
+            "banglaMeaning": "পরম-আলো",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/f/fa/93-an-nur.ogg"
         },
         {
             "arabicName": "الْهَادِي",
             "englishPronunciation": "Al Haadi",
             "banglaPronunciation": "আল-হাদী",
             "englishMeaning": "The Guider",
-            "banglaMeaning": "পথ-প্রদর্শক"
+            "banglaMeaning": "পথ-প্রদর্শক",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/0/07/94-al-hadi.ogg"
         },
         {
             "arabicName": "الْبَدِيعُ",
             "englishPronunciation": "Al Badi'",
             "banglaPronunciation": "আল-বাদীই'",
             "englishMeaning": "The Originator",
-            "banglaMeaning": "অতুলনীয়"
+            "banglaMeaning": "অতুলনীয়",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/2/2b/95-al-badi.ogg"
         },
         {
             "arabicName": "اَلْبَاقِي",
             "englishPronunciation": "Al Baaqi",
             "banglaPronunciation": "আল-বাক্বী",
             "englishMeaning": "The Everlasting One",
-            "banglaMeaning": "চিরস্থায়ী, অবিনশ্বর"
+            "banglaMeaning": "চিরস্থায়ী, অবিনশ্বর",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/2/29/96-al-baqi.ogg"
         },
         {
             "arabicName": "الْوَارِثُ",
             "englishPronunciation": "Al Waarith",
             "banglaPronunciation": "আল-ওয়ারিস'",
             "englishMeaning": "The Inhertior",
-            "banglaMeaning": "উত্তরাধিকারী"
+            "banglaMeaning": "উত্তরাধিকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/3/3f/97-al-warith.ogg"
         },
         {
             "arabicName": "الرَّشِيدُ",
             "englishPronunciation": "Ar Rasheed",
             "banglaPronunciation": "আর-রাশীদ",
             "englishMeaning": "The Most Righteous Guide",
-            "banglaMeaning": "সঠিক পথ-প্রদর্শক"
+            "banglaMeaning": "সঠিক পথ-প্রদর্শক",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/e/e1/98-ar-rashid.ogg"
         },
         {
             "arabicName": "الصَّبُورُ",
             "englishPronunciation": "As Saboor",
             "banglaPronunciation": "আস-সবুর",
             "englishMeaning": "The Patient One",
-            "banglaMeaning": "অত্যধিক ধৈর্যধারণকারী"
+            "banglaMeaning": "অত্যধিক ধৈর্যধারণকারী",
+            "mp3": "https://upload.wikimedia.org/wikipedia/commons/5/50/99-as-sabur.ogg"
         }
     ]
 }
