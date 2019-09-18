@@ -1,0 +1,142 @@
+{
+	"versionCode": 1, 
+	"cancellable": false, 
+    "url": "" ,
+    "hospitals" : [
+        {
+            "name": "Imperial Hospital Limited",
+            "location": " Chittagong Eye Infirmary and Training Complex Campus, Zakir Hossain Rd, Chittagong 4202",
+            "contact": "09612-247-247",
+            "link":"https://www.google.com/maps/place/Imperial+Hospital+Limited/@22.3592018,91.7931206,17z/data=!3m1!4b1!4m5!3m4!1s0x30acd8e328704ffd:0x518c4a1ca25f627e!8m2!3d22.3591969!4d91.7953093",
+            "image":"http://ihlbd.org/wp-content/uploads/2019/05/Photo-Shoeb-Faruquee-1.jpg"
+        },
+    
+        {
+            "name": "Chittagong Eye Infirmary and Training Complex",
+            "location": "Foy's Lake Approach Rd, Chittagong",
+            "contact": "031-659017",
+            "link":"https://www.google.com/maps/place/Chittagong+Eye+Infirmary+and+Training+Complex/@22.3604742,91.7935975,17z/data=!3m1!4b1!4m5!3m4!1s0x30acd8fcd0159da7:0x332790d8b99b825f!8m2!3d22.3604693!4d91.7957862",
+            "image":"http://www.ctgeyeinfirmary.info/wp-content/themes/healthcare/images/slider/slider2.jpg"
+        },
+        
+        {
+            "name": "National Hospital Pvt. Ltd.",
+            "location": "14, 15 Dampara Lane, Chittagong 4000",
+            "contact": "031-623713 ext. 2855128",
+            "link":"https://www.google.com/maps/place/National+Hospital+Pvt.+Ltd./@22.3548576,91.8228695,17z/data=!3m1!4b1!4m5!3m4!1s0x30acd89bc84c503b:0xb95b0623d8dff91!8m2!3d22.3548527!4d91.8250582",
+            "image":""
+        },
+        
+        {
+            "name": "Chattogram Metropolitan Hospital Limited",
+            "location": "698, 752 O.R. Nizam Rd, Chittagong 4001",
+            "contact": "",
+            "link":"https://www.google.com/maps/place/Chattogram+Metropolitan+Hospital+Limited/@22.3590441,91.8213325,17z/data=!3m1!4b1!4m5!3m4!1s0x30acd89acbc7378b:0x2cba326ce35efad4!8m2!3d22.3590392!4d91.8235212",
+            "image":""
+        },
+        
+        {
+            "name": "CSCR (Pvt.) Ltd.",
+            "location": "CSCR Bhaban, 1675/A, O.R. Nizam Rd, Chittagong 4000",
+            "contact": "031-656565",
+            "link":"https://www.google.com/maps/place/CSCR+(Pvt.)+Ltd./@22.3601723,91.8254162,17z/data=!3m1!4b1!4m5!3m4!1s0x30acd8834f8a7357:0xee6044ebb036ca43!8m2!3d22.3601674!4d91.8276049",
+            "image":""
+        },
+    
+        {
+            "name": "Chattogram Medical College Hospital",
+            "location": "57, K.B. Fazlul Kader road, P.S. Panchlaish, P.O, Chittagong 4203",
+            "contact": "0101",
+            "link":"https://www.google.com/maps/place/Chattogram+Medical+College+Hospital/@22.3592758,91.8286158,17z/data=!3m1!4b1!4m5!3m4!1s0x30acd882a59437c7:0xf99d92fdc17dd741!8m2!3d22.3592709!4d91.8308045",
+            "image":""
+        },
+    
+        {
+            "name": "Bangabandhu Memorial Hospital",
+            "location": "Zakir Hossain Rd , Chittagong",
+            "contact": "",
+            "link":"https://www.google.com/maps/place/Bangabandhu+Memorial+Hospital,+Zakir+Hossain+Rd,+Chittagong/@22.3612944,91.7952388,17z/data=!3m1!4b1!4m5!3m4!1s0x30acd8fc9a281339:0xbaa46b21c664ac3!8m2!3d22.361248!4d91.797446",
+            "image":""
+        },
+    
+        {
+            "name": "Epic Health Care Ltd",
+            "location": "19 K.B. Fazlul Kader Rd, Chittagong",
+            "contact": "031-657361",
+            "link":"https://www.google.com/maps/place/Epic+Health+Care/@22.3608891,91.8287868,17z/data=!3m1!4b1!4m5!3m4!1s0x30acd882eba559b1:0xbd3f9c540397f255!8m2!3d22.3608842!4d91.8309755",
+            "image":""
+        },
+
+
+        {
+            "name": " Centre Point Hospital (Pvt)Ltd.",
+            "location": "100, Momin Road, Chittagong",
+            "contact": "+88 031 639025-7",
+            "link":"",
+            "image":""
+        },
+		
+		{
+            "name": " Chattagram Maa-Shishu General Hospital",
+            "location": "  Agrabad, Chittagong",
+            "contact": " +880-31-2520063, 711236, 718521, 718525",
+            "link":"",
+            "image":""
+        },
+		{
+            "name": " Chattagram International Medical College and Hospital ",
+            "location": "206/1, Haji Chand Mia Road, Shamser Para , Chandgaon, Chittagong",
+            "contact": "+88 031-672384, +88 031-672378, +88 031-671488",
+            "link":"",
+            "image":""
+        },
+        
+        {
+            "name": "CHEVRON",
+            "location": " In front of Makki Mosque, Chittagong",
+            "contact": " +880-31-657863, 652533",
+            "link":"",
+            "image":""
+        },
+
+		{
+            "name": " Memon Maternity Hospital ",
+            "location": "55- Sadarghat Road. Chittagong-4000. ",
+            "contact": " 617169, 621799, 621798",
+            "link":"",
+            "image":""
+        },
+        {
+            "name": "Chittagong Diabetic General Hospital ",
+            "location": "Zakir Hossain Rd, Chittagong",
+            "contact": " 01864-880497",
+            "link":"",
+            "image":""
+        },
+        {
+            "name": "  Niramoy Clinic Pvt. Ltd. ",
+            "location": " 5, Panchlaish R/A (Nearly Panchlaish Thana) Chittagong  ",
+            "contact": " +88 031 653036, 653041, 653824  ",
+            "link":"",
+            "image":""
+        },
+
+        {
+            "name": " Labaid Specialized Hospital - Chittagong",
+            "location": "Forum Central (2nd floor), 787/863 M M Ali Road, Gol Pahar Mor, Mehedi Bag, Chittagong ",
+            "contact": " 01730031897",
+            "link":"",
+            "image":""
+        },
+        {
+            "name": "Medical Centre (Pvt) Clinic",
+            "location": "953, O.R. Nizam Road, Chittagong  ",
+            "contact": " +88 031 651054, 651944, 658501- 04 ",
+            "link":"",
+            "image":""
+        }
+
+		
+    
+    ]
+}
