@@ -48,7 +48,8 @@ There are particularly no pests that nag the plant seriously. Although keep an e
 Dragon Fruit Pollination
 Many dragon fruit varieties are self-pollinating, but there are some that require cross-pollination. If your dragon fruit is unable to self-pollinate, you’ll need to grow two or more dragon fruit plants closely for cross-pollination. As dragon fruit flowers are nocturnal, its pollination depends on moths and bats. For assurance, you can also do this at night.",
             "sciencetificName": "Hylocereus undatus",
-            "type": "Fruit"
+            "type": "Fruit",
+            "bangla":"ড্রাগন ড্র্যাগন ডাগন দাগন"
         },
         {
             "image": "https://cdn.britannica.com/s:700x450/72/94272-050-0F556190/Apple-orchard-Washington.jpg",   
@@ -67,7 +68,9 @@ During the 19th and early 20th centuries, apples were a major cash crop for the 
 The abundant fruit produced by these trees is an important food source for deer, bear, birds, other park wildlife, and hungry park visitors.",
 
            "sciencetificName":"Malus pumila",
-           "type":"Fruit"
+           "type":"Fruit",
+            "bangla":"অ্যাপেল আপেল"
+           
         }
     ]
 }
