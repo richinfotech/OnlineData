@@ -138,27 +138,10 @@
         },
         {
             "name" :"Parkview Hospital",
-            "location":"94/103, Katalgonj Road পাচঁলাইশ, Chittagong 4000",
+            "location":"94/103, Katalgonj Road , panchlaish, Chittagong 4000",
             "contact":" +88031 255-5071-5",
             "link":"https://www.google.com/maps/place/Parkview+Hospital+Ltd./@22.3631124,91.8335656,17z/data=!3m1!4b1!4m5!3m4!1s0x30ad277c692440c3:0xdbe8a9298d0dae93!8m2!3d22.3631124!4d91.8357543",
             "image":"http://medikitint.com/wp-content/uploads/2014/12/20664661_1933813286881641_4953980243623298835_n.jpg"
-        },
-
-        {
-            "name":"Dhaka Medical College",
-            "location":"Secretariat Rd, Dhaka 1000",
-            "contact":"+8802-55165001",
-            "link":"https://www.google.com/maps/place/Dhaka+Medical+College/@23.7256553,90.3970882,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNfLoDXELyAL3g1R3IqXX9p-9VmtByH40fm70wy!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNfLoDXELyAL3g1R3IqXX9p-9VmtByH40fm70wy%3Dw114-h86-k-no!7i1200!8i900!4m8!1m2!2m1!1sDMC!3m4!1s0x3755b8e6411d0a8d:0xbe2db18e7ae50f2b!8m2!3d23.7256553!4d90.3970882",
-            "image"https://lh5.googleusercontent.com/p/AF1QipMYIpqiFcv8cqyhnhYp-bWokkZ3WUcyHRQbKTf6=w213-h160-k-no"
-        },
-        
-        {
-            "name":"Sir Salimullah Medical College & Mitford Hospital",
-            "location":"Mitford, Dhaka -1100",
-            "contact":"+8802-7319002,+8802-7319003, +8802-7319004, +8802-7319005, +8802-7312398, +8802-7117404",
-            "link":"https://www.google.com/maps/place/Sir+Salimullah+Medical+College/@23.7111093,90.3988819,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b91cf294d4d5:0xdb324ec1fa918631!8m2!3d23.7111093!4d90.4010706",
-            "image"https://hrm.dghs.gov.bd//files/2016-08-07_061452_GR4HKBeeYjmD_mitford@hospi.dghs.gov.bd.jpg"
-        } 
-    
+        }
     ]
 }
