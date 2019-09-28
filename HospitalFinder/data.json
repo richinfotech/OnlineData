@@ -338,6 +338,38 @@
             "link":"https://www.google.com/maps/place/Khulna+Medical+College+Hospital/@22.8281662,89.5349522,17z/data=!3m1!4b1!4m5!3m4!1s0x39ff9abc698fbea9:0x19d86c4a95e15ad3!8m2!3d22.8281662!4d89.5371409",
             "image":"http://dakpeon24.com/en/wp-content/uploads/2019/01/khulna-medical-college-hospital-copy.png"
 
+        },
+        {
+            "name":"Mymensingh medical college hospital" , 
+            "location": "Chorpara, Dhaka-Mymensingh Rd, Mymensingh 2200",
+            "contact":"+8801768-027115",
+            "link":"https://www.google.com/maps/search/Mymensingh+medical+college+hospital/@24.7427542,90.4050699,16z/data=!3m1!4b1",
+            "image":"https://www.daily-sun.com/assets/news_images/2019/09/10/thumbnails/mmch-daily-sun.JPG"
+
+        },
+        {
+            "name":"Cox's Bazar Medical College and Hospital" , 
+            "location": "Cox's Bazar",
+            "contact":"+8801821-431144",
+            "link":"https://www.google.com/maps/place/Cox's+Bazar+Medical+College+and+Hospital/@21.4202269,92.012799,17z/data=!3m1!4b1!4m5!3m4!1s0x30adc7b3cb134db7:0xd946d9fc39080de6!8m2!3d21.4202269!4d92.0149877",
+            "image":"https://lh5.googleusercontent.com/p/AF1QipMu-GLwRDRknf_Tusf__HX6Lssoi7I2T3AZr9Xx=w426-h240-k-no"
+
+        },
+        {
+            "name":"Rangpur Medical College and Hospital" , 
+            "location": "Rangpur- Dinajpur Highway, Cantt, Near Central Jail, Rangpur 5400",
+            "contact":"+880521-63388",
+            "link":"https://www.google.com/maps/place/Rangpur+Medical+College+and+Hospital/@25.7676395,89.2309869,17z/data=!4m8!1m2!2m1!1sRangpur+medical+college+hospital!3m4!1s0x0:0xe0a9a8a0cbb0b156!8m2!3d25.7668624!4d89.2340878",
+            "image":"https://lh5.googleusercontent.com/p/AF1QipMPfIF_HbM_PnojOKzom_7pJBOgE0qEkisBS8rA=w408-h306-k-no"
+
+        },
+        {
+            "name":"M.A.G. Osmani Medical College Hospital, Medical College Hospital" , 
+            "location": "New Medical College Rd, Sylhet 3100",
+            "contact":"+8801722-089236",
+            "link":"https://www.google.com/maps/place/Sylhet+MAG+Osmani+Medical+Ambulance+Service/@24.9004114,91.8507088,17z/data=!4m12!1m6!3m5!1s0x37505537ac260909:0x4d0090c84c8e5d87!2sSylhet+MAG+Osmani+Medical+Ambulance+Service!8m2!3d24.9004114!4d91.8528975!3m4!1s0x37505537ac260909:0x4d0090c84c8e5d87!8m2!3d24.9004114!4d91.8528975",
+            "image":"https://lh5.googleusercontent.com/p/AF1QipM8wSq2T-DllzbwkPFkdjYUIFCx33DdSSpGScFl=w408-h270-k-no"
+
         }
 
     
