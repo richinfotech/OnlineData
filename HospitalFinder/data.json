@@ -237,7 +237,7 @@
         {
             "name":"Samorita Hospital",
             "location":"89/1 Panthapath, Dhaka 1215",
-            "contact":"02-9131901",
+            "contact":"+8802-9131901",
             "link":"https://www.google.com/maps/place/Samorita+Hospital/@23.7956018,90.326469,12z/data=!4m8!1m2!2m1!1shospital+in+dhaka!3m4!1s0x3755b8a514c7d865:0xd3461d0dab3c46f9!8m2!3d23.7526281!4d90.3851941",
             "image":"http://hospital.bangladeshinformation.info/wp-content/uploads/sites/6/2016/06/Samorita-Hospital-Limited.jpg"
         },
@@ -255,14 +255,14 @@
         {
             "name":"Dhaka Mahangar Shishu Hospital",
             "location":"",
-            "contact":"02-57319737",
+            "contact":"+8802-57319737",
             "link":"https://www.google.com/maps/place/Dhaka+Mahanagar+Shishu+Hospital/@23.7180578,90.3903248,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b8dfca98d49d:0x8b4673ddf7ed2e3d!8m2!3d23.7180578!4d90.3925135",
             "image":"https://lh5.googleusercontent.com/p/AF1QipOx8A-zVXnURNvilHd4aOGm_8IOKyN24fU-g8fy=w408-h306-k-no"
         },
         {
             "name":"Dhaka  Shishu Hospital",
             "location":"Dhaka 1207",
-            "contact":"02-9128308",
+            "contact":"+8802-9128308",
             "link":"https://www.google.com/maps/place/Dhaka+Shishu+Hospital/@23.7730214,90.3671239,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c0ae6bca6f83:0x105b5c9a03ea571d!8m2!3d23.7730214!4d90.3693126",
             "image":"http://dhakashishuhospital.org.bd/wp-content/uploads/2015/09/slide-111.jpg"
         },
@@ -270,7 +270,7 @@
         {
             "name":"Square Hospital",
             "location":"18/F, Bir Uttam Qazi Nuruzzaman Sarak West, Panthapath, Dhaka 1205",
-            "contact":"02-8144400 ext. 10616",
+            "contact":"+8802-8144400 ext. 10616",
             "link":"https://www.google.com/maps/place/Square+Hospital/@23.752921,90.3816716,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPZBrOfVkNZF5elDxDyZbHA3dm2Nko-P7gMTTiw!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPZBrOfVkNZF5elDxDyZbHA3dm2Nko-P7gMTTiw%3Dw86-h114-k-no!7i3024!8i4032!4m8!1m2!2m1!1shospital+in+dhaka!3m4!1s0x3755b8ae4e52eabd:0x113b1873c9a9c2c1!8m2!3d23.752921!4d90.3816716",
             "image":"https://d30fl32nd2baj9.cloudfront.net/media/2016/02/11/squere-hospital.jpg/ALTERNATES/w640/Squere+Hospital.jpg"
         },
@@ -278,7 +278,7 @@
         {
             "name":"National Heart Foundation Hospital & Research Institute",
             "location":"Plot-7/2, Dhaka 1216",
-            "contact":"02-9033442",
+            "contact":"+8802-9033442",
             "link":"https://www.google.com/maps/place/National+Heart+Foundation+Hospital+%26+Research+Institute/@23.795665,90.3264692,12z/data=!4m8!1m2!2m1!1shospital+in+dhaka!3m4!1s0x3755c0dbdd6121e9:0x28d6161b55e58cc4!8m2!3d23.8036721!4d90.3619639",
             "image":"http://hospital.bangladeshinformation.info/wp-content/uploads/sites/6/2017/10/National-Heart-Foundation-Hospital-and-Research-Institute.jpg"
         },
@@ -294,7 +294,7 @@
         {
             "name":"Holy Family Red Crescent Medical College Hospital",
             "location":"1 Eskaton Garden Rd, Dhaka 1000",
-            "contact":"02-48311721",
+            "contact":"+8802-48311721",
             "link":"https://www.google.com/maps/place/Holy+Family+Red+Crescent+Medical+College+Hospital/@23.7957914,90.3264698,12z/data=!4m8!1m2!2m1!1shospital+in+dhaka!3m4!1s0x3755b891de1de645:0x40ef87af7ed080c3!8m2!3d23.7466978!4d90.4031136",
             "image":"https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_2/public/feature/images/holy_family_0.jpg?itok=pn7JrWDm"
         },
@@ -302,7 +302,7 @@
         {
             "name":"BIRDEM General Hospital",
             "location":"Shahbag Square, 122 Kazi Nazrul Islam Ave, Dhaka 1000",
-            "contact":"02-9661551",
+            "contact":"+8802-9661551",
             "link":"https://www.google.com/maps/place/BIRDEM+General+Hospital/@23.795823,90.32647,12z/data=!4m8!1m2!2m1!1shospital+in+dhaka!3m4!1s0x3755b8eb2cd9b849:0x7c213c924dd2d324!8m2!3d23.7388438!4d90.3964821",
             "image":"https://www.birdembd.org/sites/all/themes/nexus/images/BIRDEM-General-Hospital-1st-slide.jpg"
         },
@@ -310,7 +310,7 @@
         {
             "name":"United Hospital Limited",
             "location":"Plot 15 Rd No 71, Dhaka 1212",
-            "contact":"09666-710666",
+            "contact":"+09666-710666",
             "link":"https://www.google.com/maps/place/United+Hospital+Limited/@23.7958546,90.3264701,12z/data=!4m8!1m2!2m1!1shospital+in+dhaka!3m4!1s0x3755c7abd941ed15:0xf151df4e4e9c047c!8m2!3d23.8046243!4d90.4154716",
             "image":"https://specialistdoctorbd.com/wp-content/uploads/2019/01/United-Hospital-Gulshan.jpg"
         },
@@ -318,10 +318,27 @@
         {
             "name":"Bangladesh Specialized Hospital",
             "location":"21, Mirpur Rd, Dhaka 1207",
-            "contact":"02-09666-700100 ext. 10633",
+            "contact":"+8802-09666-700100 ext. 10633",
             "link":"https://www.google.com/maps/place/Bangladesh+Specialized+Hospital/@23.7958862,90.3264703,12z/data=!4m8!1m2!2m1!1shospital+in+dhaka!3m4!1s0x3755c0bae1e1a7c1:0x8b2ca149919574a7!8m2!3d23.7763654!4d90.3629548",
             "image":"https://geo1.ggpht.com/cbk?panoid=xmlyrKFSEJqC6LDVQ0l-2Q&output=thumbnail&cb_client=search.LOCAL_UNIVERSAL.gps&thumb=2&yaw=173.18797&pitch=0&thumbfov=100&w=226&h=79"
+        },
+
+        {
+            "name":"Dhaka Eye Hospital" , 
+            "location": "5 Mirpur Rd, Dhaka",
+            "contact":"+8802-9010831",
+            "link":"https://www.google.com/search?tbm=lcl&ei=ITOLXYiEB9eR9QPz95jYDw&q=eye+hospital+dhaka&oq=Eye+Hospital+&gs_l=psy-ab.3.0.0i273k1j0i67k1j0l8.105218.106375.0.107753.2.2.0.0.0.0.198.352.0j2.2.0....0...1c.1.64.psy-ab..0.2.351....0.Y83dRYwNug8#rlfi=hd:;si:13277610892429197854;mv:[[23.881856300000003,90.440871],[23.730774099999998,90.3505667]]",
+            "image":""
+        },
+        {
+            "name":"Sher-E-Bangla Medical College & Hospital" , 
+            "location":"Band Rd, Barisal 8200",
+            "contact":"+880431-2173547",
+            "link":"https://www.google.com/search?q=barisal%20hospital&oq=barisal+hospital&aqs=chrome..69i57.7712j0j1&sourceid=chrome&ie=UTF-8&sxsrf=ACYBGNQUjd3ADQJKDHFDHGmRp6QP4uNkvA:1569695168722&npsic=0&rflfq=1&rlha=0&rllag=22681158,90354654,1757&tbm=lcl&rldimm=8049394552366667997&ved=2ahUKEwjzur-XkvTkAhUQA3IKHU5HD8wQvS4wAHoECAoQIA&rldoc=1&tbs=lrf:!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2#rlfi=hd:;si:8049394552366667997;mv:[[22.7304148,90.3792716],[22.669873,90.3242994]];tbs:lrf:!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2",
+            "image":"https://hrm.dghs.gov.bd//files/2016-08-07_062926_YTa6utz6Gv6H_sbmch@hospi.dghs.gov.bd.jpg"
+
         }
+
     
     ]
 }
