@@ -228,13 +228,6 @@
         },
         
         {
-            "name":"Eye Hospital",
-            "location":"House- 78 Satmasjid Road , Dhaka 1205",
-            "contact":"",
-            "link":"https://www.google.com/maps/place/Bangladesh+Eye+Hospital,+House-+78,+Satmasjid+Road,+Dhaka+1205/@23.751593,90.3651562,17z/data=!3m1!4b1!4m5!3m4!1s0x3755bf502fcc4b93:0xab85199479d3b37c!8m2!3d23.751593!4d90.3673449",
-            "image":"https://lh5.googleusercontent.com/p/AF1QipOIrCCPLOWFlACIq34cxsGTUIy0ZOQ9W8VOyEQ4=w408-h544-k-no"
-        },
-        {
             "name":"Samorita Hospital",
             "location":"89/1 Panthapath, Dhaka 1215",
             "contact":"+8802-9131901",
@@ -286,7 +279,7 @@
         {
             "name":"LABAID Specialized Hospital",
             "location":"House-06 রোড-০৪, Dhaka 1205",
-            "contact":"09666-710606",
+            "contact":"+8809666-710606",
             "link":"https://www.google.com/maps/place/LABAID+Specialized+Hospital/@23.7956966,90.3264694,12z/data=!4m8!1m2!2m1!1shospital+in+dhaka!3m4!1s0x3755b8b7a02be491:0x45a9f97c4d06d4f9!8m2!3d23.741925!4d90.3830321",
             "image":"https://www.finddoctor24.com/wp-content/uploads/2017/09/Labaid-hospital.png"
         },
@@ -310,7 +303,7 @@
         {
             "name":"United Hospital Limited",
             "location":"Plot 15 Rd No 71, Dhaka 1212",
-            "contact":"+09666-710666",
+            "contact":"+8809666-710666",
             "link":"https://www.google.com/maps/place/United+Hospital+Limited/@23.7958546,90.3264701,12z/data=!4m8!1m2!2m1!1shospital+in+dhaka!3m4!1s0x3755c7abd941ed15:0xf151df4e4e9c047c!8m2!3d23.8046243!4d90.4154716",
             "image":"https://specialistdoctorbd.com/wp-content/uploads/2019/01/United-Hospital-Gulshan.jpg"
         },
@@ -318,7 +311,7 @@
         {
             "name":"Bangladesh Specialized Hospital",
             "location":"21, Mirpur Rd, Dhaka 1207",
-            "contact":"+8802-09666-700100 ext. 10633",
+            "contact":"+8802-09666-700100 , ext. 10633",
             "link":"https://www.google.com/maps/place/Bangladesh+Specialized+Hospital/@23.7958862,90.3264703,12z/data=!4m8!1m2!2m1!1shospital+in+dhaka!3m4!1s0x3755c0bae1e1a7c1:0x8b2ca149919574a7!8m2!3d23.7763654!4d90.3629548",
             "image":"https://geo1.ggpht.com/cbk?panoid=xmlyrKFSEJqC6LDVQ0l-2Q&output=thumbnail&cb_client=search.LOCAL_UNIVERSAL.gps&thumb=2&yaw=173.18797&pitch=0&thumbfov=100&w=226&h=79"
         },
@@ -336,6 +329,14 @@
             "contact":"+880431-2173547",
             "link":"https://www.google.com/maps/place/Sher-E-Bangla+Medical+College+%26+Hospital/@22.6863517,90.3592779,17z/data=!3m1!4b1!4m5!3m4!1s0x3755346c873a5ff3:0x6fb531b2a6c798dd!8m2!3d22.6863517!4d90.3614666",
             "image":"https://hrm.dghs.gov.bd//files/2016-08-07_062926_YTa6utz6Gv6H_sbmch@hospi.dghs.gov.bd.jpg"
+
+        },
+        {
+            "name":"Khulna Medical College Hospital" , 
+            "location":"Khulna",
+            "contact":"+88041-761535",
+            "link":"https://www.google.com/maps/place/Khulna+Medical+College+Hospital/@22.8281662,89.5349522,17z/data=!3m1!4b1!4m5!3m4!1s0x39ff9abc698fbea9:0x19d86c4a95e15ad3!8m2!3d22.8281662!4d89.5371409",
+            "image":"http://dakpeon24.com/en/wp-content/uploads/2019/01/khulna-medical-college-hospital-copy.png"
 
         }
 
