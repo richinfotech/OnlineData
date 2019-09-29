@@ -105,7 +105,7 @@
             "location": "55- Sadarghat Road. Chittagong-4000. ",
             "contact": "+88031-617169, +88031-621799, +88031-621798",
             "link":"https://www.google.com/maps/place/Memon+Maternity+Hospital/@22.3316825,91.8310787,19z/data=!4m5!3m4!1s0x30ad275626e27527:0xd8965ba6c90bca9e!8m2!3d22.3314431!4d91.8319477",
-            "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ccc.org.bd%2Fsites%2Fdefault%2Ffiles%2Fcontentimages%2Fhospital.jpg&imgrefurl=https%3A%2F%2Fwww.ccc.org.bd%2Fmaternity_hospitals&docid=UMK5G_pFTqlcNM&tbnid=X1I1yMd_AJmsfM%3A&vet=10ahUKEwjr5IGVqObkAhXCrY8KHX3tCM4QMwhCKAAwAA..i&w=253&h=313&bih=734&biw=1517&q=Memon%20Maternity%20Hospital&ved=0ahUKEwjr5IGVqObkAhXCrY8KHX3tCM4QMwhCKAAwAA&iact=mrc&uact=8"
+            "image":"https://www.ccc.org.bd/sites/default/files/contentimages/hospital.jpg"
         },
         {
             "name": "Chittagong Diabetic General Hospital ",
@@ -377,6 +377,14 @@
             "contact":"+880-721-772150",
             "link":"https://www.google.com/maps/place/Rajshahi+Medical+College+Hospital/@24.3808278,88.5850152,13z/data=!4m8!1m2!2m1!1sgoverment+hospital+in+rajshahi!3m4!1s0x39fbef02d4899947:0x6c5031675c0796a8!8m2!3d24.372019!4d88.5864259",
             "image":"https://lh5.googleusercontent.com/p/AF1QipNxkbZ3DOkvxfZsmbZuC5rQGkmpvUS_8cfbtyD1=w638-h240-k-no"
+
+        },
+        {
+            "name":"Rajshahi Diabetic Hospital" , 
+            "location":"Ct Station Rd, Rajshahi 6000",
+            "contact":"+880721-774237",
+            "link":"https://www.google.com/maps/place/Rajshahi+Diabetic+Hospital/@24.3705598,88.5798311,16z/data=!4m8!1m2!2m1!1sgoverment+hospital+in+rajshahi!3m4!1s0x39fbef1e5727d811:0xfb0094c1a77ce4f6!8m2!3d24.3724972!4d88.5788067",
+            "image":"https://lh5.googleusercontent.com/p/AF1QipN_v6RCR7betmliktxHCAeKLC45AF9p4y-alRqF=w431-h240-k-no"
 
         }
 
