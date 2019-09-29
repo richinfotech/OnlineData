@@ -7,7 +7,7 @@
         {
             "name": "Chattogram Medical College Hospital",
             "location": "57, K.B. Fazlul Kader road, P.S. Panchlaish, P.O, Chittagong 4203",
-            "contact": "+880",
+            "contact": "+8801925-813469",
             "link":"https://www.google.com/maps/place/Chattogram+Medical+College+Hospital/@22.3592758,91.8286158,17z/data=!3m1!4b1!4m5!3m4!1s0x30acd882a59437c7:0xf99d92fdc17dd741!8m2!3d22.3592709!4d91.8308045",
             "image":"http://app.dghs.gov.bd/hrm-old-data/uploads/cmch@hospi.dghs.gov.bd.jpg"
         },
@@ -164,7 +164,7 @@
         {
             "name":"Bangladesh ENT Hospital",
             "location":"4/1/A Sobahanbag Mirpur Road, Navana Newbury place(3rd floor) Dhaka, Dhaka 1205",
-            "contact":"+8802-9666-710-710",
+            "contact":"+880-9666-710-710",
             "link":"https://www.google.com/maps/place/Bangladesh+ENT+Hospital/@23.7958862,90.3264704,12z/data=!4m8!1m2!2m1!1shospital+in+dhaka!3m4!1s0x3755bf516bdb1367:0x4f806475c36428d8!8m2!3d23.7555135!4d90.3761081",
             "image":"https://lh5.googleusercontent.com/p/AF1QipNElIqfK3Mys7Do1PGugjMcC4r8OsBPrGyGgIzl=w408-h544-k-no"
         },
@@ -370,7 +370,16 @@
             "link":"https://www.google.com/maps/place/Sylhet+MAG+Osmani+Medical+Ambulance+Service/@24.9004114,91.8507088,17z/data=!4m12!1m6!3m5!1s0x37505537ac260909:0x4d0090c84c8e5d87!2sSylhet+MAG+Osmani+Medical+Ambulance+Service!8m2!3d24.9004114!4d91.8528975!3m4!1s0x37505537ac260909:0x4d0090c84c8e5d87!8m2!3d24.9004114!4d91.8528975",
             "image":"https://lh5.googleusercontent.com/p/AF1QipM8wSq2T-DllzbwkPFkdjYUIFCx33DdSSpGScFl=w408-h270-k-no"
 
+        },
+        {
+            "name":"Rajshahi Medical College Hospital" , 
+            "location": "Medical College Road, Rajshahi 6000",
+            "contact":"+880-721-772150",
+            "link":"https://www.google.com/maps/place/Rajshahi+Medical+College+Hospital/@24.3808278,88.5850152,13z/data=!4m8!1m2!2m1!1sgoverment+hospital+in+rajshahi!3m4!1s0x39fbef02d4899947:0x6c5031675c0796a8!8m2!3d24.372019!4d88.5864259",
+            "image":"https://lh5.googleusercontent.com/p/AF1QipNxkbZ3DOkvxfZsmbZuC5rQGkmpvUS_8cfbtyD1=w638-h240-k-no"
+
         }
+
 
     
     ]
