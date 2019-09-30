@@ -9,7 +9,8 @@
             "location": "57, K.B. Fazlul Kader road, P.S. Panchlaish, P.O, Chittagong 4203",
             "contact": "+8801925-813469",
             "link":"https://www.google.com/maps/place/Chattogram+Medical+College+Hospital/@22.3592758,91.8286158,17z/data=!3m1!4b1!4m5!3m4!1s0x30acd882a59437c7:0xf99d92fdc17dd741!8m2!3d22.3592709!4d91.8308045",
-            "image":"http://app.dghs.gov.bd/hrm-old-data/uploads/cmch@hospi.dghs.gov.bd.jpg"
+            "image":"http://app.dghs.gov.bd/hrm-old-data/uploads/cmch@hospi.dghs.gov.bd.jpg",
+            "web":"http://cmch.gov.bd/"
         },
         
         {
@@ -17,7 +18,8 @@
             "location": "Chittagong Eye Infirmary and Training Complex Campus, Zakir Hossain Rd, Chittagong 4202",
             "contact": "+88031-09612247247, +88031-659040",
             "link":"https://www.google.com/maps/place/Imperial+Hospital+Limited/@22.3592018,91.7931206,17z/data=!3m1!4b1!4m5!3m4!1s0x30acd8e328704ffd:0x518c4a1ca25f627e!8m2!3d22.3591969!4d91.7953093",
-            "image":"http://ihlbd.org/wp-content/uploads/2019/05/Photo-Shoeb-Faruquee-1.jpg"
+            "image":"http://ihlbd.org/wp-content/uploads/2019/05/Photo-Shoeb-Faruquee-1.jpg",
+            "web":"www.http://ihlbd.org/"
         },
     
         {
@@ -25,13 +27,14 @@
             "location": "Foy's Lake Approach Rd, Chittagong",
             "contact": "+88031-659017",
             "link":"https://www.google.com/maps/place/Chittagong+Eye+Infirmary+and+Training+Complex/@22.3604742,91.7935975,17z/data=!3m1!4b1!4m5!3m4!1s0x30acd8fcd0159da7:0x332790d8b99b825f!8m2!3d22.3604693!4d91.7957862",
-            "image":"http://www.ctgeyeinfirmary.info/wp-content/themes/healthcare/images/slider/slider2.jpg"
+            "image":"http://www.ctgeyeinfirmary.info/wp-content/themes/healthcare/images/slider/slider2.jpg",
+            "web":"www.http://www.ctgeyeinfirmary.info/"
         },
         
         {
             "name": "National Hospital Pvt. Ltd.",
             "location": "14, 15 Dampara Lane, Chittagong 4000",
-            "contact": "88031-623713 ext. +88031-2855128",
+            "contact": "+88031-623713 ext. +88031-2855128",
             "link":"https://www.google.com/maps/place/National+Hospital+Pvt.+Ltd./@22.3548576,91.8228695,17z/data=!3m1!4b1!4m5!3m4!1s0x30acd89bc84c503b:0xb95b0623d8dff91!8m2!3d22.3548527!4d91.8250582",
             "image":"https://lh5.googleusercontent.com/p/AF1QipOOoSM1HIWuGm6G0NoIoaye4effYtyhWPcnmdl5=w167-h160-k-no"
         },
