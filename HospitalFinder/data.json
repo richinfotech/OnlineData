@@ -46,7 +46,7 @@
             "contact": "+88031-2852670-3, +88031-651242, +88031-654732, +88031-655791, +88031-65275",
             "link":"https://www.google.com/maps/place/Chattogram+Metropolitan+Hospital+Limited/@22.3590441,91.8213325,17z/data=!3m1!4b1!4m5!3m4!1s0x30acd89acbc7378b:0x2cba326ce35efad4!8m2!3d22.3590392!4d91.8235212",
             "image":"https://lh5.googleusercontent.com/p/AF1QipNGlSUBFJD3Ru7y2yPqde7oFOVGyBZGB4HjslN1=w120-h160-k-no",
-            "web":""
+            "web":"/"
         },
         
         {
@@ -65,7 +65,7 @@
             "contact": "",
             "link":"https://www.google.com/maps/place/Bangabandhu+Memorial+Hospital,+Zakir+Hossain+Rd,+Chittagong/@22.3612944,91.7952388,17z/data=!3m1!4b1!4m5!3m4!1s0x30acd8fc9a281339:0xbaa46b21c664ac3!8m2!3d22.361248!4d91.797446",
             "image":"https://scontent.fcgp3-1.fna.fbcdn.net/v/t1.0-9/66234227_707331323019425_2023504671062097920_o.jpg?_nc_cat=110&_nc_oc=AQkY0TN2zdv9xYErgNnxiw7Ppm1ebKZFi6-kz-0iGSJuroAEnkB5JzJVnuq4aM1EXzQ&_nc_ht=scontent.fcgp3-1.fna&oh=dbd13759ac74b5f2451088255e215c99&oe=5E3D9724",           
-            "web" :""
+            "web" :"/"
 
         },
     
@@ -78,16 +78,6 @@
             "web": "http://epichcl.com"
         },
 
-
-        {
-            "name": "Centre Point Hospital (Pvt)Ltd.",
-            "location": "100, Momin Road, Chittagong",
-            "contact": "+88031-639025,+88031-639026,+88031-639027",
-            "link":"https://www.google.com/maps/place/Centre+Point+Hospital+(Pvt)+Limited,+Chittagong/@22.343756,91.8318683,17z/data=!3m1!4b1!4m5!3m4!1s0x30ad275f0371c35d:0xc14c42794c530c4e!8m2!3d22.3438018!4d91.8340811",
-            "image":"https://lh5.googleusercontent.com/p/AF1QipO6ro46LiLtUx1P647-onfXkAeguBRd4C_mIp27=w240-h160-k-no",
-            "web":""
-        },
-		
 		{
             "name": "Chattagram Maa-Shishu General Hospital",
             "location": "Agrabad, Chittagong",
@@ -120,9 +110,19 @@
             "contact": "+88031-617169, +88031-621799, +88031-621798",
             "link":"https://www.google.com/maps/place/Memon+Maternity+Hospital/@22.3316825,91.8310787,19z/data=!4m5!3m4!1s0x30ad275626e27527:0xd8965ba6c90bca9e!8m2!3d22.3314431!4d91.8319477",
             "image":"https://www.ccc.org.bd/sites/default/files/contentimages/hospital.jpg",
-            "web":""
+            "web":"/"
 
         },
+
+        {
+            "name": "Centre Point Hospital (Pvt)Ltd.",
+            "location": "100, Momin Road, Chittagong",
+            "contact": "+88031-639025,+88031-639026,+88031-639027",
+            "link":"https://www.google.com/maps/place/Centre+Point+Hospital+(Pvt)+Limited,+Chittagong/@22.343756,91.8318683,17z/data=!3m1!4b1!4m5!3m4!1s0x30ad275f0371c35d:0xc14c42794c530c4e!8m2!3d22.3438018!4d91.8340811",
+            "image":"https://lh5.googleusercontent.com/p/AF1QipO6ro46LiLtUx1P647-onfXkAeguBRd4C_mIp27=w240-h160-k-no",
+            "web":"/"
+        },
+
         {
             "name": "Chittagong Diabetic General Hospital ",
             "location": "Zakir Hossain Rd, Chittagong",
@@ -146,7 +146,7 @@
             "contact": "+8801730031897",
             "link":"https://www.google.com/maps/place/LABAID+CHITTAGONG-NEW/@22.3598233,91.8247862,17z/data=!3m1!4b1!4m5!3m4!1s0x30acd8834f6ac0f3:0x304bc2a1aa8c0bdb!8m2!3d22.3598184!4d91.8269749",
             "image":"https://1.bp.blogspot.com/-AZWxhHhPSLI/V_jvyBGuLmI/AAAAAAAAJx0/fWgmw04cCD4Z6c8-K8TIyPqyJkQAdbukACLcB/s1600/Labaid%2BDiagnostics%2BUttara%2BAddress.JPG",
-            "web":""
+            "web":"/"
         },
         {
             "name": "Medical Centre (Pvt) Clinic",
@@ -154,7 +154,7 @@
             "contact": "+88031651054, +88031651944, +88031658501 ,+88031658502 ,+88031658503 ,+88031658504 ",
             "link":"https://www.google.com/maps/place/Medical+Centre/@22.3595068,91.8207202,17z/data=!3m1!4b1!4m5!3m4!1s0x30acd8854c6350d5:0xfa58c26ac5708278!8m2!3d22.3595019!4d91.8229089",
             "image":"https://geo0.ggpht.com/cbk?panoid=M7_sXUm7RCrKLuXOJW5qVw&output=thumbnail&cb_client=search.gws-prod/local-details-localweb.gps&thumb=2&yaw=208.54187&pitch=0&thumbfov=100&w=226&h=79",
-            "web":""
+            "web":"/"
 
             
         },
@@ -218,10 +218,10 @@
         {
             "name":"Dhaka National Medical Institute Hospital",
             "location":"Johnson Rd, Dhaka",
-            "contact":"+8801727-249182",
+            "contact":"+880247117300, +880247113469, +880247116328",
             "link":"https://www.google.com/search?q=dhaka+hospital+list&npsic=0&rflfq=1&rlha=0&rllag=23744723,90382007,4014&tbm=lcl&ved=2ahUKEwiK1_WKj-bkAhXBAnIKHfXOCVIQtgN6BAgKEAQ&tbs=lrf:!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2&rldoc=1#rlfi=hd:;si:2304019976682906842;mv:[[23.816033899999997,90.43524529999999],[23.7016578,90.3570743]]",
             "image":"https://innovidya.com/wp-content/uploads/2019/05/dhakanationalmedical.jpg",
-            "web":""
+            "web":"http://dnmih.com/dnmih/index.php/"
         },
         
         {
@@ -239,7 +239,7 @@
             "contact":"+8801924-403430",
             "link":"https://www.google.com/maps/place/Baridhara+General+Hospital+Ltd./@23.809518,90.418669,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c7ad47e29f3f:0x222976ffa8ac3e2e!8m2!3d23.809518!4d90.4208577",
             "image":"https://lh5.googleusercontent.com/p/AF1QipNL1pnXTHO6gRXZSevPNn3onn2Iv1wCq-GdJ-zj=w90-h160-k-no",
-            "web":""
+            "web":"/"
         },
         
         {
@@ -257,7 +257,7 @@
             "contact":"+8801618-225566",
             "link":"https://www.google.com/maps/place/Dhaka+Paediatric-Neonatal+%26+General+Hospital+Limited/@23.7555399,90.3651717,17z/data=!3m1!4b1!4m5!3m4!1s0x3755bf50e0a4dbe5:0xa3682eb7aba67679!8m2!3d23.7555399!4d90.3673604",
             "image":"https://lh5.googleusercontent.com/p/AF1QipPVrccMnW06GF1MMurNz_YtjbxLfRskwSPXKQPS=w408-h544-k-no",
-            "web":""
+            "web":"http://www.dpnghospital.com/"
         },
         
         {
@@ -266,7 +266,7 @@
             "contact":"+8802-9131901",
             "link":"https://www.google.com/maps/place/Samorita+Hospital/@23.7956018,90.326469,12z/data=!4m8!1m2!2m1!1shospital+in+dhaka!3m4!1s0x3755b8a514c7d865:0xd3461d0dab3c46f9!8m2!3d23.7526281!4d90.3851941",
             "image":"http://hospital.bangladeshinformation.info/wp-content/uploads/sites/6/2016/06/Samorita-Hospital-Limited.jpg",
-            "web":""
+            "web":"http://samoritahospital.org/contact/"
         },
         
 
@@ -276,7 +276,7 @@
             "contact":"+8801724-579521",
             "link":"https://www.google.com/maps/place/CMH+Dhaka/@23.7956334,90.3264691,12z/data=!4m8!1m2!2m1!1shospital+in+dhaka!3m4!1s0x3755c6e16536e371:0xf1da9493f88d8f6a!8m2!3d23.8144598!4d90.3988756",
             "image":"https://uralems.com/wp-content/uploads/2018/06/shishu.png",
-            "web":""
+            "web":"/"
         },
         
         
@@ -286,7 +286,7 @@
             "contact":"+8802-57319737",
             "link":"https://www.google.com/maps/place/Dhaka+Mahanagar+Shishu+Hospital/@23.7180578,90.3903248,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b8dfca98d49d:0x8b4673ddf7ed2e3d!8m2!3d23.7180578!4d90.3925135",
             "image":"https://lh5.googleusercontent.com/p/AF1QipOx8A-zVXnURNvilHd4aOGm_8IOKyN24fU-g8fy=w408-h306-k-no",
-            "web":""
+            "web":"/"
         },
         {
             "name":"Dhaka  Shishu Hospital",
@@ -294,7 +294,7 @@
             "contact":"+8802-9128308",
             "link":"https://www.google.com/maps/place/Dhaka+Shishu+Hospital/@23.7730214,90.3671239,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c0ae6bca6f83:0x105b5c9a03ea571d!8m2!3d23.7730214!4d90.3693126",
             "image":"http://dhakashishuhospital.org.bd/wp-content/uploads/2015/09/slide-111.jpg",
-            "web":""
+            "web":"http://dhakashishuhospital.org.bd/index.php/contact/"
         },
         
         {
@@ -303,7 +303,7 @@
             "contact":"+8802-8144400 , ext. 10616",
             "link":"https://www.google.com/maps/place/Square+Hospital/@23.752921,90.3816716,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPZBrOfVkNZF5elDxDyZbHA3dm2Nko-P7gMTTiw!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPZBrOfVkNZF5elDxDyZbHA3dm2Nko-P7gMTTiw%3Dw86-h114-k-no!7i3024!8i4032!4m8!1m2!2m1!1shospital+in+dhaka!3m4!1s0x3755b8ae4e52eabd:0x113b1873c9a9c2c1!8m2!3d23.752921!4d90.3816716",
             "image":"https://d30fl32nd2baj9.cloudfront.net/media/2016/02/11/squere-hospital.jpg/ALTERNATES/w640/Squere+Hospital.jpg",
-            "web":""
+            "web":"https://www.squarehospital.com/contact"
         },
        
         {
@@ -312,7 +312,7 @@
             "contact":"+8802-9033442",
             "link":"https://www.google.com/maps/place/National+Heart+Foundation+Hospital+%26+Research+Institute/@23.795665,90.3264692,12z/data=!4m8!1m2!2m1!1shospital+in+dhaka!3m4!1s0x3755c0dbdd6121e9:0x28d6161b55e58cc4!8m2!3d23.8036721!4d90.3619639",
             "image":"http://hospital.bangladeshinformation.info/wp-content/uploads/sites/6/2017/10/National-Heart-Foundation-Hospital-and-Research-Institute.jpg",
-            "web":""
+            "web":"http://www.nhf.org.bd"
         },
 
         {
@@ -321,7 +321,7 @@
             "contact":"+880-9666-710606",
             "link":"https://www.google.com/maps/place/LABAID+Specialized+Hospital/@23.7956966,90.3264694,12z/data=!4m8!1m2!2m1!1shospital+in+dhaka!3m4!1s0x3755b8b7a02be491:0x45a9f97c4d06d4f9!8m2!3d23.741925!4d90.3830321",
             "image":"https://www.finddoctor24.com/wp-content/uploads/2017/09/Labaid-hospital.png",
-            "web":""
+            "web":"http://labaidgroup.com/specialized"
         },
 
         {
@@ -330,7 +330,7 @@
             "contact":"+8802-48311721",
             "link":"https://www.google.com/maps/place/Holy+Family+Red+Crescent+Medical+College+Hospital/@23.7957914,90.3264698,12z/data=!4m8!1m2!2m1!1shospital+in+dhaka!3m4!1s0x3755b891de1de645:0x40ef87af7ed080c3!8m2!3d23.7466978!4d90.4031136",
             "image":"https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_2/public/feature/images/holy_family_0.jpg?itok=pn7JrWDm",
-            "web":""
+            "web":"https://www.hfrcmc.edu.bd/"
         },
 
         {
@@ -345,10 +345,10 @@
         {
             "name":"United Hospital Limited",
             "location":"Plot 15 Rd No 71, Dhaka 1212",
-            "contact":"+8809666-710666",
+            "contact":"+8809666-710666 , Emergency : 10666, +8809852466",
             "link":"https://www.google.com/maps/place/United+Hospital+Limited/@23.7958546,90.3264701,12z/data=!4m8!1m2!2m1!1shospital+in+dhaka!3m4!1s0x3755c7abd941ed15:0xf151df4e4e9c047c!8m2!3d23.8046243!4d90.4154716",
             "image":"https://specialistdoctorbd.com/wp-content/uploads/2019/01/United-Hospital-Gulshan.jpg",
-            "web":""
+            "web":"http://www.uhlbd.com/"
         },
         
         {
@@ -366,8 +366,28 @@
             "contact":"+8802-9010831",
             "link":"https://www.google.com/maps/search/Dhaka+Eye+Hospital/@23.8045399,90.3175335,12z/data=!3m1!4b1",
             "image":"",
-            "web":""
+            "web":"https://bdeyehospital.com/"
         },
+        {
+            "name":"Lions Eye Institute & Hospital" , 
+            "location": "Lions Bhaban, Begum Rokeya, Prof. Abdullah Sarani, Dhaka 1207",
+            "contact":"+8802-55053564",
+            "link":"https://www.google.com/maps?q=Lions+Eye+Institute+%26+Hospital&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjLq8iz7_rkAhUBfH0KHZIzAJwQ_AUIEigB",
+            "image":"https://4.bp.blogspot.com/-1QDjV6i3EjA/WYc1Jguu0dI/AAAAAAAAAQk/Xrd0thwAFwU-ZDVfaHyQtT4JHoE5Nm0pwCLcBGAs/s1600/%25E0%25A6%25B2%25E0%25A6%25BE%25E0%25A7%259F%25E0%25A6%25A8%25E0%25A7%258D%25E0%25A6%25B8%2B%25E0%25A6%259A%25E0%25A6%2595%25E0%25A7%258D%25E0%25A6%25B7%25E0%25A7%2581%2B%25E0%25A6%25B9%25E0%25A6%25BE%25E0%25A6%25B8%25E0%25A6%25AA%25E0%25A6%25BE%25E0%25A6%25A4%25E0%25A6%25BE%25E0%25A6%25B2.jpg",
+            "web":"http://www.blfbd.org/"
+
+        },
+
+        {
+            "name":"Ibrahim Cardiac Hospital & Research Institute" , 
+            "location": "122 Kazi Nazrul Islam Ave, Dhaka 1000",
+            "contact":"+8802-9671147",
+            "link":"https://www.google.com/maps/place/Ibrahim+Cardiac+Hospital+%26+Research+Institute/@23.7388224,90.3943324,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c6fffffffffd:0xf34c43e9d700fc84!8m2!3d23.7388224!4d90.3965264",
+            "image":"https://lh5.googleusercontent.com/p/AF1QipNSmPVsF4hb1W-l8lpESIgt8LQJ77kAZ67F9H9A=w408-h306-k-no",
+            "web":"https://www.ibrahimcardiac.org.bd/"
+
+        },
+
         {
             "name":"Sher-E-Bangla Medical College & Hospital" , 
             "location":"Band Rd, Barisal 8200",
@@ -393,7 +413,7 @@
             "contact":"+8801768-027115",
             "link":"https://www.google.com/maps/search/Mymensingh+medical+college+hospital/@24.7427542,90.4050699,16z/data=!3m1!4b1",
             "image":"https://www.daily-sun.com/assets/news_images/2019/09/10/thumbnails/mmch-daily-sun.JPG",
-            "web":""
+            "web":"http://mmch.gov.bd/"
 
         },
         {
@@ -402,7 +422,7 @@
             "contact":"+8801821-431144",
             "link":"https://www.google.com/maps/place/Cox's+Bazar+Medical+College+and+Hospital/@21.4202269,92.012799,17z/data=!3m1!4b1!4m5!3m4!1s0x30adc7b3cb134db7:0xd946d9fc39080de6!8m2!3d21.4202269!4d92.0149877",
             "image":"https://lh5.googleusercontent.com/p/AF1QipMu-GLwRDRknf_Tusf__HX6Lssoi7I2T3AZr9Xx=w426-h240-k-no",
-            "web":""
+            "web":"/"
 
         },
         {
@@ -411,7 +431,7 @@
             "contact":"+880521-63388",
             "link":"https://www.google.com/maps/place/Rangpur+Medical+College+and+Hospital/@25.7676395,89.2309869,17z/data=!4m8!1m2!2m1!1sRangpur+medical+college+hospital!3m4!1s0x0:0xe0a9a8a0cbb0b156!8m2!3d25.7668624!4d89.2340878",
             "image":"https://lh5.googleusercontent.com/p/AF1QipMPfIF_HbM_PnojOKzom_7pJBOgE0qEkisBS8rA=w408-h306-k-no",
-            "web":""
+            "web":"http://rpmc.edu.bd/"
 
         },
         {
@@ -420,7 +440,7 @@
             "contact":"+8801722-089236",
             "link":"https://www.google.com/maps/place/Sylhet+MAG+Osmani+Medical+Ambulance+Service/@24.9004114,91.8507088,17z/data=!4m12!1m6!3m5!1s0x37505537ac260909:0x4d0090c84c8e5d87!2sSylhet+MAG+Osmani+Medical+Ambulance+Service!8m2!3d24.9004114!4d91.8528975!3m4!1s0x37505537ac260909:0x4d0090c84c8e5d87!8m2!3d24.9004114!4d91.8528975",
             "image":"https://lh5.googleusercontent.com/p/AF1QipM8wSq2T-DllzbwkPFkdjYUIFCx33DdSSpGScFl=w408-h270-k-no",
-            "web":""
+            "web":"http://magosmanimedical.com/contact/"
 
         },
         {
@@ -429,7 +449,7 @@
             "contact":"+880-721-772150",
             "link":"https://www.google.com/maps/place/Rajshahi+Medical+College+Hospital/@24.3808278,88.5850152,13z/data=!4m8!1m2!2m1!1sgoverment+hospital+in+rajshahi!3m4!1s0x39fbef02d4899947:0x6c5031675c0796a8!8m2!3d24.372019!4d88.5864259",
             "image":"https://lh5.googleusercontent.com/p/AF1QipNxkbZ3DOkvxfZsmbZuC5rQGkmpvUS_8cfbtyD1=w638-h240-k-no",
-            "web":""
+            "web":"https://rmc.gov.bd"
 
         },
         {
@@ -438,7 +458,7 @@
             "contact":"+880721-774237",
             "link":"https://www.google.com/maps/place/Rajshahi+Diabetic+Hospital/@24.3705598,88.5798311,16z/data=!4m8!1m2!2m1!1sgoverment+hospital+in+rajshahi!3m4!1s0x39fbef1e5727d811:0xfb0094c1a77ce4f6!8m2!3d24.3724972!4d88.5788067",
             "image":"https://lh5.googleusercontent.com/p/AF1QipN_v6RCR7betmliktxHCAeKLC45AF9p4y-alRqF=w431-h240-k-no",
-            "web":""
+            "web":"/"
             
 
         }
