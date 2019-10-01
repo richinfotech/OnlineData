@@ -459,9 +459,46 @@
             "link":"https://www.google.com/maps/place/Rajshahi+Diabetic+Hospital/@24.3705598,88.5798311,16z/data=!4m8!1m2!2m1!1sgoverment+hospital+in+rajshahi!3m4!1s0x39fbef1e5727d811:0xfb0094c1a77ce4f6!8m2!3d24.3724972!4d88.5788067",
             "image":"https://lh5.googleusercontent.com/p/AF1QipN_v6RCR7betmliktxHCAeKLC45AF9p4y-alRqF=w431-h240-k-no",
             "web":"..."
-            
+        },
+        {
+            "name":"Comilla Medical College Hospital" , 
+            "location": "Kuchaitoli, Dr Akhtar Hameed Khan Rd, Comilla 3500",
+            "contact":"+8801769957089",
+            "link":"https://www.google.com/maps/place/Cumilla+Medical+College+Hospital/@23.4515415,91.2007663,17z/data=!3m1!4b1!4m5!3m4!1s0x37547f42ce41056b:0xf04e2e3fa242529!8m2!3d23.4515415!4d91.2029603",
+            "image":"https://lh5.googleusercontent.com/p/AF1QipN7Auq59ZefccLGWNrnxd-_5Yooe82FSowBEREc=w213-h160-k-no",
+            "web":"https://comch.gov.bd/"
+
+        },
+        {
+            "name":"Central Hospital" , 
+            "location": "House # 2 Road No. 5, Green Rd, Dhaka 1205",
+            "contact":"+88029660015, +88029660016, +88029660017, +88029660018, +88029660019",
+            "link":"https://www.google.com/maps/place/Central+Hospital+Ltd/@23.7433187,90.3819847,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b8b760487055:0x37543b5a72d5cf50!8m2!3d23.7433187!4d90.3841787",
+            "image":"https://lh5.googleusercontent.com/p/AF1QipNuVruTTpb_vshtnNxAqbLyKUHG12Rko-gfvJwU=w408-h544-k-no",
+            "web":"http://centralhospitalltdbd.com/"
+
+        },
+        {
+            "name":"Faridpur Medical College Hospital" , 
+            "location": "Faridpur",
+            "contact":"+88-0631-62744, +88-0631-64911, ",
+            "link":"https://www.google.com/maps/place/Faridpur+Medical+College+Hospital/@23.5880489,89.8352342,17z/data=!4m12!1m6!3m5!1s0x39fe3abb86d1f009:0x90c4c32b4a164596!2sFaridpur+Medical+College+Hospital!8m2!3d23.5880489!4d89.8352342!3m4!1s0x39fe3abb86d1f009:0x90c4c32b4a164596!8m2!3d23.5880489!4d89.8352342",
+            "image":"https://lh5.googleusercontent.com/p/AF1QipMrlZIToRu6yhNluuUGsYE9P2G1VMJ9Ehw_18BK=w408-h306-k-no",
+            "web":"https://fmcgov.edu.bd/contact-us/"
+
+        },
+        {
+            "name":"Shaheed Suhrawardy Medical College and Hospital" , 
+            "location": "Sher-E-Bangla Nagar, Dhaka-1207",
+            "contact":"+8802-8144048",
+            "link":"https://www.google.com/maps/place/Shaheed+Suhrawardy+Medical+College+and+Hospital/@23.7692146,90.3691676,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c0ac0ea174af:0x515136eca08d1278!8m2!3d23.7692146!4d90.3713616?hl=en-US",
+            "image":"https://lh5.googleusercontent.com/p/AF1QipNjhsubacE3fYI9YDk7ktSjeXeJTjL1JH-fguIm=w426-h240-k-no",
+            "web":"http://www.shsmc.gov.bd"
 
         }
+
+
+
 
 
     
