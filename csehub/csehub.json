@@ -5,7 +5,7 @@
     "topics": [
         {
             "topic_name": "Programming",
-            "sunjects": [
+            "subjects": [
                 {
                     "book_name": "C++",
                     "link": "asas"
@@ -18,7 +18,7 @@
         },
         {
             "topic_name": "Programming",
-            "sunjects": [
+            "subjects": [
                 {
                     "book_name": "C++",
                     "link": "asas"
