@@ -270,7 +270,7 @@
         
         {
             "name":"icddr,b Dhaka Hospital",
-            "bn_name":"আইসিডিডিআর, বি Dhakaাকা হাসপাতাল",
+            "bn_name":"আইসিডিডিআর,বি, ঢাকা হাসপাতাল",
             "location":"Shaheed Tajuddin Ahmed Ave, Dhaka 1213",
             "contact":"+8802-982-7001 , +8802-982-7001,+8802-982-7002, +8802-982-7003, +8802-982-7004,+8802-982-7005,+8802-982-7006, +8802-982-7007, +8802-982-7008, +8802-982-7009, +8802-982-70010",
             "link":"https://www.google.com/maps/place/icddr,b+Dhaka+Hospital/@23.7767991,90.3986598,16.25z/data=!4m8!1m2!2m1!1sicddr,b+Dhaka+Hospital!3m4!1s0x3755c76f14a17d21:0x21d99bb2a79b19ec!8m2!3d23.7762341!4d90.3998372",
@@ -280,7 +280,7 @@
         
         {
             "name":"Dhaka Paediatric-Neonatal & General Hospital",
-            "bn_name":"Dhaka Paediatric-Neonatal & General Hospital",
+            "bn_name":"ঢাকা পেডিয়াট্রিক-নবজাতক ও জেনারেল হাসপাতাল",
             "location":"4, 4A Zakir Hussain Rd, Dhaka 1207",
             "contact":"+8801618-225566",
             "link":"https://www.google.com/maps/place/Dhaka+Paediatric-Neonatal+%26+General+Hospital+Limited/@23.7555399,90.3651717,17z/data=!3m1!4b1!4m5!3m4!1s0x3755bf50e0a4dbe5:0xa3682eb7aba67679!8m2!3d23.7555399!4d90.3673604",
@@ -398,7 +398,6 @@
             "image":"https://geo1.ggpht.com/cbk?panoid=xmlyrKFSEJqC6LDVQ0l-2Q&output=thumbnail&cb_client=search.LOCAL_UNIVERSAL.gps&thumb=2&yaw=173.18797&pitch=0&thumbfov=100&w=226&h=79",
             "web":""
         },
-
         {
             "name":"Dhaka Eye Hospital" , 
             "bn_name":"ঢাকা চক্ষু হাসপাতাল" , 
@@ -410,7 +409,7 @@
         },
         {
             "name":"Lions Eye Institute & Hospital" ,
-            "bn_name":"লায়ন্স আই ইনস্টিটিউট ও হাসপাতাল" , 
+            "bn_name":"লায়ন্স চক্ষু ইনস্টিটিউট ও হাসপাতাল" , 
             "location": "Lions Bhaban, Begum Rokeya, Prof. Abdullah Sarani, Dhaka 1207",
             "contact":"+8802-55053564",
             "link":"https://www.google.com/maps?q=Lions+Eye+Institute+%26+Hospital&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjLq8iz7_rkAhUBfH0KHZIzAJwQ_AUIEigB",
