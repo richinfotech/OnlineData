@@ -5,7 +5,7 @@
     "Cars" : [
         
         {
-            "name":"Audi",
+            "brand_name":"Audi",
             "model":"TT RS",
             "video":"",
             "audio":"",
