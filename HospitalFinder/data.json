@@ -491,25 +491,6 @@
 
         },
         {
-            "name":"Rajshahi Medical College Hospital" , 
-            "bn_name":"রাজশাহী মেডিকেল কলেজ হাসপাতাল" ,
-            "location": "Medical College Road, Rajshahi 6000",
-            "contact":"+880-721-772150",
-            "link":"https://www.google.com/maps/place/Rajshahi+Medical+College+Hospital/@24.3808278,88.5850152,13z/data=!4m8!1m2!2m1!1sgoverment+hospital+in+rajshahi!3m4!1s0x39fbef02d4899947:0x6c5031675c0796a8!8m2!3d24.372019!4d88.5864259",
-            "image":"https://lh5.googleusercontent.com/p/AF1QipNxkbZ3DOkvxfZsmbZuC5rQGkmpvUS_8cfbtyD1=w638-h240-k-no",
-            "web":"https://rmc.gov.bd"
-
-        },
-        {
-            "name":"Rajshahi Diabetic Hospital" ,
-            "bn_name":"রাজশাহী ডায়াবেটিক হাসপাতাল" , 
-            "location":"Ct Station Rd, Rajshahi 6000",
-            "contact":"+880721-774237",
-            "link":"https://www.google.com/maps/place/Rajshahi+Diabetic+Hospital/@24.3705598,88.5798311,16z/data=!4m8!1m2!2m1!1sgoverment+hospital+in+rajshahi!3m4!1s0x39fbef1e5727d811:0xfb0094c1a77ce4f6!8m2!3d24.3724972!4d88.5788067",
-            "image":"https://lh5.googleusercontent.com/p/AF1QipN_v6RCR7betmliktxHCAeKLC45AF9p4y-alRqF=w431-h240-k-no",
-            "web":"..."
-        },
-        {
             "name":"Comilla Medical College Hospital" , 
             "bn_name":"কুমিল্লা মেডিকেল কলেজ হাসপাতাল" , 
             "location": "Kuchaitoli, Dr Akhtar Hameed Khan Rd, Comilla 3500",
@@ -548,7 +529,122 @@
             "image":"https://lh5.googleusercontent.com/p/AF1QipNjhsubacE3fYI9YDk7ktSjeXeJTjL1JH-fguIm=w426-h240-k-no",
             "web":"http://www.shsmc.gov.bd"
 
+        },
+        {
+            "name":"Islami Bank Medical College Hospital Rajshahi",
+            "bn_name":"ইসলামী ব্যাংক মেডিকেল কলেজ হাসপাতাল রাজশাহী",
+            "location":"Medical Road, Rajshahi 6000",
+            "contact":"+8801763-930101",
+            "link":"https://www.google.com/maps/place/Islami+Bank+Medical+College+Hospital+Rajshahi/@24.372419,88.5837662,13z/data=!4m8!1m2!2m1!1sRajshahi+hospital!3m4!1s0x39fbef1d895bd4d5:0x4eb18177fbc1e8e2!8m2!3d24.3718027!4d88.5829712",
+            "image":"https://lh5.googleusercontent.com/p/AF1QipNED4Z9sD9lmWFOXogaLPnPnt_5ItgAIrVFYIhM=w426-h240-k-no",
+            "web":""
+        },
+        {
+            "name":"Rajshahi Cancer Hospital and Research Center Trust",
+            "bn_name":"রাজশাহী ক্যান্সার হাসপাতাল ও গবেষণা কেন্দ্র",
+            "location":"Shyampur, Maskatadighi, Rajshahi-6212, Bangladesh",
+            "contact":"+880721-751289",
+            "link":"https://www.google.com/maps/place/Rajshahi+Cancer+Hospital+and+Research+Center+Trust/@24.3661316,88.664789,17z/data=!4m8!1m2!2m1!1sRajshahi+hospital!3m4!1s0x0:0x61b72fbb3488ece3!8m2!3d24.3661362!4d88.6647856",
+            "image":"https://lh5.googleusercontent.com/p/AF1QipP4dqXcKSb2JUQiJvTWd0V6_LI1-_nIaziWmCB5=w408-h255-k-no",
+            "web":"https://rchrct.blogspot.com/"
+        },
+        {
+            "name":"Rajshahi Medical College Hospital" , 
+            "bn_name":"রাজশাহী মেডিকেল কলেজ হাসপাতাল" ,
+            "location": "Medical College Road, Rajshahi 6000",
+            "contact":"+880-721-772150",
+            "link":"https://www.google.com/maps/place/Rajshahi+Medical+College+Hospital/@24.3808278,88.5850152,13z/data=!4m8!1m2!2m1!1sgoverment+hospital+in+rajshahi!3m4!1s0x39fbef02d4899947:0x6c5031675c0796a8!8m2!3d24.372019!4d88.5864259",
+            "image":"https://lh5.googleusercontent.com/p/AF1QipNxkbZ3DOkvxfZsmbZuC5rQGkmpvUS_8cfbtyD1=w638-h240-k-no",
+            "web":"https://rmc.gov.bd"
+
+        },
+        {
+            "name":"Rajshahi Diabetic Hospital" ,
+            "bn_name":"রাজশাহী ডায়াবেটিক হাসপাতাল" , 
+            "location":"Ct Station Rd, Rajshahi 6000",
+            "contact":"+880721-774237",
+            "link":"https://www.google.com/maps/place/Rajshahi+Diabetic+Hospital/@24.3705598,88.5798311,16z/data=!4m8!1m2!2m1!1sgoverment+hospital+in+rajshahi!3m4!1s0x39fbef1e5727d811:0xfb0094c1a77ce4f6!8m2!3d24.3724972!4d88.5788067",
+            "image":"https://lh5.googleusercontent.com/p/AF1QipN_v6RCR7betmliktxHCAeKLC45AF9p4y-alRqF=w431-h240-k-no",
+            "web":"..."
+        },
+
+        {
+            "name":"Rajshahi City Hospital",
+            "bn_name":"",
+            "location":"",
+            "contact":"",
+            "link":"",
+            "image":"",
+            "web":""
+        },
+        {
+            "name":"Barinda Medical College & Hospital",
+            "bn_name":"",
+            "location":"",
+            "contact":"",
+            "link":"",
+            "image":"",
+            "web":""
+        },
+        
+        {
+            "name":"CDM Hospital",
+            "bn_name":"",
+            "location":"",
+            "contact":"",
+            "link":"",
+            "image":"",
+            "web":""
+        },
+        {
+            "name":"Rajshahi Metropolitan Hospital Ltd.",
+            "bn_name":"",
+            "location":"",
+            "contact":"",
+            "link":"",
+            "image":"",
+            "web":""
+        },
+        
+        {
+            "name":"Rajshahi Comfort Hospital",
+            "bn_name":"",
+            "location":"",
+            "contact":"",
+            "link":"",
+            "image":"",
+            "web":""
+        },
+        {
+            "name":"Udayan Dental College & Hospital, Rajshahi",
+            "bn_name":"",
+            "location":"",
+            "contact":"",
+            "link":"",
+            "image":"",
+            "web":""
+        },
+        
+        {
+            "name":"Rajshahi Shisu Hospital",
+            "bn_name":"",
+            "location":"",
+            "contact":"",
+            "link":"",
+            "image":"",
+            "web":""
+        },
+        {
+            "name":"Christian Mission Hospital",
+            "bn_name":"",
+            "location":"",
+            "contact":"",
+            "link":"",
+            "image":"",
+            "web":""
         }
+        
+        
 
 
 
