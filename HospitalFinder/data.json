@@ -393,10 +393,10 @@
             "name":"Bangladesh Specialized Hospital",
             "bn_name":"বাংলাদেশ বিশেষায়িত হাসপাতাল",
             "location":"21, Mirpur Rd, Dhaka 1207",
-            "contact":"+8809666-700100",
+            "contact":"+8809666-700100, Hotline:10633",
             "link":"https://www.google.com/maps/place/Bangladesh+Specialized+Hospital/@23.7958862,90.3264703,12z/data=!4m8!1m2!2m1!1shospital+in+dhaka!3m4!1s0x3755c0bae1e1a7c1:0x8b2ca149919574a7!8m2!3d23.7763654!4d90.3629548",
             "image":"https://geo1.ggpht.com/cbk?panoid=xmlyrKFSEJqC6LDVQ0l-2Q&output=thumbnail&cb_client=search.LOCAL_UNIVERSAL.gps&thumb=2&yaw=173.18797&pitch=0&thumbfov=100&w=226&h=79",
-            "web":""
+            "web":"https://www.bdspecializedhospital.com/"
         },
         {
             "name":"Dhaka Eye Hospital" , 
@@ -404,7 +404,7 @@
             "location": "5 Mirpur Rd, Dhaka",
             "contact":"+8802-9010831",
             "link":"https://www.google.com/maps/search/Dhaka+Eye+Hospital/@23.8045399,90.3175335,12z/data=!3m1!4b1",
-            "image":"",
+            "image":"https://lh5.googleusercontent.com/p/AF1QipNeSlmYsY7xQXAK3wVdzgjGye-Icinj_HJ34srt=w408-h280-k-no",
             "web":"https://bdeyehospital.com/"
         },
         {
