@@ -5,17 +5,6 @@
     "cars" : [
         
         {
-            "brand_name":"Audi",
-            "model":"TT RS",
-            "video":"",
-            "audio":"", 
-            "image":"https://media.gq.com/photos/55829893e52bc4b477a9b1c4/master/w_1600%2Cc_limit/cars-and-gear-2010-12-over-250k-over-250k-mclaren-mp4-12c.jpg",
-            "description":"The Audi TT is a 2-door sports car marketed by Volkswagen Group subsidiary Audi since 1998, and now in its third generation. The first two generations were assembled by the Audi subsidiary Audi Hungaria Motor Kft. in Győr, Hungary, using bodyshells manufactured and painted at Audi's Ingolstadt plant[2] and parts made entirely by the Hungarian factory for the third generation",
-            "link":"https://en.wikipedia.org/wiki/Audi_TT#TT_RS"
-            
-        },
-
-        {
             "brand_name":"ROLLS-ROYCE",
             "model":"PHANTOM",
             "video":"",
@@ -30,7 +19,7 @@
             "model":"PHANTOM EWB",
             "video":"",
             "audio":"", 
-            "image":"",
+            "image":"https://www.rolls-roycemotorcars.com/content/dam/rollsroyce-website/Menu%20Model%20Thumbnails/JPEGS/RR_Phantom_Model_Selector_Belladonna_3.jpg.rr.1198.LOW.jpg",
             "description":"",
             "link":""
             
