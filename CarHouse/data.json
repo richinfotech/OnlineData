@@ -102,7 +102,28 @@
             "image": "",
             "description": "",
             "link": ""
-        },{
+        },
+        {
+            "brand_name": "BMW",
+            "brand_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/150px-BMW.svg.png",
+            "model": "",
+            "video": "",
+            "audio": "",
+            "image": "",
+            "description": "",
+            "link": ""
+        },
+        {
+            "brand_name": "BMW",
+            "brand_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/150px-BMW.svg.png",
+            "model": "",
+            "video": "",
+            "audio": "",
+            "image": "",
+            "description": "",
+            "link": ""
+        },
+        {
             "brand_name": "BMW",
             "brand_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/150px-BMW.svg.png",
             "model": "",
@@ -141,15 +162,6 @@
             "image": "",
             "description": "",
             "link": ""
-        },{
-            "brand_name": "BMW",
-            "brand_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/150px-BMW.svg.png",
-            "model": "",
-            "video": "",
-            "audio": "",
-            "image": "",
-            "description": "",
-            "link": ""
         },
         {
             "brand_name": "BMW",
@@ -160,18 +172,6 @@
             "image": "",
             "description": "",
             "link": ""
-        },
-        
-        {
-            "brand_name": "BMW",
-            "brand_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/150px-BMW.svg.png",
-            "model": "",
-            "video": "",
-            "audio": "",
-            "image": "",
-            "description": "",
-            "link": ""
-        },
-
+        }
     ]
 }
