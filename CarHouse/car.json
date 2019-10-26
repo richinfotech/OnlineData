@@ -21,7 +21,9 @@
             "Heated mirrors",
             "leatherette Seat trim",
             "driver and passenger Lumbar support"
-        ]
+        ],
+        "brandName": "Acura",
+        "brandLogo": "https://en.wikipedia.org/wiki/Acura#/media/File:Acura_logo.svg"
     },
     {
         "model": "2019 Acura RLX Sport Hybrid",
@@ -50,7 +52,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Acura",
+        "brandLogo": "https://en.wikipedia.org/wiki/Acura#/media/File:Acura_logo.svg"
     },
     {
         "model": "2019 Acura NSX",
@@ -75,7 +79,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Acura",
+        "brandLogo": "https://en.wikipedia.org/wiki/Acura#/media/File:Acura_logo.svg"
     },
     {
         "model": "2019 Acura MDX",
@@ -101,7 +107,9 @@
             "leather Seat trim",
             "driver and passenger Lumbar support",
             "50-50 bench Third row seats"
-        ]
+        ],
+        "brandName": "Acura",
+        "brandLogo": "https://en.wikipedia.org/wiki/Acura#/media/File:Acura_logo.svg"
     },
     {
         "model": "2019 Alfa Romeo Giulia",
@@ -126,7 +134,9 @@
             "leather Seat trim",
             "driver and passenger Lumbar support",
             "ParkSense Parking assist"
-        ]
+        ],
+        "brandName": "Alfa Romeo",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Alfa_Romeo_logo.png/200px-Alfa_Romeo_logo.png"
     },
     {
         "model": "2019 Alfa Romeo 4C Spider",
@@ -148,7 +158,9 @@
             "keyfob (all doors) Remote keyless entry",
             "Heated mirrors",
             "leather Seat trim"
-        ]
+        ],
+        "brandName": "Alfa Romeo",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Alfa_Romeo_logo.png/200px-Alfa_Romeo_logo.png"
     },
     {
         "model": "2019 Alfa Romeo Stelvio",
@@ -173,7 +185,9 @@
             "leather Seat trim",
             "driver and passenger Lumbar support",
             "ParkSense Parking assist"
-        ]
+        ],
+        "brandName": "Alfa Romeo",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Alfa_Romeo_logo.png/200px-Alfa_Romeo_logo.png"
     },
     {
         "model": "2018 Alfa Romeo 4C",
@@ -194,7 +208,9 @@
             "keyfob (all doors) Remote keyless entry",
             "Heated mirrors",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Alfa Romeo",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Alfa_Romeo_logo.png/200px-Alfa_Romeo_logo.png"
     },
     {
         "model": "2019 Aston Martin Vanquish",
@@ -221,7 +237,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Aston Martin",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Aston_Martin_Logo_2018.png/220px-Aston_Martin_Logo_2018.png"
     },
     {
         "model": "2019 Aston Martin DBS",
@@ -247,7 +265,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Aston Martin",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Aston_Martin_Logo_2018.png/220px-Aston_Martin_Logo_2018.png"
     },
     {
         "model": "2019 Aston Martin DB11",
@@ -274,7 +294,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Aston Martin",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Aston_Martin_Logo_2018.png/220px-Aston_Martin_Logo_2018.png"
     },
     {
         "model": "2019 Aston Martin Vantage",
@@ -299,7 +321,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Aston Martin",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Aston_Martin_Logo_2018.png/220px-Aston_Martin_Logo_2018.png"
     },
     {
         "model": "2019 Audi Q5",
@@ -325,7 +349,9 @@
             "Windshield wipers - rain sensing",
             "leather Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Audi",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Audi-Logo_2016.svg/235px-Audi-Logo_2016.svg.png"
     },
     {
         "model": "2019 Audi A5",
@@ -352,7 +378,9 @@
             "Windshield wipers - rain sensing",
             "leather Seat trim",
             "driver and passenger Lumbar support"
-        ]
+        ],
+        "brandName": "Audi",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Audi-Logo_2016.svg/235px-Audi-Logo_2016.svg.png"
     },
     {
         "model": "2019 Audi A3",
@@ -378,7 +406,9 @@
             "Windshield wipers - rain sensing",
             "leather Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Audi",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Audi-Logo_2016.svg/235px-Audi-Logo_2016.svg.png"
     },
     {
         "model": "2019 Audi A4",
@@ -405,7 +435,9 @@
             "Windshield wipers - rain sensing",
             "leather Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Audi",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Audi-Logo_2016.svg/235px-Audi-Logo_2016.svg.png"
     },
     {
         "model": "2019 Bentley Bentayga",
@@ -515,7 +547,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Park Distance Control Parking assist"
-        ]
+        ],
+        "brandName": "BMW",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/150px-BMW.svg.png"
     },
     {
         "model": "2019 BMW M550",
@@ -541,7 +575,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Park Distance Control Parking assist"
-        ]
+        ],
+        "brandName": "BMW",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/150px-BMW.svg.png"
     },
     {
         "model": "2019 BMW M2",
@@ -567,7 +603,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Park Distance Control Parking assist"
-        ]
+        ],
+        "brandName": "BMW",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/150px-BMW.svg.png"
     },
     {
         "model": "2019 BMW M4",
@@ -595,7 +633,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Park Distance Control Parking assist"
-        ]
+        ],
+        "brandName": "BMW",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/150px-BMW.svg.png"
     },
     {
         "model": "2011 Bugatti Veyron",
@@ -619,7 +659,9 @@
             "leather Seat trim",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Bugatti",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bugatti_logo.svg/220px-Bugatti_logo.svg.png"
     },
     {
         "model": "2010 Bugatti Veyron",
@@ -645,7 +687,9 @@
             "leather Seat trim",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Bugatti",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bugatti_logo.svg/220px-Bugatti_logo.svg.png"
     },
     {
         "model": "2009 Bugatti Veyron",
@@ -668,7 +712,9 @@
             "Heated mirrors",
             "leather Seat trim",
             "Navigation system"
-        ]
+        ],
+        "brandName": "Bugatti",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bugatti_logo.svg/220px-Bugatti_logo.svg.png"
     },
     {
         "model": "2008 Bugatti Veyron",
@@ -690,7 +736,9 @@
             "Heated mirrors",
             "leather Seat trim",
             "Navigation system"
-        ]
+        ],
+        "brandName": "Bugatti",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bugatti_logo.svg/220px-Bugatti_logo.svg.png"
     },
     {
         "model": "2019 Buick Encore",
@@ -712,7 +760,9 @@
             "Heated mirrors",
             "cloth/leatherette Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Buick",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Buick_Logo.png/250px-Buick_Logo.png"
     },
     {
         "model": "2019 Buick Regal TourX",
@@ -734,7 +784,9 @@
             "front Fog/driving lights",
             "Heated mirrors",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Buick",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Buick_Logo.png/250px-Buick_Logo.png"
     },
     {
         "model": "2019 Buick LaCrosse",
@@ -758,7 +810,9 @@
             "leatherette Seat trim",
             "driver and passenger Lumbar support",
             "Rear Park Assist Parking assist"
-        ]
+        ],
+        "brandName": "Buick",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Buick_Logo.png/250px-Buick_Logo.png"
     },
     {
         "model": "2019 Buick Enclave",
@@ -784,7 +838,9 @@
             "driver and passenger Lumbar support",
             "60-40 split-bench Third row seats",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Buick",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Buick_Logo.png/250px-Buick_Logo.png"
     },
     {
         "model": "2019 Cadillac XTS",
@@ -807,7 +863,9 @@
             "leather Seat trim",
             "driver and passenger Lumbar support",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Cadillac",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Cadillac_logo.svg/250px-Cadillac_logo.svg.png"
     },
     {
         "model": "2019 Cadillac CT6-V",
@@ -834,7 +892,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Automatic Parking Assist Parking assist"
-        ]
+        ],
+        "brandName": "Cadillac",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Cadillac_logo.svg/250px-Cadillac_logo.svg.png"
     },
     {
         "model": "2019 Cadillac Escalade ESV",
@@ -863,7 +923,9 @@
             "60-40 split-bench Third row seats",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Cadillac",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Cadillac_logo.svg/250px-Cadillac_logo.svg.png"
     },
     {
         "model": "2019 Cadillac CTS",
@@ -886,7 +948,9 @@
             "leatherette Seat trim",
             "driver and passenger Lumbar support",
             "Ultrasonic Parking assist"
-        ]
+        ],
+        "brandName": "Cadillac",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Cadillac_logo.svg/250px-Cadillac_logo.svg.png"
     },
     {
         "model": "2019 Chevrolet Camaro",
@@ -906,7 +970,9 @@
             "2 - 1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Chevrolet",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Chevrolet_logo.png/220px-Chevrolet_logo.png"
     },
     {
         "model": "2019 Chevrolet Impala",
@@ -927,7 +993,9 @@
             "keyfob (all doors) Remote keyless entry",
             "cloth/leatherette Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Chevrolet",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Chevrolet_logo.png/220px-Chevrolet_logo.png"
     },
     {
         "model": "2019 Chevrolet Equinox",
@@ -947,7 +1015,9 @@
             "2 - 1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "premium cloth Seat trim"
-        ]
+        ],
+        "brandName": "Chevrolet",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Chevrolet_logo.png/220px-Chevrolet_logo.png"
     },
     {
         "model": "2019 Chevrolet Tahoe",
@@ -973,7 +1043,9 @@
             "driver and passenger Lumbar support",
             "60-40 split-bench Third row seats",
             "Rear Park Assist Parking assist"
-        ]
+        ],
+        "brandName": "Chevrolet",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Chevrolet_logo.png/220px-Chevrolet_logo.png"
     },
     {
         "model": "2019 Chrysler 300",
@@ -995,7 +1067,9 @@
             "Heated mirrors",
             "cloth Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Chrysler",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fiat_Chrysler_Automobiles_logo.svg/220px-Fiat_Chrysler_Automobiles_logo.svg.png"
     },
     {
         "model": "2019 Chrysler Pacifica Hybrid",
@@ -1019,7 +1093,9 @@
             "driver Lumbar support",
             "60-40 split-bench Third row seats",
             "ParkSense with Stop Parking assist"
-        ]
+        ],
+        "brandName": "Chrysler",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fiat_Chrysler_Automobiles_logo.svg/220px-Fiat_Chrysler_Automobiles_logo.svg.png"
     },
     {
         "model": "2019 Chrysler Pacifica",
@@ -1042,7 +1118,9 @@
             "cloth Seat trim",
             "60-40 split-bench Third row seats",
             "ParkSense with Stop Parking assist"
-        ]
+        ],
+        "brandName": "Chrysler",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fiat_Chrysler_Automobiles_logo.svg/220px-Fiat_Chrysler_Automobiles_logo.svg.png"
     },
     {
         "model": "2018 Chrysler 300",
@@ -1064,7 +1142,9 @@
             "Heated mirrors",
             "cloth Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Chrysler",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fiat_Chrysler_Automobiles_logo.svg/220px-Fiat_Chrysler_Automobiles_logo.svg.png"
     },
     {
         "model": "2002 Daewoo Lanos",
@@ -1080,7 +1160,9 @@
             "14\" steel Wheels",
             "AM/FM stereo, seek-scan Radio",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Daewoo",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Daewoo_logo.svg/220px-Daewoo_logo.svg.png"
     },
     {
         "model": "2002 Daewoo Leganza",
@@ -1099,7 +1181,9 @@
             "Heated mirrors",
             "cloth Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Daewoo",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Daewoo_logo.svg/220px-Daewoo_logo.svg.png"
     },
     {
         "model": "2002 Daewoo Nubira",
@@ -1115,7 +1199,9 @@
             "14\" steel Wheels",
             "AM/FM stereo, seek-scan Radio",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Daewoo",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Daewoo_logo.svg/220px-Daewoo_logo.svg.png"
     },
     {
         "model": "2001 Daewoo Lanos",
@@ -1131,7 +1217,9 @@
             "14\" steel Wheels",
             "AM/FM stereo, seek-scan Radio",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Daewoo",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Daewoo_logo.svg/220px-Daewoo_logo.svg.png"
     },
     {
         "model": "2019 Dodge Charger",
@@ -1153,7 +1241,9 @@
             "cloth Seat trim",
             "driver Lumbar support",
             "ParkSense Parking assist"
-        ]
+        ],
+        "brandName": "Dodge",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dodge_black_logo.svg/200px-Dodge_black_logo.svg.png"
     },
     {
         "model": "2019 Dodge Grand Caravan",
@@ -1176,7 +1266,9 @@
             "Heated mirrors",
             "cloth Seat trim",
             "60-40 split-bench Third row seats"
-        ]
+        ],
+        "brandName": "Dodge",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dodge_black_logo.svg/200px-Dodge_black_logo.svg.png"
     },
     {
         "model": "2019 Dodge Durango",
@@ -1199,7 +1291,9 @@
             "front Fog/driving lights",
             "Heated mirrors",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Dodge",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dodge_black_logo.svg/200px-Dodge_black_logo.svg.png"
     },
     {
         "model": "2019 Dodge Journey",
@@ -1221,7 +1315,9 @@
             "Heated mirrors",
             "premium cloth Seat trim",
             "50-50 bench Third row seats"
-        ]
+        ],
+        "brandName": "Dodge",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dodge_black_logo.svg/200px-Dodge_black_logo.svg.png"
     },
     {
         "model": "2019 Ferrari 488 GTB",
@@ -1245,7 +1341,9 @@
             "Windshield wipers - rain sensing",
             "leather Seat trim",
             "Navigation system"
-        ]
+        ],
+        "brandName": "Ferrari",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Ferrari-Logo.svg/150px-Ferrari-Logo.svg.png"
     },
     {
         "model": "2019 Ferrari 812 Superfast",
@@ -1270,7 +1368,9 @@
             "leather Seat trim",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Ferrari",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Ferrari-Logo.svg/150px-Ferrari-Logo.svg.png"
     },
     {
         "model": "2019 Ferrari 488 Spider",
@@ -1296,7 +1396,9 @@
             "leather Seat trim",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Ferrari",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Ferrari-Logo.svg/150px-Ferrari-Logo.svg.png"
     },
     {
         "model": "2019 Ferrari GTC4Lusso",
@@ -1323,7 +1425,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Ferrari",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Ferrari-Logo.svg/150px-Ferrari-Logo.svg.png"
     },
     {
         "model": "2019 FIAT 500",
@@ -1345,7 +1449,9 @@
             "front Fog/driving lights",
             "Heated mirrors",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "FIAT",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Fiat_Logo.svg/140px-Fiat_Logo.svg.png"
     },
     {
         "model": "2019 FIAT 500X",
@@ -1366,7 +1472,9 @@
             "keyfob (all doors) Remote keyless entry",
             "Heated mirrors",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "FIAT",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Fiat_Logo.svg/140px-Fiat_Logo.svg.png"
     },
     {
         "model": "2019 FIAT 124 Spider",
@@ -1387,7 +1495,9 @@
             "keyfob (all doors) Remote keyless entry",
             "manual Convertible top",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "FIAT",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Fiat_Logo.svg/140px-Fiat_Logo.svg.png"
     },
     {
         "model": "2019 FIAT 500c",
@@ -1411,7 +1521,9 @@
             "power Convertible top",
             "cloth Seat trim",
             "Parking assist"
-        ]
+        ],
+        "brandName": "FIAT",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Fiat_Logo.svg/140px-Fiat_Logo.svg.png"
     },
     {
         "model": "2012 Fisker Karma",
@@ -1435,7 +1547,9 @@
             "leatherette Seat trim",
             "driver and passenger Lumbar support",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Fisker",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Th%21nk_logo.png/220px-Th%21nk_logo.png"
     },
     {
         "model": "2019 Ford F-150",
@@ -1454,7 +1568,9 @@
             "AM/FM stereo, seek-scan Radio",
             "2 - 1st row LCD monitor",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Ford",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ford_logo_flat.svg/200px-Ford_logo_flat.svg.png"
     },
     {
         "model": "2019 Ford Escape",
@@ -1474,7 +1590,9 @@
             "1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Ford",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ford_logo_flat.svg/200px-Ford_logo_flat.svg.png"
     },
     {
         "model": "2019 Ford Explorer",
@@ -1498,7 +1616,9 @@
             "cloth Seat trim",
             "driver Lumbar support",
             "50-50 split-bench Third row seats"
-        ]
+        ],
+        "brandName": "Ford",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ford_logo_flat.svg/200px-Ford_logo_flat.svg.png"
     },
     {
         "model": "2019 Ford Transit-350",
@@ -1518,7 +1638,9 @@
             "1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "vinyl Seat trim"
-        ]
+        ],
+        "brandName": "Ford",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ford_logo_flat.svg/200px-Ford_logo_flat.svg.png"
     },
     {
         "model": "2019 Genesis G80",
@@ -1543,7 +1665,9 @@
             "leather Seat trim",
             "driver and passenger Lumbar support",
             "Navigation system"
-        ]
+        ],
+        "brandName": "Genesis",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Genesis_Logo_-_Transparent.png/220px-Genesis_Logo_-_Transparent.png"
     },
     {
         "model": "2019 Genesis G70",
@@ -1565,7 +1689,9 @@
             "Heated mirrors",
             "leatherette Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Genesis",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Genesis_Logo_-_Transparent.png/220px-Genesis_Logo_-_Transparent.png"
     },
     {
         "model": "2019 Genesis G90",
@@ -1593,7 +1719,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Genesis",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Genesis_Logo_-_Transparent.png/220px-Genesis_Logo_-_Transparent.png"
     },
     {
         "model": "2018 Genesis G90",
@@ -1622,7 +1750,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Genesis",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Genesis_Logo_-_Transparent.png/220px-Genesis_Logo_-_Transparent.png"
     },
     {
         "model": "2019 GMC Yukon",
@@ -1649,7 +1779,9 @@
             "driver and passenger Lumbar support",
             "60-40 split-bench Third row seats",
             "Front and Rear Park Assist Parking assist"
-        ]
+        ],
+        "brandName": "GMC",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/GMC-Logo_2.svg/200px-GMC-Logo_2.svg.png"
     },
     {
         "model": "2019 GMC Savana 3500",
@@ -1668,7 +1800,9 @@
             "AM/FM stereo, seek-scan Radio",
             "1st row LCD monitor",
             "vinyl Seat trim"
-        ]
+        ],
+        "brandName": "GMC",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/GMC-Logo_2.svg/200px-GMC-Logo_2.svg.png"
     },
     {
         "model": "2019 GMC Canyon",
@@ -1687,7 +1821,9 @@
             "AM/FM stereo, seek-scan Radio",
             "1st row LCD monitor",
             "vinyl Seat trim"
-        ]
+        ],
+        "brandName": "GMC",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/GMC-Logo_2.svg/200px-GMC-Logo_2.svg.png"
     },
     {
         "model": "2019 GMC Yukon XL",
@@ -1714,7 +1850,9 @@
             "driver and passenger Lumbar support",
             "60-40 split-bench Third row seats",
             "Front and Rear Park Assist Parking assist"
-        ]
+        ],
+        "brandName": "GMC",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/GMC-Logo_2.svg/200px-GMC-Logo_2.svg.png"
     },
     {
         "model": "2019 Honda Accord",
@@ -1734,7 +1872,9 @@
             "1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Honda",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Honda_logo.svg/220px-Honda_logo.svg.png"
     },
     {
         "model": "2019 Honda Accord Hybrid",
@@ -1754,7 +1894,9 @@
             "1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Honda",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Honda_logo.svg/220px-Honda_logo.svg.png"
     },
     {
         "model": "2019 Honda Civic Type R",
@@ -1777,7 +1919,9 @@
             "Heated mirrors",
             "simulated suede Seat trim",
             "Navigation system"
-        ]
+        ],
+        "brandName": "Honda",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Honda_logo.svg/220px-Honda_logo.svg.png"
     },
     {
         "model": "2019 Honda Fit",
@@ -1797,7 +1941,9 @@
             "1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Honda",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Honda_logo.svg/220px-Honda_logo.svg.png"
     },
     {
         "model": "2010 HUMMER H3 SUV",
@@ -1818,7 +1964,9 @@
             "front Fog/driving lights",
             "cloth Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "HUMMER",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hummer_wordmark.svg/220px-Hummer_wordmark.svg.png"
     },
     {
         "model": "2010 HUMMER H3T",
@@ -1839,7 +1987,9 @@
             "front Fog/driving lights",
             "cloth Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "HUMMER",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hummer_wordmark.svg/220px-Hummer_wordmark.svg.png"
     },
     {
         "model": "2009 HUMMER H2 SUT",
@@ -1863,7 +2013,9 @@
             "Heated mirrors",
             "leather Seat trim",
             "driver and passenger Lumbar support"
-        ]
+        ],
+        "brandName": "HUMMER",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hummer_wordmark.svg/220px-Hummer_wordmark.svg.png"
     },
     {
         "model": "2009 HUMMER H2 SUV",
@@ -1887,7 +2039,9 @@
             "Heated mirrors",
             "leather Seat trim",
             "driver and passenger Lumbar support"
-        ]
+        ],
+        "brandName": "HUMMER",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hummer_wordmark.svg/220px-Hummer_wordmark.svg.png"
     },
     {
         "model": "2019 Hyundai Tucson",
@@ -1907,7 +2061,9 @@
             "1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "YES Essentials premium cloth Seat trim"
-        ]
+        ],
+        "brandName": "Hyundai",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hyundai_Motor_Company_logo.svg/220px-Hyundai_Motor_Company_logo.svg.png"
     },
     {
         "model": "2019 Hyundai Veloster",
@@ -1928,7 +2084,9 @@
             "keyfob (all doors) Remote keyless entry",
             "Heated mirrors",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Hyundai",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hyundai_Motor_Company_logo.svg/220px-Hyundai_Motor_Company_logo.svg.png"
     },
     {
         "model": "2019 Hyundai Accent",
@@ -1948,7 +2106,9 @@
             "1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Hyundai",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hyundai_Motor_Company_logo.svg/220px-Hyundai_Motor_Company_logo.svg.png"
     },
     {
         "model": "2019 Hyundai Sonata",
@@ -1968,7 +2128,9 @@
             "1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "YES Essentials premium cloth Seat trim"
-        ]
+        ],
+        "brandName": "Hyundai",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hyundai_Motor_Company_logo.svg/220px-Hyundai_Motor_Company_logo.svg.png"
     },
     {
         "model": "2019 INFINITI Q50",
@@ -1992,7 +2154,9 @@
             "Windshield wipers - rain sensing",
             "leatherette Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "INFINITI",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Infiniti_logo.svg/230px-Infiniti_logo.svg.png"
     },
     {
         "model": "2019 INFINITI Q70L",
@@ -2019,7 +2183,9 @@
             "leather Seat trim",
             "driver and passenger Lumbar support",
             "INFINITI InTouch Navigation with voice activation Navigation system"
-        ]
+        ],
+        "brandName": "INFINITI",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Infiniti_logo.svg/230px-Infiniti_logo.svg.png"
     },
     {
         "model": "2019 INFINITI QX80",
@@ -2049,7 +2215,9 @@
             "60-40 split-bench Third row seats",
             "INFINITI InTouch Navigation with voice activation Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "INFINITI",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Infiniti_logo.svg/230px-Infiniti_logo.svg.png"
     },
     {
         "model": "2019 INFINITI Q70",
@@ -2076,7 +2244,9 @@
             "leather Seat trim",
             "driver and passenger Lumbar support",
             "INFINITI InTouch Navigation with voice activation Navigation system"
-        ]
+        ],
+        "brandName": "INFINITI",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Infiniti_logo.svg/230px-Infiniti_logo.svg.png"
     },
     {
         "model": "2008 Isuzu Ascender",
@@ -2096,7 +2266,9 @@
             "front Fog/driving lights",
             "premium cloth Seat trim",
             "driver and passenger Lumbar support"
-        ]
+        ],
+        "brandName": "Isuzu",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Isuzu.svg/220px-Isuzu.svg.png"
     },
     {
         "model": "2008 Isuzu i-290",
@@ -2113,7 +2285,9 @@
             "front air conditioning, manual",
             "AM/FM stereo, seek-scan Radio",
             "vinyl Seat trim"
-        ]
+        ],
+        "brandName": "Isuzu",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Isuzu.svg/220px-Isuzu.svg.png"
     },
     {
         "model": "2008 Isuzu i-370",
@@ -2133,7 +2307,9 @@
             "front Fog/driving lights",
             "premium cloth Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Isuzu",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Isuzu.svg/220px-Isuzu.svg.png"
     },
     {
         "model": "2007 Isuzu Ascender",
@@ -2153,7 +2329,9 @@
             "front Fog/driving lights",
             "premium cloth Seat trim",
             "driver and passenger Lumbar support"
-        ]
+        ],
+        "brandName": "Isuzu",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Isuzu.svg/220px-Isuzu.svg.png"
     },
     {
         "model": "2018 Lotus Evora 400",
@@ -2177,7 +2355,9 @@
             "cloth/leather Seat trim",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Lotus",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/The_Lotus_Cars_Logo.png/220px-The_Lotus_Cars_Logo.png"
     },
     {
         "model": "2019 Maserati GranTurismo",
@@ -2204,7 +2384,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Maserati",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Maybach_%28logo%29.png/200px-Maybach_%28logo%29.png"
     },
     {
         "model": "2019 Maserati Quattroporte",
@@ -2232,7 +2414,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Maserati",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Maybach_%28logo%29.png/200px-Maybach_%28logo%29.png"
     },
     {
         "model": "2019 Maserati Ghibli",
@@ -2260,7 +2444,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Maserati",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Maybach_%28logo%29.png/200px-Maybach_%28logo%29.png"
     },
     {
         "model": "2019 Maserati Levante",
@@ -2287,7 +2473,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Maserati",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Maybach_%28logo%29.png/200px-Maybach_%28logo%29.png"
     },
     {
         "model": "2012 Maybach Landaulet",
@@ -2316,7 +2504,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "ParkAssist Parking assist"
-        ]
+        ],
+        "brandName": "Maybach",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Mazda_logo_with_emblem.svg/100px-Mazda_logo_with_emblem.svg.png"
     },
     {
         "model": "2012 Maybach 57",
@@ -2345,7 +2535,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "ParkAssist Parking assist"
-        ]
+        ],
+        "brandName": "Maybach",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Mazda_logo_with_emblem.svg/100px-Mazda_logo_with_emblem.svg.png"
     },
     {
         "model": "2012 Maybach 62",
@@ -2373,7 +2565,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "ParkAssist Parking assist"
-        ]
+        ],
+        "brandName": "Maybach",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Mazda_logo_with_emblem.svg/100px-Mazda_logo_with_emblem.svg.png"
     },
     {
         "model": "2019 Mazda CX-5",
@@ -2393,7 +2587,9 @@
             "1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Mazda",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/McLaren_logo.svg/220px-McLaren_logo.svg.png"
     },
     {
         "model": "2019 Mazda CX-9",
@@ -2415,7 +2611,9 @@
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim",
             "50-50 split-bench Third row seats"
-        ]
+        ],
+        "brandName": "Mazda",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/McLaren_logo.svg/220px-McLaren_logo.svg.png"
     },
     {
         "model": "2019 Mazda CX-3",
@@ -2435,7 +2633,9 @@
             "2 - 1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Mazda",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/McLaren_logo.svg/220px-McLaren_logo.svg.png"
     },
     {
         "model": "2019 Mazda Mazda3",
@@ -2455,7 +2655,9 @@
             "2 - 1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Mazda",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/McLaren_logo.svg/220px-McLaren_logo.svg.png"
     },
     {
         "model": "2019 McLaren 720S",
@@ -2480,7 +2682,9 @@
             "Alcantara simulated suede Seat trim",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "McLaren",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mercedes-Benz_Logo_2010.svg/220px-Mercedes-Benz_Logo_2010.svg.png"
     },
     {
         "model": "2019 McLaren 600LT",
@@ -2503,7 +2707,9 @@
             "Windshield wipers - rain sensing",
             "Alcantara simulated suede Seat trim",
             "Parking assist"
-        ]
+        ],
+        "brandName": "McLaren",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mercedes-Benz_Logo_2010.svg/220px-Mercedes-Benz_Logo_2010.svg.png"
     },
     {
         "model": "2019 McLaren 570S",
@@ -2528,7 +2734,9 @@
             "leather Seat trim",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "McLaren",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mercedes-Benz_Logo_2010.svg/220px-Mercedes-Benz_Logo_2010.svg.png"
     },
     {
         "model": "2018 McLaren 570GT",
@@ -2556,7 +2764,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "McLaren",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mercedes-Benz_Logo_2010.svg/220px-Mercedes-Benz_Logo_2010.svg.png"
     },
     {
         "model": "2019 Mercedes-Benz AMG GLE 63",
@@ -2585,7 +2795,9 @@
             "driver and passenger Lumbar support",
             "COMAND APS with voice activation Navigation system",
             "Parking Pilot Parking assist"
-        ]
+        ],
+        "brandName": "Mercedes-Benz",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mercury_Logo_%28automobile_company%29.svg/150px-Mercury_Logo_%28automobile_company%29.svg.png"
     },
     {
         "model": "2019 Mercedes-Benz AMG GT",
@@ -2611,7 +2823,9 @@
             "driver and passenger Lumbar support",
             "COMAND with voice activation Navigation system",
             "Active Parking Assist Parking assist"
-        ]
+        ],
+        "brandName": "Mercedes-Benz",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mercury_Logo_%28automobile_company%29.svg/150px-Mercury_Logo_%28automobile_company%29.svg.png"
     },
     {
         "model": "2019 Mercedes-Benz GLA 250",
@@ -2635,7 +2849,9 @@
             "Windshield wipers - rain sensing",
             "MB-Tex leatherette Seat trim",
             "driver and passenger Lumbar support"
-        ]
+        ],
+        "brandName": "Mercedes-Benz",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mercury_Logo_%28automobile_company%29.svg/150px-Mercury_Logo_%28automobile_company%29.svg.png"
     },
     {
         "model": "2019 Mercedes-Benz S-Class",
@@ -2663,7 +2879,9 @@
             "driver and passenger Lumbar support",
             "COMAND with voice activation Navigation system",
             "PARKTRONIC w/Active Parking Assist Parking assist"
-        ]
+        ],
+        "brandName": "Mercedes-Benz",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mercury_Logo_%28automobile_company%29.svg/150px-Mercury_Logo_%28automobile_company%29.svg.png"
     },
     {
         "model": "2011 Mercury Grand Marquis",
@@ -2685,7 +2903,9 @@
             "Heated mirrors",
             "leather Seat trim",
             "driver and passenger Lumbar support"
-        ]
+        ],
+        "brandName": "Mercury",
+        "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2016/01/Mini-logo-500x375.jpg"
     },
     {
         "model": "2011 Mercury Mariner",
@@ -2705,7 +2925,9 @@
             "keyfob (all doors) Remote keyless entry",
             "front Fog/driving lights",
             "premium cloth Seat trim"
-        ]
+        ],
+        "brandName": "Mercury",
+        "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2016/01/Mini-logo-500x375.jpg"
     },
     {
         "model": "2011 Mercury Mariner Hybrid",
@@ -2724,7 +2946,9 @@
             "keyfob (all doors) Remote keyless entry",
             "front Fog/driving lights",
             "premium cloth Seat trim"
-        ]
+        ],
+        "brandName": "Mercury",
+        "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2016/01/Mini-logo-500x375.jpg"
     },
     {
         "model": "2011 Mercury Milan",
@@ -2745,7 +2969,9 @@
             "Heated mirrors",
             "premium cloth Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Mercury",
+        "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2016/01/Mini-logo-500x375.jpg"
     },
     {
         "model": "2019 MINI Countryman",
@@ -2770,7 +2996,9 @@
             "Windshield wipers - rain sensing",
             "Sensatec leatherette Seat trim",
             "Rear Park Distance Control Parking assist"
-        ]
+        ],
+        "brandName": "MINI",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mitsubishi_logo.svg/200px-Mitsubishi_logo.svg.png"
     },
     {
         "model": "2019 MINI Hardtop",
@@ -2793,7 +3021,9 @@
             "Windshield wipers - rain sensing",
             "Sensatec leatherette Seat trim",
             "Rear Park Distance Control Parking assist"
-        ]
+        ],
+        "brandName": "MINI",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mitsubishi_logo.svg/200px-Mitsubishi_logo.svg.png"
     },
     {
         "model": "2019 MINI Convertible",
@@ -2817,7 +3047,9 @@
             "Windshield wipers - rain sensing",
             "Sensatec leatherette Seat trim",
             "Rear Park Distance Control Parking assist"
-        ]
+        ],
+        "brandName": "MINI",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mitsubishi_logo.svg/200px-Mitsubishi_logo.svg.png"
     },
     {
         "model": "2019 MINI Clubman",
@@ -2841,7 +3073,9 @@
             "Windshield wipers - rain sensing",
             "Sensatec leatherette Seat trim",
             "Rear Park Distance Control Parking assist"
-        ]
+        ],
+        "brandName": "MINI",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mitsubishi_logo.svg/200px-Mitsubishi_logo.svg.png"
     },
     {
         "model": "2019 Mitsubishi Mirage",
@@ -2861,7 +3095,9 @@
             "1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Mitsubishi",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/1/12/Morganwings.png"
     },
     {
         "model": "2019 Mitsubishi Eclipse Cross",
@@ -2883,7 +3119,9 @@
             "front Fog/driving lights",
             "Heated mirrors",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Mitsubishi",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/1/12/Morganwings.png"
     },
     {
         "model": "2019 Mitsubishi Outlander Sport",
@@ -2904,7 +3142,9 @@
             "keyfob (all doors) Remote keyless entry",
             "Heated mirrors",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Mitsubishi",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/1/12/Morganwings.png"
     },
     {
         "model": "2019 Mitsubishi Outlander",
@@ -2927,7 +3167,9 @@
             "Heated mirrors",
             "cloth Seat trim",
             "50-50 split-bench Third row seats"
-        ]
+        ],
+        "brandName": "Mitsubishi",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/1/12/Morganwings.png"
     },
     {
         "model": "2009 Morgan Aero8",
@@ -2946,7 +3188,9 @@
             "keyfob (all doors) Remote keyless entry",
             "manual Convertible top",
             "leather Seat trim"
-        ]
+        ],
+        "brandName": "Morgan",
+        "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2015/08/Nissan-emblem-4.jpg"
     },
     {
         "model": "2008 Morgan Aero8",
@@ -2965,7 +3209,9 @@
             "keyfob (all doors) Remote keyless entry",
             "manual Convertible top",
             "leather Seat trim"
-        ]
+        ],
+        "brandName": "Morgan",
+        "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2015/08/Nissan-emblem-4.jpg"
     },
     {
         "model": "2007 Morgan Aero8",
@@ -2984,7 +3230,9 @@
             "keyfob (all doors) Remote keyless entry",
             "manual Convertible top",
             "leather Seat trim"
-        ]
+        ],
+        "brandName": "Morgan",
+        "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2015/08/Nissan-emblem-4.jpg"
     },
     {
         "model": "2006 Morgan Aero8",
@@ -3003,7 +3251,9 @@
             "keyfob (all doors) Remote keyless entry",
             "manual Convertible top",
             "leather Seat trim"
-        ]
+        ],
+        "brandName": "Morgan",
+        "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2015/08/Nissan-emblem-4.jpg"
     },
     {
         "model": "2019 Nissan Frontier",
@@ -3022,7 +3272,8 @@
             "AM/FM stereo, seek-scan Radio",
             "1st row LCD monitor",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Nissan"
     },
     {
         "model": "2019 Nissan Pathfinder",
@@ -3046,7 +3297,8 @@
             "driver Lumbar support",
             "50-50 bench Third row seats",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Nissan"
     },
     {
         "model": "2019 Nissan GT-R",
@@ -3070,7 +3322,8 @@
             "simulated suede/leather Seat trim",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Nissan"
     },
     {
         "model": "2019 Nissan NV200",
@@ -3090,7 +3343,8 @@
             "1st row LCD monitor",
             "cloth/vinyl Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Nissan"
     },
     {
         "model": "2004 Oldsmobile Alero",
@@ -3107,7 +3361,9 @@
             "front air conditioning, manual",
             "AM/FM stereo, seek-scan Radio",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Oldsmobile",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Oldsmobile_rocketlogo.png"
     },
     {
         "model": "2004 Oldsmobile Bravada",
@@ -3130,7 +3386,9 @@
             "Heated mirrors",
             "leather Seat trim",
             "driver and passenger Lumbar support"
-        ]
+        ],
+        "brandName": "Oldsmobile",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Oldsmobile_rocketlogo.png"
     },
     {
         "model": "2004 Oldsmobile Silhouette",
@@ -3153,7 +3411,9 @@
             "Heated mirrors",
             "cloth Seat trim",
             "50-50 split-bench Third row seats"
-        ]
+        ],
+        "brandName": "Oldsmobile",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Oldsmobile_rocketlogo.png"
     },
     {
         "model": "2003 Oldsmobile Alero",
@@ -3170,7 +3430,9 @@
             "front air conditioning, manual",
             "AM/FM stereo, seek-scan Radio",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Oldsmobile",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Oldsmobile_rocketlogo.png"
     },
     {
         "model": "2001 Plymouth Neon",
@@ -3186,7 +3448,9 @@
             "14\" black steel Wheels",
             "AM/FM stereo, seek-scan Radio",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Plymouth",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Plymouth_logo.svg/150px-Plymouth_logo.svg.png"
     },
     {
         "model": "2001 Plymouth Prowler",
@@ -3205,7 +3469,9 @@
             "keyfob (all doors) Remote keyless entry",
             "manual Convertible top",
             "leather Seat trim"
-        ]
+        ],
+        "brandName": "Plymouth",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Plymouth_logo.svg/150px-Plymouth_logo.svg.png"
     },
     {
         "model": "2000 Plymouth Breeze",
@@ -3222,7 +3488,9 @@
             "front air conditioning, manual",
             "AM/FM stereo, seek-scan Radio",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Plymouth",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Plymouth_logo.svg/150px-Plymouth_logo.svg.png"
     },
     {
         "model": "2000 Plymouth Grand Voyager",
@@ -3240,7 +3508,9 @@
             "AM/FM stereo, seek-scan Radio",
             "cloth Seat trim",
             "bench Third row seats"
-        ]
+        ],
+        "brandName": "Plymouth",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Plymouth_logo.svg/150px-Plymouth_logo.svg.png"
     },
     {
         "model": "2010 Pontiac G3",
@@ -3259,7 +3529,9 @@
             "front Fog/driving lights",
             "cloth Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Pontiac",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Pontiac_Logo.png/300px-Pontiac_Logo.png"
     },
     {
         "model": "2010 Pontiac G6",
@@ -3278,7 +3550,9 @@
             "XM AM/FM/Satellite, seek-scan Radio",
             "cloth Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Pontiac",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Pontiac_Logo.png/300px-Pontiac_Logo.png"
     },
     {
         "model": "2010 Pontiac Vibe",
@@ -3295,7 +3569,9 @@
             "16\" steel Wheels",
             "XM AM/FM/Satellite, seek-scan Radio",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Pontiac",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Pontiac_Logo.png/300px-Pontiac_Logo.png"
     },
     {
         "model": "2009 Pontiac G3",
@@ -3314,7 +3590,9 @@
             "front Fog/driving lights",
             "cloth Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Pontiac",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Pontiac_Logo.png/300px-Pontiac_Logo.png"
     },
     {
         "model": "2019 Porsche 911",
@@ -3339,7 +3617,9 @@
             "leather Seat trim",
             "Navigation system",
             "ParkAssist Parking assist"
-        ]
+        ],
+        "brandName": "Porsche",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Porsche_logo.svg/250px-Porsche_logo.svg.png"
     },
     {
         "model": "2019 Porsche Panamera Sport Turismo",
@@ -3366,7 +3646,9 @@
             "leather Seat trim",
             "Navigation system",
             "ParkAssist Parking assist"
-        ]
+        ],
+        "brandName": "Porsche",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Porsche_logo.svg/250px-Porsche_logo.svg.png"
     },
     {
         "model": "2019 Porsche Cayenne E-Hybrid",
@@ -3391,7 +3673,9 @@
             "leatherette Seat trim",
             "Navigation system",
             "ParkAssist Parking assist"
-        ]
+        ],
+        "brandName": "Porsche",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Porsche_logo.svg/250px-Porsche_logo.svg.png"
     },
     {
         "model": "2019 Porsche 718 Boxster",
@@ -3414,7 +3698,9 @@
             "power Convertible top",
             "leather/leatherette Seat trim",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Porsche",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Porsche_logo.svg/250px-Porsche_logo.svg.png"
     },
     {
         "model": "2019 RAM 1500",
@@ -3435,7 +3721,9 @@
             "keyfob (all doors) Remote keyless entry",
             "Heated mirrors",
             "vinyl Seat trim"
-        ]
+        ],
+        "brandName": "RAM",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Ramchryslerlogo.png/150px-Ramchryslerlogo.png"
     },
     {
         "model": "2019 RAM ProMaster City",
@@ -3455,7 +3743,9 @@
             "1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "RAM",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Ramchryslerlogo.png/150px-Ramchryslerlogo.png"
     },
     {
         "model": "2019 RAM 3500",
@@ -3474,7 +3764,9 @@
             "AM/FM/Satellite-prep, seek-scan Radio",
             "1st row LCD monitor",
             "vinyl Seat trim"
-        ]
+        ],
+        "brandName": "RAM",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Ramchryslerlogo.png/150px-Ramchryslerlogo.png"
     },
     {
         "model": "2019 RAM 2500",
@@ -3493,7 +3785,9 @@
             "AM/FM/Satellite-prep, seek-scan Radio",
             "1st row LCD monitor",
             "vinyl Seat trim"
-        ]
+        ],
+        "brandName": "RAM",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Ramchryslerlogo.png/150px-Ramchryslerlogo.png"
     },
     {
         "model": "2019 Rolls-Royce Phantom",
@@ -3610,7 +3904,9 @@
         "image": "Mitsubishi",
         "seating": "Nissan",
         "drivetrain": "Pontiac",
-        "features": "Porsche"
+        "features": "Porsche",
+        "brandName": "MINI",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mitsubishi_logo.svg/200px-Mitsubishi_logo.svg.png"
     },
     {
         "model": "2012 Saab 9-3",
@@ -3634,7 +3930,9 @@
             "Windshield wipers - rain sensing",
             "leather Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Saab",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Saab_wordmark_grey.svg/250px-Saab_wordmark_grey.svg.png"
     },
     {
         "model": "2012 Saab 9-3X",
@@ -3658,7 +3956,9 @@
             "Windshield wipers - rain sensing",
             "leather Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Saab",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Saab_wordmark_grey.svg/250px-Saab_wordmark_grey.svg.png"
     },
     {
         "model": "2011 Saab 9-3",
@@ -3681,7 +3981,9 @@
             "Windshield wipers - rain sensing",
             "leather Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Saab",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Saab_wordmark_grey.svg/250px-Saab_wordmark_grey.svg.png"
     },
     {
         "model": "2007 Saleen S7",
@@ -3701,7 +4003,9 @@
             "keyfob (all doors) Remote keyless entry",
             "suede/leather Seat trim",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Saleen",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Saleen_logo.svg/250px-Saleen_logo.svg.png"
     },
     {
         "model": "2006 Saleen S7",
@@ -3721,7 +4025,9 @@
             "keyfob (all doors) Remote keyless entry",
             "suede/leather Seat trim",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Saleen",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Saleen_logo.svg/250px-Saleen_logo.svg.png"
     },
     {
         "model": "2005 Saleen S7",
@@ -3741,7 +4047,9 @@
             "keyfob (all doors) Remote keyless entry",
             "suede/leather Seat trim",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Saleen",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Saleen_logo.svg/250px-Saleen_logo.svg.png"
     },
     {
         "model": "2004 Saleen S7",
@@ -3761,7 +4069,9 @@
             "keyfob (all doors) Remote keyless entry",
             "suede/leather Seat trim",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Saleen",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Saleen_logo.svg/250px-Saleen_logo.svg.png"
     },
     {
         "model": "2009 Saturn Astra",
@@ -3780,7 +4090,9 @@
             "Heated mirrors",
             "Rainsense Windshield wipers - rain sensing",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Saturn",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Saturn_logo.png/100px-Saturn_logo.png"
     },
     {
         "model": "2009 Saturn Aura",
@@ -3800,7 +4112,9 @@
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Saturn",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Saturn_logo.png/100px-Saturn_logo.png"
     },
     {
         "model": "2009 Saturn Aura Hybrid",
@@ -3820,7 +4134,9 @@
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Saturn",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Saturn_logo.png/100px-Saturn_logo.png"
     },
     {
         "model": "2009 Saturn OUTLOOK",
@@ -3842,7 +4158,9 @@
             "Heated mirrors",
             "cloth Seat trim",
             "60-40 split-bench Third row seats"
-        ]
+        ],
+        "brandName": "Saturn",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Saturn_logo.png/100px-Saturn_logo.png"
     },
     {
         "model": "2013 Scion FR-S",
@@ -3861,7 +4179,9 @@
             "AM/FM/HD, seek-scan Radio",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Scion",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Scion_logo.svg/220px-Scion_logo.svg.png"
     },
     {
         "model": "2015 Scion FR-S",
@@ -3881,7 +4201,9 @@
             "1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Scion",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Scion_logo.svg/220px-Scion_logo.svg.png"
     },
     {
         "model": "2014 Scion FR-S",
@@ -3901,7 +4223,9 @@
             "1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Scion",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Scion_logo.svg/220px-Scion_logo.svg.png"
     },
     {
         "model": "2012 Scion tC",
@@ -3921,7 +4245,9 @@
             "AM/FM/HD/Satellite-prep, seek-scan Radio",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Scion",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Scion_logo.svg/220px-Scion_logo.svg.png"
     },
     {
         "model": "2019 smart EQ fortwo",
@@ -3984,7 +4310,9 @@
             "front Fog/driving lights",
             "leather Seat trim",
             "Navigation system"
-        ]
+        ],
+        "brandName": "Spyker",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Spyker_Cars_logo.svg/250px-Spyker_Cars_logo.svg.png"
     },
     {
         "model": "2009 Spyker C8 Laviolette",
@@ -4004,7 +4332,9 @@
             "keyfob (all doors) Remote keyless entry",
             "front Fog/driving lights",
             "leather Seat trim"
-        ]
+        ],
+        "brandName": "Spyker",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Spyker_Cars_logo.svg/250px-Spyker_Cars_logo.svg.png"
     },
     {
         "model": "2009 Spyker C8 Spyder",
@@ -4024,7 +4354,9 @@
             "front Fog/driving lights",
             "manual Convertible top",
             "leather Seat trim"
-        ]
+        ],
+        "brandName": "Spyker",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Spyker_Cars_logo.svg/250px-Spyker_Cars_logo.svg.png"
     },
     {
         "model": "2007 Spyker C8 Double 12 S",
@@ -4043,7 +4375,9 @@
             "keyfob (all doors) Remote keyless entry",
             "front Fog/driving lights",
             "leather Seat trim"
-        ]
+        ],
+        "brandName": "Spyker",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Spyker_Cars_logo.svg/250px-Spyker_Cars_logo.svg.png"
     },
     {
         "model": "2019 Subaru WRX STI",
@@ -4066,7 +4400,9 @@
             "front Fog/driving lights",
             "Heated mirrors",
             "Alcantara simulated suede/leather Seat trim"
-        ]
+        ],
+        "brandName": "Subaru",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Subaru_logo.svg/220px-Subaru_logo.svg.png"
     },
     {
         "model": "2019 Subaru Legacy",
@@ -4086,7 +4422,9 @@
             "2 - 1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Subaru",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Subaru_logo.svg/220px-Subaru_logo.svg.png"
     },
     {
         "model": "2019 Subaru WRX",
@@ -4107,7 +4445,9 @@
             "keyfob (all doors) Remote keyless entry",
             "Heated mirrors",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Subaru",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Subaru_logo.svg/220px-Subaru_logo.svg.png"
     },
     {
         "model": "2019 Subaru Impreza",
@@ -4127,7 +4467,9 @@
             "2 - 1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Subaru",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Subaru_logo.svg/220px-Subaru_logo.svg.png"
     },
     {
         "model": "2012 Suzuki SX4",
@@ -4143,7 +4485,9 @@
             "ABS and driveline Traction control",
             "15\" steel Wheels",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Suzuki",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Suzuki_Motor_Corporation_logo.svg/200px-Suzuki_Motor_Corporation_logo.svg.png"
     },
     {
         "model": "2013 Suzuki SX4",
@@ -4161,7 +4505,9 @@
             "front air conditioning, manual",
             "AM/FM/Satellite-prep, seek-scan Radio",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Suzuki",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Suzuki_Motor_Corporation_logo.svg/200px-Suzuki_Motor_Corporation_logo.svg.png"
     },
     {
         "model": "2013 Suzuki Grand Vitara",
@@ -4182,7 +4528,9 @@
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim",
             "Navigation system"
-        ]
+        ],
+        "brandName": "Suzuki",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Suzuki_Motor_Corporation_logo.svg/200px-Suzuki_Motor_Corporation_logo.svg.png"
     },
     {
         "model": "2012 Suzuki Grand Vitara",
@@ -4203,7 +4551,9 @@
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim",
             "Navigation system"
-        ]
+        ],
+        "brandName": "Suzuki",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Suzuki_Motor_Corporation_logo.svg/200px-Suzuki_Motor_Corporation_logo.svg.png"
     },
     {
         "model": "2019 Tesla Model 3",
@@ -4226,7 +4576,9 @@
             "cloth Seat trim",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Tesla",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/184px-Volkswagen_logo_2019.svg.png"
     },
     {
         "model": "2019 Tesla Model X",
@@ -4251,7 +4603,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Tesla",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/184px-Volkswagen_logo_2019.svg.png"
     },
     {
         "model": "2019 Tesla Model S",
@@ -4276,7 +4630,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Tesla",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/184px-Volkswagen_logo_2019.svg.png"
     },
     {
         "model": "2018 Tesla Model S",
@@ -4304,7 +4660,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Tesla",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/184px-Volkswagen_logo_2019.svg.png"
     },
     {
         "model": "2011 THINK THINK City",
@@ -4321,7 +4679,9 @@
             "AM/FM stereo, seek-scan Radio",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "THINK",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Toyota_logo_2019.png/220px-Toyota_logo_2019.png"
     },
     {
         "model": "2019 Toyota Camry",
@@ -4341,7 +4701,9 @@
             "2 - 1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Toyota",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/120px-Tesla_Motors.svg.png"
     },
     {
         "model": "2019 Toyota Corolla Hatchback",
@@ -4362,7 +4724,9 @@
             "keyfob (all doors) Remote keyless entry",
             "Heated mirrors",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Toyota",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/120px-Tesla_Motors.svg.png"
     },
     {
         "model": "2019 Toyota Corolla",
@@ -4381,7 +4745,9 @@
             "AM/FM stereo, seek-scan Radio",
             "1st row LCD monitor",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Toyota",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/120px-Tesla_Motors.svg.png"
     },
     {
         "model": "2019 Toyota Land Cruiser",
@@ -4411,7 +4777,9 @@
             "50-50 split-bench Third row seats",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Toyota",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/120px-Tesla_Motors.svg.png"
     },
     {
         "model": "2019 Volkswagen Tiguan",
@@ -4433,7 +4801,9 @@
             "Heated mirrors",
             "cloth Seat trim",
             "50-50 bench Third row seats"
-        ]
+        ],
+        "brandName": "Volkswagen",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Volvo_logo.svg/220px-Volvo_logo.svg.png"
     },
     {
         "model": "2019 Volkswagen Beetle",
@@ -4454,7 +4824,9 @@
             "keyfob (all doors) Remote keyless entry",
             "Heated mirrors",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Volkswagen",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Volvo_logo.svg/220px-Volvo_logo.svg.png"
     },
     {
         "model": "2019 Volkswagen Golf GTI",
@@ -4479,7 +4851,9 @@
             "Windshield wipers - rain sensing",
             "premium cloth Seat trim",
             "driver and passenger Lumbar support"
-        ]
+        ],
+        "brandName": "Volkswagen",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Volvo_logo.svg/220px-Volvo_logo.svg.png"
     },
     {
         "model": "2019 Volkswagen Jetta",
@@ -4499,7 +4873,9 @@
             "2 - 1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Volkswagen",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Volvo_logo.svg/220px-Volvo_logo.svg.png"
     },
     {
         "model": "2019 Volvo XC90",
@@ -4527,7 +4903,9 @@
             "driver and passenger Lumbar support",
             "bucket Third row seats",
             "Rear Park Assist Parking assist"
-        ]
+        ],
+        "brandName": "Volvo",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Jaguar_2012_logo.png/220px-Jaguar_2012_logo.png"
     },
     {
         "model": "2019 Volvo V90",
@@ -4555,7 +4933,9 @@
             "driver and passenger Lumbar support",
             "Sensus Navigation with voice activation Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Volvo",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Jaguar_2012_logo.png/220px-Jaguar_2012_logo.png"
     },
     {
         "model": "2019 Volvo S90",
@@ -4582,7 +4962,9 @@
             "driver and passenger Lumbar support",
             "Sensus Navigation with voice activation Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Volvo",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Jaguar_2012_logo.png/220px-Jaguar_2012_logo.png"
     },
     {
         "model": "2019 Volvo XC60 Hybrid",
@@ -4608,7 +4990,9 @@
             "Windshield wipers - rain sensing",
             "leatherette Seat trim",
             "driver and passenger Lumbar support"
-        ]
+        ],
+        "brandName": "Volvo",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Jaguar_2012_logo.png/220px-Jaguar_2012_logo.png"
     },
     {
         "model": "2019 Jaguar XJ",
@@ -4636,7 +5020,9 @@
             "driver and passenger Lumbar support",
             "InControl Navigation with voice activation Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Jaguar",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jeep_wordmark.svg/220px-Jeep_wordmark.svg.png"
     },
     {
         "model": "2019 Jaguar E-PACE",
@@ -4660,7 +5046,9 @@
             "Windshield wipers - rain sensing",
             "cloth Seat trim",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Jaguar",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jeep_wordmark.svg/220px-Jeep_wordmark.svg.png"
     },
     {
         "model": "2019 Jaguar XF",
@@ -4684,7 +5072,9 @@
             "Heated mirrors",
             "Windshield wipers - rain sensing",
             "LuxTec leatherette Seat trim"
-        ]
+        ],
+        "brandName": "Jaguar",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jeep_wordmark.svg/220px-Jeep_wordmark.svg.png"
     },
     {
         "model": "2019 Jaguar XE",
@@ -4708,7 +5098,9 @@
             "Heated mirrors",
             "Windshield wipers - rain sensing",
             "LuxTec leatherette Seat trim"
-        ]
+        ],
+        "brandName": "Jaguar",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jeep_wordmark.svg/220px-Jeep_wordmark.svg.png"
     },
     {
         "model": "2019 Jeep Wrangler Unlimited",
@@ -4730,7 +5122,9 @@
             "manual Convertible top",
             "cloth Seat trim",
             "driver Lumbar support"
-        ]
+        ],
+        "brandName": "Jeep",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/KIA_logo2.svg/220px-KIA_logo2.svg.png"
     },
     {
         "model": "2019 Jeep Renegade",
@@ -4751,7 +5145,9 @@
             "keyfob (all doors) Remote keyless entry",
             "Heated mirrors",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Jeep",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/KIA_logo2.svg/220px-KIA_logo2.svg.png"
     },
     {
         "model": "2019 Jeep Cherokee",
@@ -4773,7 +5169,9 @@
             "front Fog/driving lights",
             "Heated mirrors",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Jeep",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/KIA_logo2.svg/220px-KIA_logo2.svg.png"
     },
     {
         "model": "2019 Jeep Grand Cherokee",
@@ -4796,7 +5194,9 @@
             "Heated mirrors",
             "cloth Seat trim",
             "ParkSense with Stop Parking assist"
-        ]
+        ],
+        "brandName": "Jeep",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/KIA_logo2.svg/220px-KIA_logo2.svg.png"
     },
     {
         "model": "2019 Kia Sorento",
@@ -4818,7 +5218,9 @@
             "Heated mirrors",
             "YES Essentials premium cloth Seat trim",
             "50-50 split-bench Third row seats"
-        ]
+        ],
+        "brandName": "Kia",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Lamborghini_Logo.svg/180px-Lamborghini_Logo.svg.png"
     },
     {
         "model": "2019 Kia Niro",
@@ -4838,7 +5240,9 @@
             "2 - 1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Kia",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Lamborghini_Logo.svg/180px-Lamborghini_Logo.svg.png"
     },
     {
         "model": "2019 Kia Stinger",
@@ -4863,7 +5267,9 @@
             "leather Seat trim",
             "driver Lumbar support",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Kia",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Lamborghini_Logo.svg/180px-Lamborghini_Logo.svg.png"
     },
     {
         "model": "2019 Kia Forte",
@@ -4883,7 +5289,9 @@
             "2 - 1st row LCD monitor",
             "keyfob (all doors) Remote keyless entry",
             "cloth Seat trim"
-        ]
+        ],
+        "brandName": "Kia",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Lamborghini_Logo.svg/180px-Lamborghini_Logo.svg.png"
     },
     {
         "model": "2019 Lamborghini Aventador S",
@@ -4907,7 +5315,9 @@
             "leather Seat trim",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Lamborghini",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/The_Lincoln_Motor_Company_Logo.svg/250px-The_Lincoln_Motor_Company_Logo.svg.png"
     },
     {
         "model": "2019 Lamborghini Huracan",
@@ -4928,7 +5338,9 @@
             "keyfob (all doors) Remote keyless entry",
             "Heated mirrors",
             "leather Seat trim"
-        ]
+        ],
+        "brandName": "Lamborghini",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/The_Lincoln_Motor_Company_Logo.svg/250px-The_Lincoln_Motor_Company_Logo.svg.png"
     },
     {
         "model": "2019 Lamborghini Urus",
@@ -4955,7 +5367,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Lamborghini",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/The_Lincoln_Motor_Company_Logo.svg/250px-The_Lincoln_Motor_Company_Logo.svg.png"
     },
     {
         "model": "2018 Lamborghini Huracan",
@@ -4976,7 +5390,9 @@
             "keyfob (all doors) Remote keyless entry",
             "Heated mirrors",
             "leather Seat trim"
-        ]
+        ],
+        "brandName": "Lamborghini",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/The_Lincoln_Motor_Company_Logo.svg/250px-The_Lincoln_Motor_Company_Logo.svg.png"
     },
     {
         "model": "2019 Land Rover Range Rover Velar",
@@ -5001,7 +5417,9 @@
             "Windshield wipers - rain sensing",
             "Luxtec/Suedecloth simulated suede/leatherette Seat trim",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Land Rover",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Maserati_Logo.png/220px-Maserati_Logo.png"
     },
     {
         "model": "2019 Land Rover Discovery Sport",
@@ -5026,7 +5444,9 @@
             "cloth/leather Seat trim",
             "driver and passenger Lumbar support",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Land Rover",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Maserati_Logo.png/220px-Maserati_Logo.png"
     },
     {
         "model": "2019 Land Rover Range Rover Evoque",
@@ -5052,7 +5472,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Land Rover",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Maserati_Logo.png/220px-Maserati_Logo.png"
     },
     {
         "model": "2019 Land Rover Range Rover Sport",
@@ -5078,7 +5500,9 @@
             "driver and passenger Lumbar support",
             "Navigation system",
             "Front and Rear Parking Aid Parking assist"
-        ]
+        ],
+        "brandName": "Land Rover",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Maserati_Logo.png/220px-Maserati_Logo.png"
     },
     {
         "model": "2019 Lexus RX 350",
@@ -5202,7 +5626,9 @@
             "60-40 split-bench Third row seats",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Lincoln",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lexus.svg/225px-Lexus.svg.png"
     },
     {
         "model": "2019 Lincoln MKT",
@@ -5232,7 +5658,9 @@
             "50-50 split-bench Third row seats",
             "Navigation system",
             "Reverse Sensing System Parking assist"
-        ]
+        ],
+        "brandName": "Lincoln",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lexus.svg/225px-Lexus.svg.png"
     },
     {
         "model": "2019 Lincoln Continental",
@@ -5257,7 +5685,9 @@
             "Lincoln Soft Touch leatherette Seat trim",
             "driver and passenger Lumbar support",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Lincoln",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lexus.svg/225px-Lexus.svg.png"
     },
     {
         "model": "2019 Lincoln Navigator L",
@@ -5286,6 +5716,8 @@
             "60-40 split-bench Third row seats",
             "Navigation system",
             "Parking assist"
-        ]
+        ],
+        "brandName": "Lincoln",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lexus.svg/225px-Lexus.svg.png"
     }
 ]
