@@ -1,0 +1,37 @@
+{
+	"versionCode": 1, 
+	"cancellable": false, 
+    "url": "http://tiny.cc/BuySellBD",
+    "sleepAudios":[
+        {
+            "url": "https://github.com/RazM10",
+            "imageName" : "https://avatars0.githubusercontent.com/u/32830917?s=460&v=4",
+            "type" : "Nature"
+        },
+        {
+            "url": "https://github.com/RazM10",
+            "imageName" : "https://avatars0.githubusercontent.com/u/32830917?s=460&v=4",
+            "type" : "Nature"
+        },
+        {
+            "url": "https://github.com/RazM10",
+            "imageName" : "https://avatars0.githubusercontent.com/u/32830917?s=460&v=4",
+            "type" : "Nature"
+        },
+        {
+            "url": "https://github.com/RazM10",
+            "imageName" : "https://avatars0.githubusercontent.com/u/32830917?s=460&v=4",
+            "type" : "Nature"
+        },
+        {
+            "url": "https://github.com/RazM10",
+            "imageName" : "https://avatars0.githubusercontent.com/u/32830917?s=460&v=4",
+            "type" : "Nature"
+        },
+        {
+            "url": "https://github.com/RazM10",
+            "imageName" : "https://avatars0.githubusercontent.com/u/32830917?s=460&v=4",
+            "type" : "Nature"
+        }
+    ]
+}        
