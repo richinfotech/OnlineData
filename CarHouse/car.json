@@ -3904,15 +3904,6 @@
             ]
         },
         {
-            "model": "MINI",
-            "image": "Mitsubishi",
-            "seating": "Nissan",
-            "drivetrain": "Pontiac",
-            "features": "Porsche",
-            "brandName": "MINI",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mitsubishi_logo.svg/200px-Mitsubishi_logo.svg.png"
-        },
-        {
             "model": "2012 Saab 9-3",
             "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC20SSC011A0101.jpg",
             "seating": "5 Passengers",
