@@ -4,6 +4,160 @@
     "url": "http://tiny.cc/BuySellBD",
     "cars": [
         {
+            "model": "2019 Rolls-Royce Phantom",
+            "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC80RRC041A01300.jpg",
+            "seating": "5 Passengers",
+            "drivetrain": "rear-wheel",
+            "features": [
+                "6.8L V-12 Engine",
+                "8-spd auto w/OD Transmission",
+                "563 @ 5,000 rpm Horsepower",
+                "664 @ 1,700 rpm Torque",
+                "rear-wheel Drive type",
+                "ABS and driveline Traction control",
+                "21\" painted forged aluminum Wheels",
+                "front air conditioning, dual zone automatic",
+                "driver and front passenger heated-cushion, heated-seatback Heated front seats",
+                "SiriusXM AM/FM/Satellite, seek-scan Radio",
+                "2 - 1st row LCD monitor",
+                "keyfob (all doors) Remote keyless entry",
+                "front Fog/driving lights",
+                "Heated mirrors",
+                "Windshield wipers - rain sensing",
+                "leather Seat trim",
+                "driver and passenger Lumbar support",
+                "Navigation system",
+                "Parking assist"
+            ],
+            "brandName":"ROLLS-ROYCE",
+            "brandLogo":"https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Rolls-Royce_Motor_Cars_logo.svg/150px-Rolls-Royce_Motor_Cars_logo.svg.png"
+            
+        },
+        {
+            "model": "2019 Rolls-Royce Dawn",
+            "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC60RRC091A01295.jpg",
+            "seating": "4 Passengers",
+            "drivetrain": "rear-wheel",
+            "features": [
+                "6.6L V-12 Engine",
+                "8-spd auto w/OD Transmission",
+                "563 @ 5,250 rpm Horsepower",
+                "605 @ 1,500 rpm Torque",
+                "rear-wheel Drive type",
+                "ABS and driveline Traction control",
+                "20\" silver aluminum Wheels",
+                "front air conditioning, dual zone automatic",
+                "rear air conditioning, with separate controls",
+                "driver and front passenger heated-cushion, heated-seatback Heated front seats",
+                "SiriusXM AM/FM/HD/Satellite, seek-scan Radio",
+                "2 - 1st row LCD monitor",
+                "keyfob (all doors) Remote keyless entry",
+                "Heated mirrors",
+                "power Convertible top",
+                "Windshield wipers - rain sensing",
+                "leather Seat trim",
+                "driver and passenger Lumbar support",
+                "Navigation system",
+                "Parking assist"
+            ],
+            "brandName":"ROLLS-ROYCE",
+            "brandLogo":"https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Rolls-Royce_Motor_Cars_logo.svg/150px-Rolls-Royce_Motor_Cars_logo.svg.png"
+            
+        },
+        {
+            "model": "2019 Rolls-Royce Ghost",
+            "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50RRC071A01300.jpg",
+            "seating": "5 Passengers",
+            "drivetrain": "rear-wheel",
+            "features": [
+                "6.6L V-12 Engine",
+                "8-spd auto w/OD Transmission",
+                "563 @ 5,250 rpm Horsepower",
+                "605 @ 1,500 rpm Torque",
+                "rear-wheel Drive type",
+                "ABS and driveline Traction control",
+                "19\" silver aluminum Wheels",
+                "front air conditioning, dual zone automatic",
+                "rear air conditioning, with separate controls",
+                "driver and front passenger heated-cushion, heated-seatback Heated front seats",
+                "SiriusXM AM/FM/HD/Satellite, seek-scan Radio",
+                "1st row LCD monitor",
+                "keyfob (all doors) Remote keyless entry",
+                "Heated mirrors",
+                "Windshield wipers - rain sensing",
+                "leather Seat trim",
+                "driver and passenger Lumbar support",
+                "Navigation system",
+                "Parking assist"
+            ],
+            "brandName":"ROLLS-ROYCE",
+            "brandLogo":"https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Rolls-Royce_Motor_Cars_logo.svg/150px-Rolls-Royce_Motor_Cars_logo.svg.png"
+               
+    
+        },
+        {
+            "model": "2019 Rolls-Royce Cullinan",
+            "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC90RRS011A01296.jpg",
+            "seating": "5 Passengers",
+            "drivetrain": "all wheel",
+            "features": [
+                "6.8L V-12 Engine",
+                "8-spd auto w/OD Transmission",
+                "563 @ 5,000 rpm Horsepower",
+                "627 @ 1,700 rpm Torque",
+                "all wheel Drive type",
+                "ABS and driveline Traction control",
+                "1st and 2nd row regular express open/close sliding and tilting glass Sunroof",
+                "22\" polished w/painted accents forged aluminum Wheels",
+                "front air conditioning, dual zone automatic",
+                "driver and front passenger heated-cushion, heated-seatback Heated front seats",
+                "SiriusXM AM/FM/HD/Satellite, seek-scan Radio",
+                "2 - 1st row LCD monitor",
+                "keyfob (all doors) Remote keyless entry",
+                "front Fog/driving lights",
+                "Heated mirrors",
+                "Windshield wipers - rain sensing",
+                "leather Seat trim",
+                "driver and passenger Lumbar support",
+                "Navigation system",
+                "Parking assist"
+            ],
+            "brandName":"ROLLS-ROYCE",
+            "brandLogo":"https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Rolls-Royce_Motor_Cars_logo.svg/150px-Rolls-Royce_Motor_Cars_logo.svg.png"
+               
+        },
+        {
+            "model": "2019 Rolls-Royce Wraith",
+            "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC40RRC081A01300.jpg",
+            "seating": "4 Passengers",
+            "drivetrain": "rear-wheel",
+            "features": [
+                "6.6L V-12 Engine",
+                "8-spd auto w/OD Transmission",
+                "563 @ 5,000 rpm Horsepower",
+                "624 @ 5600 rpm Torque",
+                "rear-wheel Drive type",
+                "ABS and driveline Traction control",
+                "21\" painted forged aluminum Wheels",
+                "front air conditioning, dual zone automatic",
+                "driver and front passenger heated-cushion, heated-seatback Heated front seats",
+                "SiriusXM AM/FM/Satellite, seek-scan Radio",
+                "2 - 1st row LCD monitor",
+                "keyfob (all doors) Remote keyless entry",
+                "front Fog/driving lights",
+                "Heated mirrors",
+                "Windshield wipers - rain sensing",
+                "leather Seat trim",
+                "driver and passenger Lumbar support",
+                "Navigation system",
+                "Parking assist"
+            ],
+            "brandName":"ROLLS-ROYCE",
+            "brandLogo":"https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Rolls-Royce_Motor_Cars_logo.svg/150px-Rolls-Royce_Motor_Cars_logo.svg.png"
+            
+        },
+    
+        {
             "model": "2019 Acura RDX",
             "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC90ACS122A021001.jpg",
             "seating": "5 Passengers",
@@ -468,7 +622,8 @@
                 "leather Seat trim",
                 "driver and passenger Lumbar support",
                 "Navigation system"
-            ]
+            ],"brandName":"Bentley",
+            "brandLogo":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Bentley_logo.svg/200px-Bentley_logo.svg.png"
         },
         {
             "model": "2019 Bentley Mulsanne",
@@ -496,7 +651,9 @@
                 "driver and passenger Lumbar support",
                 "Navigation system",
                 "Parking assist"
-            ]
+            ],
+            "brandName":"Bentley",
+            "brandLogo":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Bentley_logo.svg/200px-Bentley_logo.svg.png"
         },
         {
             "model": "2018 Bentley Flying Spur",
@@ -525,7 +682,9 @@
                 "driver and passenger Lumbar support",
                 "Navigation system",
                 "Parking assist"
-            ]
+            ],
+            "brandName":"Bentley",
+            "brandLogo":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Bentley_logo.svg/200px-Bentley_logo.svg.png"
         },
         {
             "model": "2019 BMW 530e",
@@ -1530,32 +1689,6 @@
             "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Fiat_Logo.svg/140px-Fiat_Logo.svg.png"
         },
         {
-            "model": "2012 Fisker Karma",
-            "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC20FSC011A0101.jpg",
-            "seating": "4 Passengers",
-            "drivetrain": "rear-wheel",
-            "features": [
-                "1-spd auto Transmission",
-                "403 @  rpm Horsepower",
-                "959 @  rpm Torque",
-                "rear-wheel Drive type",
-                "ABS and driveline Traction control",
-                "solar panel Sunroof",
-                "22\" silver aluminum Wheels",
-                "front air conditioning, dual zone automatic",
-                "driver and front passenger heated-cushion, heated-seatback Heated front seats",
-                "SiriusXM AM/FM/Satellite, seek-scan Radio",
-                "1st row LCD monitor",
-                "keyfob (all doors) Remote keyless entry",
-                "Heated mirrors",
-                "leatherette Seat trim",
-                "driver and passenger Lumbar support",
-                "Parking assist"
-            ],
-            "brandName": "Fisker",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Th%21nk_logo.png/220px-Th%21nk_logo.png"
-        },
-        {
             "model": "2019 Ford F-150",
             "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC80FOT113A021001.jpg",
             "seating": "3 Passengers",
@@ -2349,7 +2482,7 @@
                 "302 @ 3,500 rpm Torque",
                 "rear-wheel Drive type",
                 "ABS and driveline Traction control",
-                "19\" silver aluminum Wheels",
+                "19 silver aluminum Wheels",
                 "front air conditioning, manual",
                 "driver and front passenger heated-cushion, heated-seatback Heated front seats",
                 "AM/FM stereo, seek-scan Radio",
@@ -2390,7 +2523,7 @@
                 "Parking assist"
             ],
             "brandName": "Maserati",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Maybach_%28logo%29.png/200px-Maybach_%28logo%29.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Maserati_Logo.png/220px-Maserati_Logo.png"
         },
         {
             "model": "2019 Maserati Quattroporte",
@@ -2420,7 +2553,7 @@
                 "Parking assist"
             ],
             "brandName": "Maserati",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Maybach_%28logo%29.png/200px-Maybach_%28logo%29.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Maserati_Logo.png/220px-Maserati_Logo.png"
         },
         {
             "model": "2019 Maserati Ghibli",
@@ -2450,7 +2583,7 @@
                 "Parking assist"
             ],
             "brandName": "Maserati",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Maybach_%28logo%29.png/200px-Maybach_%28logo%29.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Maserati_Logo.png/220px-Maserati_Logo.png"
         },
         {
             "model": "2019 Maserati Levante",
@@ -2479,7 +2612,7 @@
                 "Parking assist"
             ],
             "brandName": "Maserati",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Maybach_%28logo%29.png/200px-Maybach_%28logo%29.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Maserati_Logo.png/220px-Maserati_Logo.png"
         },
         {
             "model": "2012 Maybach Landaulet",
@@ -2510,7 +2643,7 @@
                 "ParkAssist Parking assist"
             ],
             "brandName": "Maybach",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Mazda_logo_with_emblem.svg/100px-Mazda_logo_with_emblem.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Maybach_%28logo%29.png/200px-Maybach_%28logo%29.png"
         },
         {
             "model": "2012 Maybach 57",
@@ -2541,7 +2674,7 @@
                 "ParkAssist Parking assist"
             ],
             "brandName": "Maybach",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Mazda_logo_with_emblem.svg/100px-Mazda_logo_with_emblem.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Maybach_%28logo%29.png/200px-Maybach_%28logo%29.png"
         },
         {
             "model": "2012 Maybach 62",
@@ -2571,7 +2704,7 @@
                 "ParkAssist Parking assist"
             ],
             "brandName": "Maybach",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Mazda_logo_with_emblem.svg/100px-Mazda_logo_with_emblem.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Maybach_%28logo%29.png/200px-Maybach_%28logo%29.png"
         },
         {
             "model": "2019 Mazda CX-5",
@@ -2593,7 +2726,7 @@
                 "cloth Seat trim"
             ],
             "brandName": "Mazda",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/McLaren_logo.svg/220px-McLaren_logo.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Mazda_logo_with_emblem.svg/100px-Mazda_logo_with_emblem.svg.png"
         },
         {
             "model": "2019 Mazda CX-9",
@@ -2617,7 +2750,7 @@
                 "50-50 split-bench Third row seats"
             ],
             "brandName": "Mazda",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/McLaren_logo.svg/220px-McLaren_logo.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Mazda_logo_with_emblem.svg/100px-Mazda_logo_with_emblem.svg.png"
         },
         {
             "model": "2019 Mazda CX-3",
@@ -2639,7 +2772,7 @@
                 "cloth Seat trim"
             ],
             "brandName": "Mazda",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/McLaren_logo.svg/220px-McLaren_logo.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Mazda_logo_with_emblem.svg/100px-Mazda_logo_with_emblem.svg.png"
         },
         {
             "model": "2019 Mazda Mazda3",
@@ -2661,7 +2794,7 @@
                 "cloth Seat trim"
             ],
             "brandName": "Mazda",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/McLaren_logo.svg/220px-McLaren_logo.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Mazda_logo_with_emblem.svg/100px-Mazda_logo_with_emblem.svg.png"
         },
         {
             "model": "2019 McLaren 720S",
@@ -2688,7 +2821,7 @@
                 "Parking assist"
             ],
             "brandName": "McLaren",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mercedes-Benz_Logo_2010.svg/220px-Mercedes-Benz_Logo_2010.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/McLaren_logo.svg/220px-McLaren_logo.svg.png"
         },
         {
             "model": "2019 McLaren 600LT",
@@ -2713,7 +2846,7 @@
                 "Parking assist"
             ],
             "brandName": "McLaren",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mercedes-Benz_Logo_2010.svg/220px-Mercedes-Benz_Logo_2010.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/McLaren_logo.svg/220px-McLaren_logo.svg.png"
         },
         {
             "model": "2019 McLaren 570S",
@@ -2740,7 +2873,7 @@
                 "Parking assist"
             ],
             "brandName": "McLaren",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mercedes-Benz_Logo_2010.svg/220px-Mercedes-Benz_Logo_2010.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/McLaren_logo.svg/220px-McLaren_logo.svg.png"
         },
         {
             "model": "2018 McLaren 570GT",
@@ -2770,7 +2903,7 @@
                 "Parking assist"
             ],
             "brandName": "McLaren",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mercedes-Benz_Logo_2010.svg/220px-Mercedes-Benz_Logo_2010.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/McLaren_logo.svg/220px-McLaren_logo.svg.png"
         },
         {
             "model": "2019 Mercedes-Benz AMG GLE 63",
@@ -2801,7 +2934,7 @@
                 "Parking Pilot Parking assist"
             ],
             "brandName": "Mercedes-Benz",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mercury_Logo_%28automobile_company%29.svg/150px-Mercury_Logo_%28automobile_company%29.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mercedes-Benz_Logo_2010.svg/220px-Mercedes-Benz_Logo_2010.svg.png"
         },
         {
             "model": "2019 Mercedes-Benz AMG GT",
@@ -2829,7 +2962,7 @@
                 "Active Parking Assist Parking assist"
             ],
             "brandName": "Mercedes-Benz",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mercury_Logo_%28automobile_company%29.svg/150px-Mercury_Logo_%28automobile_company%29.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mercedes-Benz_Logo_2010.svg/220px-Mercedes-Benz_Logo_2010.svg.png"
         },
         {
             "model": "2019 Mercedes-Benz GLA 250",
@@ -2855,7 +2988,7 @@
                 "driver and passenger Lumbar support"
             ],
             "brandName": "Mercedes-Benz",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mercury_Logo_%28automobile_company%29.svg/150px-Mercury_Logo_%28automobile_company%29.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mercedes-Benz_Logo_2010.svg/220px-Mercedes-Benz_Logo_2010.svg.png"
         },
         {
             "model": "2019 Mercedes-Benz S-Class",
@@ -2885,7 +3018,7 @@
                 "PARKTRONIC w/Active Parking Assist Parking assist"
             ],
             "brandName": "Mercedes-Benz",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mercury_Logo_%28automobile_company%29.svg/150px-Mercury_Logo_%28automobile_company%29.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mercedes-Benz_Logo_2010.svg/220px-Mercedes-Benz_Logo_2010.svg.png"
         },
         {
             "model": "2011 Mercury Grand Marquis",
@@ -2909,7 +3042,7 @@
                 "driver and passenger Lumbar support"
             ],
             "brandName": "Mercury",
-            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2016/01/Mini-logo-500x375.jpg"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mercury_Logo_%28automobile_company%29.svg/150px-Mercury_Logo_%28automobile_company%29.svg.png"
         },
         {
             "model": "2011 Mercury Mariner",
@@ -2931,7 +3064,7 @@
                 "premium cloth Seat trim"
             ],
             "brandName": "Mercury",
-            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2016/01/Mini-logo-500x375.jpg"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mercury_Logo_%28automobile_company%29.svg/150px-Mercury_Logo_%28automobile_company%29.svg.png"
         },
         {
             "model": "2011 Mercury Mariner Hybrid",
@@ -2952,7 +3085,7 @@
                 "premium cloth Seat trim"
             ],
             "brandName": "Mercury",
-            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2016/01/Mini-logo-500x375.jpg"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mercury_Logo_%28automobile_company%29.svg/150px-Mercury_Logo_%28automobile_company%29.svg.png"
         },
         {
             "model": "2011 Mercury Milan",
@@ -2975,7 +3108,7 @@
                 "driver Lumbar support"
             ],
             "brandName": "Mercury",
-            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2016/01/Mini-logo-500x375.jpg"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mercury_Logo_%28automobile_company%29.svg/150px-Mercury_Logo_%28automobile_company%29.svg.png"
         },
         {
             "model": "2019 MINI Countryman",
@@ -3002,7 +3135,7 @@
                 "Rear Park Distance Control Parking assist"
             ],
             "brandName": "MINI",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mitsubishi_logo.svg/200px-Mitsubishi_logo.svg.png"
+            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2016/01/Mini-logo-500x375.jpg"
         },
         {
             "model": "2019 MINI Hardtop",
@@ -3027,7 +3160,7 @@
                 "Rear Park Distance Control Parking assist"
             ],
             "brandName": "MINI",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mitsubishi_logo.svg/200px-Mitsubishi_logo.svg.png"
+            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2016/01/Mini-logo-500x375.jpg"
         },
         {
             "model": "2019 MINI Convertible",
@@ -3053,7 +3186,7 @@
                 "Rear Park Distance Control Parking assist"
             ],
             "brandName": "MINI",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mitsubishi_logo.svg/200px-Mitsubishi_logo.svg.png"
+            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2016/01/Mini-logo-500x375.jpg"
         },
         {
             "model": "2019 MINI Clubman",
@@ -3079,7 +3212,7 @@
                 "Rear Park Distance Control Parking assist"
             ],
             "brandName": "MINI",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mitsubishi_logo.svg/200px-Mitsubishi_logo.svg.png"
+            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2016/01/Mini-logo-500x375.jpg"
         },
         {
             "model": "2019 Mitsubishi Mirage",
@@ -3101,7 +3234,7 @@
                 "cloth Seat trim"
             ],
             "brandName": "Mitsubishi",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/1/12/Morganwings.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mitsubishi_logo.svg/200px-Mitsubishi_logo.svg.png"
         },
         {
             "model": "2019 Mitsubishi Eclipse Cross",
@@ -3125,7 +3258,7 @@
                 "cloth Seat trim"
             ],
             "brandName": "Mitsubishi",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/1/12/Morganwings.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mitsubishi_logo.svg/200px-Mitsubishi_logo.svg.png"
         },
         {
             "model": "2019 Mitsubishi Outlander Sport",
@@ -3148,7 +3281,7 @@
                 "cloth Seat trim"
             ],
             "brandName": "Mitsubishi",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/1/12/Morganwings.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mitsubishi_logo.svg/200px-Mitsubishi_logo.svg.png"
         },
         {
             "model": "2019 Mitsubishi Outlander",
@@ -3173,11 +3306,11 @@
                 "50-50 split-bench Third row seats"
             ],
             "brandName": "Mitsubishi",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/1/12/Morganwings.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mitsubishi_logo.svg/200px-Mitsubishi_logo.svg.png"
         },
         {
             "model": "2009 Morgan Aero8",
-            "image": "https://s.aolcdn.com/os/ab/img/icons/image_unavailable_376x212.png",
+            "image": "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/morgan-supersports-1.jpg?itok=SLi_9iU7",
             "seating": "2 Passengers",
             "drivetrain": "rear-wheel",
             "features": [
@@ -3194,7 +3327,7 @@
                 "leather Seat trim"
             ],
             "brandName": "Morgan",
-            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2015/08/Nissan-emblem-4.jpg"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/1/12/Morganwings.png"
         },
         {
             "model": "2008 Morgan Aero8",
@@ -3215,7 +3348,7 @@
                 "leather Seat trim"
             ],
             "brandName": "Morgan",
-            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2015/08/Nissan-emblem-4.jpg"
+            "brandLogo":"https://upload.wikimedia.org/wikipedia/en/1/12/Morganwings.png"
         },
         {
             "model": "2007 Morgan Aero8",
@@ -3236,7 +3369,7 @@
                 "leather Seat trim"
             ],
             "brandName": "Morgan",
-            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2015/08/Nissan-emblem-4.jpg"
+            "brandLogo":"https://upload.wikimedia.org/wikipedia/en/1/12/Morganwings.png"
         },
         {
             "model": "2006 Morgan Aero8",
@@ -3257,7 +3390,7 @@
                 "leather Seat trim"
             ],
             "brandName": "Morgan",
-            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2015/08/Nissan-emblem-4.jpg"
+            "brandLogo":"https://upload.wikimedia.org/wikipedia/en/1/12/Morganwings.png"
         },
         {
             "model": "2019 Nissan Frontier",
@@ -3277,7 +3410,8 @@
                 "1st row LCD monitor",
                 "cloth Seat trim"
             ],
-            "brandName": "Nissan"
+            "brandName": "Nissan",
+            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2015/08/Nissan-emblem-4.jpg"
         },
         {
             "model": "2019 Nissan Pathfinder",
@@ -3302,7 +3436,8 @@
                 "50-50 bench Third row seats",
                 "Parking assist"
             ],
-            "brandName": "Nissan"
+            "brandName": "Nissan",
+            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2015/08/Nissan-emblem-4.jpg"
         },
         {
             "model": "2019 Nissan GT-R",
@@ -3327,8 +3462,9 @@
                 "Navigation system",
                 "Parking assist"
             ],
-            "brandName": "Nissan"
-        },
+            "brandName": "Nissan",
+            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2015/08/Nissan-emblem-4.jpg"
+       },
         {
             "model": "2019 Nissan NV200",
             "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC80NIV191B021001.jpg",
@@ -3348,7 +3484,8 @@
                 "cloth/vinyl Seat trim",
                 "driver Lumbar support"
             ],
-            "brandName": "Nissan"
+            "brandName": "Nissan",
+            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2015/08/Nissan-emblem-4.jpg"
         },
         {
             "model": "2004 Oldsmobile Alero",
@@ -3793,116 +3930,8 @@
             "brandName": "RAM",
             "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Ramchryslerlogo.png/150px-Ramchryslerlogo.png"
         },
-        {
-            "model": "2019 Rolls-Royce Phantom",
-            "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC80RRC041A01300.jpg",
-            "seating": "5 Passengers",
-            "drivetrain": "rear-wheel",
-            "features": [
-                "6.8L V-12 Engine",
-                "8-spd auto w/OD Transmission",
-                "563 @ 5,000 rpm Horsepower",
-                "664 @ 1,700 rpm Torque",
-                "rear-wheel Drive type",
-                "ABS and driveline Traction control",
-                "21\" painted forged aluminum Wheels",
-                "front air conditioning, dual zone automatic",
-                "driver and front passenger heated-cushion, heated-seatback Heated front seats",
-                "SiriusXM AM/FM/Satellite, seek-scan Radio",
-                "2 - 1st row LCD monitor",
-                "keyfob (all doors) Remote keyless entry",
-                "front Fog/driving lights",
-                "Heated mirrors",
-                "Windshield wipers - rain sensing",
-                "leather Seat trim",
-                "driver and passenger Lumbar support",
-                "Navigation system",
-                "Parking assist"
-            ]
-        },
-        {
-            "model": "2019 Rolls-Royce Dawn",
-            "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC60RRC091A01295.jpg",
-            "seating": "4 Passengers",
-            "drivetrain": "rear-wheel",
-            "features": [
-                "6.6L V-12 Engine",
-                "8-spd auto w/OD Transmission",
-                "563 @ 5,250 rpm Horsepower",
-                "605 @ 1,500 rpm Torque",
-                "rear-wheel Drive type",
-                "ABS and driveline Traction control",
-                "20\" silver aluminum Wheels",
-                "front air conditioning, dual zone automatic",
-                "rear air conditioning, with separate controls",
-                "driver and front passenger heated-cushion, heated-seatback Heated front seats",
-                "SiriusXM AM/FM/HD/Satellite, seek-scan Radio",
-                "2 - 1st row LCD monitor",
-                "keyfob (all doors) Remote keyless entry",
-                "Heated mirrors",
-                "power Convertible top",
-                "Windshield wipers - rain sensing",
-                "leather Seat trim",
-                "driver and passenger Lumbar support",
-                "Navigation system",
-                "Parking assist"
-            ]
-        },
-        {
-            "model": "2019 Rolls-Royce Ghost",
-            "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50RRC071A01300.jpg",
-            "seating": "5 Passengers",
-            "drivetrain": "rear-wheel",
-            "features": [
-                "6.6L V-12 Engine",
-                "8-spd auto w/OD Transmission",
-                "563 @ 5,250 rpm Horsepower",
-                "605 @ 1,500 rpm Torque",
-                "rear-wheel Drive type",
-                "ABS and driveline Traction control",
-                "19\" silver aluminum Wheels",
-                "front air conditioning, dual zone automatic",
-                "rear air conditioning, with separate controls",
-                "driver and front passenger heated-cushion, heated-seatback Heated front seats",
-                "SiriusXM AM/FM/HD/Satellite, seek-scan Radio",
-                "1st row LCD monitor",
-                "keyfob (all doors) Remote keyless entry",
-                "Heated mirrors",
-                "Windshield wipers - rain sensing",
-                "leather Seat trim",
-                "driver and passenger Lumbar support",
-                "Navigation system",
-                "Parking assist"
-            ]
-        },
-        {
-            "model": "2019 Rolls-Royce Cullinan",
-            "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC90RRS011A01296.jpg",
-            "seating": "5 Passengers",
-            "drivetrain": "all wheel",
-            "features": [
-                "6.8L V-12 Engine",
-                "8-spd auto w/OD Transmission",
-                "563 @ 5,000 rpm Horsepower",
-                "627 @ 1,700 rpm Torque",
-                "all wheel Drive type",
-                "ABS and driveline Traction control",
-                "1st and 2nd row regular express open/close sliding and tilting glass Sunroof",
-                "22\" polished w/painted accents forged aluminum Wheels",
-                "front air conditioning, dual zone automatic",
-                "driver and front passenger heated-cushion, heated-seatback Heated front seats",
-                "SiriusXM AM/FM/HD/Satellite, seek-scan Radio",
-                "2 - 1st row LCD monitor",
-                "keyfob (all doors) Remote keyless entry",
-                "front Fog/driving lights",
-                "Heated mirrors",
-                "Windshield wipers - rain sensing",
-                "leather Seat trim",
-                "driver and passenger Lumbar support",
-                "Navigation system",
-                "Parking assist"
-            ]
-        },
+    
+
         {
             "model": "2012 Saab 9-3",
             "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC20SSC011A0101.jpg",
@@ -4245,46 +4274,6 @@
             "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Scion_logo.svg/220px-Scion_logo.svg.png"
         },
         {
-            "model": "2019 smart EQ fortwo",
-            "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/CAC80SMC021A021001.jpg",
-            "seating": "2 Passengers",
-            "drivetrain": "rear-wheel",
-            "features": [
-                "1-spd auto Transmission",
-                "80 @  rpm Horsepower",
-                "118 @  rpm Torque",
-                "rear-wheel Drive type",
-                "ABS and driveline Traction control",
-                "15\" steel Wheels",
-                "front air conditioning, automatic",
-                "AM/FM stereo, seek-scan Radio",
-                "1st row LCD monitor",
-                "keyfob (all doors) Remote keyless entry",
-                "rear Fog/driving lights",
-                "cloth Seat trim"
-            ]
-        },
-        {
-            "model": "2018 smart fortwo electric drive",
-            "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/CAC80SMC021A021001.jpg",
-            "seating": "2 Passengers",
-            "drivetrain": "rear-wheel",
-            "features": [
-                "1-spd auto Transmission",
-                "80 @  rpm Horsepower",
-                "118 @  rpm Torque",
-                "rear-wheel Drive type",
-                "ABS and driveline Traction control",
-                "15\" steel Wheels",
-                "front air conditioning, automatic",
-                "AM/FM stereo, seek-scan Radio",
-                "1st row LCD monitor",
-                "keyfob (all doors) Remote keyless entry",
-                "rear Fog/driving lights",
-                "cloth Seat trim"
-            ]
-        },
-        {
             "model": "2009 Spyker C8 Aileron",
             "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USB90SPC051A0101.jpg",
             "seating": "2 Passengers",
@@ -4573,7 +4562,7 @@
                 "Parking assist"
             ],
             "brandName": "Tesla",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/184px-Volkswagen_logo_2019.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/120px-Tesla_Motors.svg.png "
         },
         {
             "model": "2019 Tesla Model X",
@@ -4600,7 +4589,8 @@
                 "Parking assist"
             ],
             "brandName": "Tesla",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/184px-Volkswagen_logo_2019.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/120px-Tesla_Motors.svg.png"
+
         },
         {
             "model": "2019 Tesla Model S",
@@ -4627,7 +4617,8 @@
                 "Parking assist"
             ],
             "brandName": "Tesla",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/184px-Volkswagen_logo_2019.svg.png"
+            "brandLogo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/120px-Tesla_Motors.svg.png"
+ 
         },
         {
             "model": "2018 Tesla Model S",
@@ -4657,7 +4648,8 @@
                 "Parking assist"
             ],
             "brandName": "Tesla",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/184px-Volkswagen_logo_2019.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/120px-Tesla_Motors.svg.png"
+
         },
         {
             "model": "2011 THINK THINK City",
@@ -4676,7 +4668,8 @@
                 "cloth Seat trim"
             ],
             "brandName": "THINK",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Toyota_logo_2019.png/220px-Toyota_logo_2019.png"
+            "brandLogo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Th%21nk_logo.png/220px-Th%21nk_logo.png"
+
         },
         {
             "model": "2019 Toyota Camry",
@@ -4698,7 +4691,7 @@
                 "cloth Seat trim"
             ],
             "brandName": "Toyota",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/120px-Tesla_Motors.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Toyota_logo_2019.png/220px-Toyota_logo_2019.png"
         },
         {
             "model": "2019 Toyota Corolla Hatchback",
@@ -4721,7 +4714,7 @@
                 "cloth Seat trim"
             ],
             "brandName": "Toyota",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/120px-Tesla_Motors.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Toyota_logo_2019.png/220px-Toyota_logo_2019.png"
         },
         {
             "model": "2019 Toyota Corolla",
@@ -4742,7 +4735,7 @@
                 "cloth Seat trim"
             ],
             "brandName": "Toyota",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/120px-Tesla_Motors.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Toyota_logo_2019.png/220px-Toyota_logo_2019.png"
         },
         {
             "model": "2019 Toyota Land Cruiser",
@@ -4774,7 +4767,7 @@
                 "Parking assist"
             ],
             "brandName": "Toyota",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/120px-Tesla_Motors.svg.png"
+            "brandLogo": " https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Toyota_logo_2019.png/220px-Toyota_logo_2019.png"
         },
         {
             "model": "2019 Volkswagen Tiguan",
@@ -4798,7 +4791,7 @@
                 "50-50 bench Third row seats"
             ],
             "brandName": "Volkswagen",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Volvo_logo.svg/220px-Volvo_logo.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/184px-Volkswagen_logo_2019.svg.png"
         },
         {
             "model": "2019 Volkswagen Beetle",
@@ -4821,7 +4814,7 @@
                 "cloth Seat trim"
             ],
             "brandName": "Volkswagen",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Volvo_logo.svg/220px-Volvo_logo.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/184px-Volkswagen_logo_2019.svg.png"
         },
         {
             "model": "2019 Volkswagen Golf GTI",
@@ -4848,7 +4841,7 @@
                 "driver and passenger Lumbar support"
             ],
             "brandName": "Volkswagen",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Volvo_logo.svg/220px-Volvo_logo.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/184px-Volkswagen_logo_2019.svg.png"
         },
         {
             "model": "2019 Volkswagen Jetta",
@@ -4870,7 +4863,7 @@
                 "cloth Seat trim"
             ],
             "brandName": "Volkswagen",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Volvo_logo.svg/220px-Volvo_logo.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/184px-Volkswagen_logo_2019.svg.png"
         },
         {
             "model": "2019 Volvo XC90",
@@ -4900,7 +4893,7 @@
                 "Rear Park Assist Parking assist"
             ],
             "brandName": "Volvo",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Jaguar_2012_logo.png/220px-Jaguar_2012_logo.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Volvo_logo.svg/220px-Volvo_logo.svg.png"
         },
         {
             "model": "2019 Volvo V90",
@@ -4930,7 +4923,7 @@
                 "Parking assist"
             ],
             "brandName": "Volvo",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Jaguar_2012_logo.png/220px-Jaguar_2012_logo.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Volvo_logo.svg/220px-Volvo_logo.svg.png"
         },
         {
             "model": "2019 Volvo S90",
@@ -4959,7 +4952,7 @@
                 "Parking assist"
             ],
             "brandName": "Volvo",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Jaguar_2012_logo.png/220px-Jaguar_2012_logo.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Volvo_logo.svg/220px-Volvo_logo.svg.png"
         },
         {
             "model": "2019 Volvo XC60 Hybrid",
@@ -4987,7 +4980,7 @@
                 "driver and passenger Lumbar support"
             ],
             "brandName": "Volvo",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Jaguar_2012_logo.png/220px-Jaguar_2012_logo.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Volvo_logo.svg/220px-Volvo_logo.svg.png"
         },
         {
             "model": "2019 Jaguar XJ",
@@ -5017,7 +5010,7 @@
                 "Parking assist"
             ],
             "brandName": "Jaguar",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jeep_wordmark.svg/220px-Jeep_wordmark.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Jaguar_2012_logo.png/220px-Jaguar_2012_logo.png"
         },
         {
             "model": "2019 Jaguar E-PACE",
@@ -5043,7 +5036,7 @@
                 "Parking assist"
             ],
             "brandName": "Jaguar",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jeep_wordmark.svg/220px-Jeep_wordmark.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Jaguar_2012_logo.png/220px-Jaguar_2012_logo.png"
         },
         {
             "model": "2019 Jaguar XF",
@@ -5069,7 +5062,7 @@
                 "LuxTec leatherette Seat trim"
             ],
             "brandName": "Jaguar",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jeep_wordmark.svg/220px-Jeep_wordmark.svg.png"
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Jaguar_2012_logo.png/220px-Jaguar_2012_logo.png"
         },
         {
             "model": "2019 Jaguar XE",
@@ -5521,8 +5514,12 @@
                 "Windshield wipers - rain sensing",
                 "NuLuxe leatherette Seat trim",
                 "driver and passenger Lumbar support"
-            ]
+             ],
+             "brandName":"Lexus",
+             "brandLogo":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lexus.svg/225px-Lexus.svg.png"
         },
+        
+
         {
             "model": "2019 Lexus ES 300h",
             "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC90LEC251A021001.jpg",
@@ -5543,7 +5540,9 @@
                 "keyfob (all doors) Remote keyless entry",
                 "NuLuxe leatherette Seat trim",
                 "driver and passenger Lumbar support"
-            ]
+            ],
+            "brandName":"Lexus",
+            "brandLogo":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lexus.svg/225px-Lexus.svg.png"
         },
         {
             "model": "2019 Lexus GS 350",
@@ -5568,7 +5567,9 @@
                 "NuLuxe leatherette Seat trim",
                 "driver and passenger Lumbar support",
                 "Navigation system"
-            ]
+            ],
+            "brandName":"Lexus",
+            "brandLogo":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lexus.svg/225px-Lexus.svg.png"
         },
         {
             "model": "2019 Lexus GX 460",
@@ -5592,7 +5593,9 @@
                 "NuLuxe leatherette Seat trim",
                 "driver and passenger Lumbar support",
                 "50-50 split-bench Third row seats"
-            ]
+            ],
+            "brandName":"Lexus",
+            "brandLogo":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lexus.svg/225px-Lexus.svg.png"
         },
         {
             "model": "2019 Lincoln Navigator",
@@ -5623,7 +5626,7 @@
                 "Parking assist"
             ],
             "brandName": "Lincoln",
-            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lexus.svg/225px-Lexus.svg.png"
+            "brandLogo": ""
         },
         {
             "model": "2019 Lincoln MKT",
