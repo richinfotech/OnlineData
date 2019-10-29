@@ -2667,7 +2667,7 @@
                 "Parking assist"
             ],
             "brandName": "McLaren",
-            "brandLogo": 
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/McLaren_logo.svg/220px-McLaren_logo.svg.png"
         },
         {
             "model": "2019 McLaren 600LT",
@@ -2780,7 +2780,7 @@
                 "Parking Pilot Parking assist"
             ],
             "brandName": "Mercedes-Benz",
-            "brandLogo": 
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mercedes-Benz_Logo_2010.svg/220px-Mercedes-Benz_Logo_2010.svg.png"
         },
         {
             "model": "2019 Mercedes-Benz AMG GT",
@@ -2888,7 +2888,7 @@
                 "driver and passenger Lumbar support"
             ],
             "brandName": "Mercury",
-            "brandLogo": 
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mercury_Logo_%28automobile_company%29.svg/150px-Mercury_Logo_%28automobile_company%29.svg.png"
         },
         {
             "model": "2011 Mercury Mariner",
@@ -2981,7 +2981,7 @@
                 "Rear Park Distance Control Parking assist"
             ],
             "brandName": "MINI",
-            "brandLogo": 
+            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2016/01/Mini-logo-500x375.jpg"
         },
         {
             "model": "2019 MINI Hardtop",
@@ -3006,7 +3006,7 @@
                 "Rear Park Distance Control Parking assist"
             ],
             "brandName": "MINI",
-            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2016/01/Mini-logo-500x375.jpg",
+            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2016/01/Mini-logo-500x375.jpg"
         },
         {
             "model": "2019 MINI Convertible",
@@ -3032,7 +3032,7 @@
                 "Rear Park Distance Control Parking assist"
             ],
             "brandName": "MINI",
-            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2016/01/Mini-logo-500x375.jpg",
+            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2016/01/Mini-logo-500x375.jpg"
         },
         {
             "model": "2019 MINI Clubman",
@@ -3058,7 +3058,7 @@
                 "Rear Park Distance Control Parking assist"
             ],
             "brandName": "MINI",
-            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2016/01/Mini-logo-500x375.jpg",
+            "brandLogo": "http://www.car-brand-names.com/wp-content/uploads/2016/01/Mini-logo-500x375.jpg"
         },
         {
             "model": "2019 Mitsubishi Mirage",
@@ -4118,7 +4118,7 @@
             ],
             "brandName": "Scion",
             "brandLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Scion_logo.svg/220px-Scion_logo.svg.png"
-        }
+        },
         {
             "model": "2009 Spyker C8 Aileron",
             "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USB90SPC051A0101.jpg",
@@ -4435,7 +4435,8 @@
                 "Parking assist"
             ],
             "brandName": "Tesla",
-            "brandLogo": 
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/120px-Tesla_Motors.svg.png"
+
         },
         {
             "model": "2019 Tesla Model S",
@@ -4462,7 +4463,8 @@
                 "Parking assist"
             ],
             "brandName": "Tesla",
-            "brandLogo":  
+            "brandLogo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/120px-Tesla_Motors.svg.png"
+ 
         },
         {
             "model": "2018 Tesla Model S",
@@ -4492,7 +4494,8 @@
                 "Parking assist"
             ],
             "brandName": "Tesla",
-            "brandLogo":  
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/120px-Tesla_Motors.svg.png"
+
         },
         {
             "model": "2011 THINK THINK City",
@@ -4511,7 +4514,8 @@
                 "cloth Seat trim"
             ],
             "brandName": "THINK",
-            "brandLogo": ""
+            "brandLogo":  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Th%21nk_logo.png/220px-Th%21nk_logo.png"
+
         },
         {
             "model": "2019 Toyota Camry",
@@ -4556,7 +4560,7 @@
                 "cloth Seat trim"
             ],
             "brandName": "Toyota",
-            "brandLogo": 
+            "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Toyota_logo_2019.png/220px-Toyota_logo_2019.png"
         },
         {
             "model": "2019 Toyota Corolla",
