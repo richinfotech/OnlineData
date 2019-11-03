@@ -9,25 +9,25 @@
             "books": [
                 {
                     "bookName": "আমার বাংলা বই",
-                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c1_bangla.jpg",
+                    "bookCover" : "https://3.bp.blogspot.com/-TgPEqV2Lu-c/VzYHtniVI3I/AAAAAAAAAXY/WziCOcV9wsYsxrwZvGRzV3BjyvffdMoWACLcB/s320/Bangla-1.jpg",
                     "banglaView": "",
-                    "banglaDownload": "",
+                    "banglaDownload": "https://drive.google.com/open?id=0B0EXISX1gyucYmZ6OEJEenRoYzg",
                     "englishView": "",
                     "englishDownload": ""
                 },
                 {
                     "bookName": "English For Today",
-                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c2_english.jpg",
+                    "bookCover" : "https://2.bp.blogspot.com/-YnoUilkb_xM/VzYPpCutYcI/AAAAAAAAAXs/SuuLUMr7gJELzyuhUPkBeOAWbOVAb4m2wCLcB/s320/English-1.jpg",
                     "banglaView": "",
-                    "banglaDownload": "",
+                    "banglaDownload": "https://drive.google.com/open?id=0B0EXISX1gyucTUZLNVU0N2RMckU",
                     "englishView": "",
                     "englishDownload": ""
                 },
                 {
                     "bookName": "প্রাথমিক গণিত",
-                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c1_maths.jpg",
+                    "bookCover" : "https://2.bp.blogspot.com/-wZnVWwKda3s/VzYPnavaDHI/AAAAAAAAAXo/Oyl6YZHxyMgmI9ocPyJP5DZ6jyaCqsA4gCLcB/s320/Math-1.jpg",
                     "banglaView": "",
-                    "banglaDownload": "",
+                    "banglaDownload": "https://drive.google.com/open?id=0B0EXISX1gyucUTVndGJwSGc4bGc",
                     "englishView": "",
                     "englishDownload": ""
                 }
@@ -56,7 +56,7 @@
                 {
                     "bookName": "প্রাথমিক গণিত",
                     "bookCover" : "http://www.ebook.gov.bd/img_2013/c2_math.jpg",
-                    "banglaView": "",
+                    "banglaView": "https://drive.google.com/file/d/0B0EXISX1gyucUTVndGJwSGc4bGc/view",
                     "banglaDownload": "",
                     "englishView": "",
                     "englishDownload": ""
