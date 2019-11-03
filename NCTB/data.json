@@ -1,0 +1,1012 @@
+{
+    "versionCode": 1, 
+	"cancellable": false, 
+    "url": "http://tiny.cc/BuySellBD",
+    "classes" : [
+        {
+            "className": "One",
+            "classNameBn": "প্রথম",
+            "books": [
+                {
+                    "bookName": "আমার বাংলা বই",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c1_bangla.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "English For Today",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c2_english.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "প্রাথমিক গণিত",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c1_maths.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                }
+            ]
+        },
+        {
+            "className": "Two",
+            "classNameBn": "দ্বিতীয়",
+            "books": [
+                {
+                    "bookName": "আমার বাংলা বই",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c2_bangla.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "English For Today",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c2_english.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "প্রাথমিক গণিত",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c2_math.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                }
+            ]
+        },
+        {
+            "className": "Three",
+            "classNameBn": "তৃতীয়",
+            "books": [
+                {
+                    "bookName": "আমার বাংলা বই",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c3_amar%20bangla%20boi.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "English For Today",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c3_english.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "প্রাথমিক গণিত",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c3_math.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "প্রাথমিক বিজ্ঞান",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c2_math.jpghttp://www.ebook.gov.bd/img_2013/c3_science.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বাংলাদেশ ও বিশ্বপরিচয়",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c3_bd%20and%20global.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "ইসলাম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c3_islam.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c3_hindhu.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c3_buddah.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },{
+                    "bookName": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c3_christan.JPG",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                }
+            ]
+        },
+        {
+            "className": "Four",
+            "classNameBn": "চতুর্থ",
+            "books": [
+                {
+                    "bookName": "আমার বাংলা বই",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c4_amar%20bangla%20boi.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "English For Today",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c4_english.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "প্রাথমিক গণিত",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c4_math.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "প্রাথমিক বিজ্ঞান",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c4_science.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বাংলাদেশ ও বিশ্বপরিচয়",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c4_bd%20and%20global.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "ইসলাম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c4_islam.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c4_hindhu.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c4_buddah.JPG",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },{
+                    "bookName": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c4_christan.JPG",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                }
+            ]
+        },
+        {
+            "className": "Five",
+            "classNameBn": "পঞ্চম",
+            "books": [
+                {
+                    "bookName": "আমার বাংলা বই",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c5_bangla.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "English For Today",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c5_english.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "প্রাথমিক গণিত",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c5_math.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "প্রাথমিক বিজ্ঞান",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c5_science.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বাংলাদেশ ও বিশ্বপরিচয়",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c4_bd%20and%20global.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "ইসলাম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c5_islam.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c5_hindhu.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c5_buddah.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },{
+                    "bookName": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c5_christan.JPG",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                }
+            ]
+        },
+        
+        
+        
+        {
+            "className": "Six",
+            "classNameBn": "ষষ্ঠ",
+            "books": [
+                {
+                    "bookName": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+                    "bookCover" : "https://4.bp.blogspot.com/-RTyauONO8Qg/XFmSxejOJaI/AAAAAAAADAI/lvHmHax_nj4Qj7hIgDBUNgNi0X-k4qrkgCLcBGAs/s1600/Anondo-part-06.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "English For Today",
+                    "bookCover" : "https://2.bp.blogspot.com/-uPl49557jEg/VztDLZLEBfI/AAAAAAAAAcU/6qCkzrHLOdUhgZo3oXdVVxrv8govaopEACLcB/s1600/English-1.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "গণিত",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c6_math.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বাংলা ব্যাকরণ ও নির্মিতি",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c6_bangla%20grammer.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "English Grammer and Composition",
+                    "bookCover" : "https://4.bp.blogspot.com/-DlkRD1dJtw0/VztCiBzVOwI/AAAAAAAAAcE/YOCFb24jbMgNG2gEp_hMWspsMYTjj3BIQCLcB/s1600/English%2BGrammar-1.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বিজ্ঞান",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c6_science.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },{
+                    "bookName": "চারু ও কারুকলা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c6_arts%20and%20crafts.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },{
+                    "bookName": "তথ্য ও যোগাযোগ প্রযুক্তি",
+                    "bookCover" : "https://image.winudf.com/v2/image1/Y29tLnJvbmdkaG9udWFwcHMuQ2xhc3M2Qm9va3Nfc2NyZWVuXzNfMTU0NjIxNjQ4NF8wMjQ/screen-3.jpg?fakeurl=1&type=.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "চারুপাঠ",
+                    "bookCover" : "https://4.bp.blogspot.com/-ObUjKlqil8E/VztCN1FgEQI/AAAAAAAAAb4/N8c6YZTh7L4KfRXZHbS6ftxTnlcqxkoLwCLcB/s1600/Charupath%2Bbangla-1.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বাংলাদেশ ও বিশ্বপরিচয়",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "ইসলাম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c6_islam.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c6_hindhu.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c6_buddah.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "কৃষি শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c6_krishi.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "কর্ম ও জীবনমুকী শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c6_kormo.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "ক্ষুদ্র ও নৃগোষ্ঠীর ভাষা ও সংস্কৃতি",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c6_khudro.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c6_physical.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "গার্হস্থ্য বিজ্ঞান",
+                    "bookCover" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMuWQDx4N1hA3gbfjHyOeOM4fw4le8KP6B2rHFfSswrDm0xAcz&s",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                }
+                
+            ]
+        },
+        {
+            "className": "Seven",
+            "classNameBn": "সপ্তম",
+            "books": [
+                {
+                    "bookName": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/7%20BV%20Ananda%20Path%20All%20chapter_Page_01.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "English For Today",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/7%20BV%20English%20All%20chapter_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "সপ্তবর্ণা",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "গণিত",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/7%20BV%20Mathmatic%20All%20Chapter_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বাংলা ব্যাকরণ ও নির্মিতি",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "English Grammer and Composition",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বিজ্ঞান",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c7_science.JPG",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },{
+                    "bookName": "চারু ও কারুকলা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/7%20BV%20Arts%20&%20Crafts_Page_01.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },{
+                    "bookName": "তথ্য ও যোগাযোগ প্রযুক্তি",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/7%20BV%20ICT%20All%20Chapter_Page_01.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বাংলাদেশ ও বিশ্বপরিচয়",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c7_global.JPG",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "ইসলাম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/7%20BV%20Islam_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/7%20BV%20Hindu%20All%20chapter_Page_01.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/7%20BV%20Buddhist%20All%20chapter_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/7%20BV%20Christian%20All%20chapter_Page_01.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "কৃষি শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/7%20BV%20Agriculture%20All%20Chapter_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "কর্ম ও জীবনমুকী শিক্ষা",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "ক্ষুদ্র ও নৃগোষ্ঠীর ভাষা ও সংস্কৃতি",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/7%20BV%20Physical%20All%20Chapter_Page_01.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "গার্হস্থ্য বিজ্ঞান",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/7%20BV%20Home%20Science%20All%20chapter_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                }
+                
+            ]
+        },
+        {
+            "className": "Eight",
+            "classNameBn": "অষ্টম",
+            "books": [
+                {
+                    "bookName": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c8_anondopath.JPG",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "English For Today",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/8%20English%20for%20Today_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "সাহিত্য কনিকা",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "গণিত",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/8%20Math_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বাংলা ব্যাকরণ ও নির্মিতি",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "English Grammer and Composition",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বিজ্ঞান",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c8_science.JPG",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },{
+                    "bookName": "চারু ও কারুকলা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/8%20Charu%20Karu_Page_01.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },{
+                    "bookName": "তথ্য ও যোগাযোগ প্রযুক্তি",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বাংলাদেশ ও বিশ্বপরিচয়",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/8%20BV%20Bangladesh%20o%20Bishwa%20porichoy_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "ইসলাম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/8%20Islam_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/8%20Hindu%20Dhrmo_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/8%20Boudhdha%20Dhormo_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/8%20Christo%20Dhormo_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "কৃষি শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/8%20Krishi%20Shikkha_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "কর্ম ও জীবনমুকী শিক্ষা",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "গার্হস্থ্য বিজ্ঞান",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/8%20Garhostha%20Biggan_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                }
+                
+            ]
+        },
+        {
+            "className": "Nine-Ten",
+            "classNameBn": "নবম ও দশম",
+            "books": [
+                {
+                    "bookName": "বাংলা সাহিত্য",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বাংলা সহপাঠ",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বাংলা ভাষার ব্যাকরণ",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "English for Toady",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "গণিত",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c9_math.JPG",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "Enlish Grammer and Composition",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "তথ্য ও যোগাযোগ প্রযুক্তি",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বিজ্ঞান",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "রচনাসম্ভার",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "পদার্থবিজ্ঞান",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "রসায়ন",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "জীববিজ্ঞান",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "উচ্চতর গণিত",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "ভূগোল ও পরিবেশ",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "অর্থনীতি",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/9-10%20ECONOMICS%20bangla_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "কৃষিশিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/9-10%20Krishi%20Shikkha%20bangla_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "গার্হস্থ্য বিজ্ঞান",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "পৌরনীতি ও নাগরিকতা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/9-10%20Civics%20bangla_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "হিসাববিজ্ঞান",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c9_accounting.JPG",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "ফিন্যান্স ও ব্যাংকিং",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c9_finance.JPG",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "ব্যবসায় উদ্যোগ",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c9_uddog.JPG",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "ইসলাম ও নৈতিক শিক্ষা",
+                    "bookCover" : "https://i.imgur.com/C0QTYhl.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "হিন্দু ধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/9-10%20Buddha%20bangla_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/9-10%20Christian%20Bangla_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "ক্যারিয়ার এডুকেশন",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বাংলাদেশ ও বিশ্বপরিচয়",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "চারু ও কারুকলা",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "বাংলাদেশের ইতিহাস ও বিশ্বসভ্যতা",
+                    "bookCover" : "http://www.ebook.gov.bd/img_2013/9-10%20History%20bangla_Page_001.jpg",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                },
+                {
+                    "bookName": "শারীরিক শিক্ষা, স্বাস্থ্য বিজ্ঞান ও খেলাধুলা",
+                    "bookCover" : "",
+                    "banglaView": "",
+                    "banglaDownload": "",
+                    "englishView": "",
+                    "englishDownload": ""
+                }
+                
+            ]
+        }
+
+    ] 
+}
