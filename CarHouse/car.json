@@ -30,8 +30,9 @@
                 "Parking assist"
             ],
             "brandName":"ROLLS-ROYCE",
-            "brandLogo":"https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Rolls-Royce_Motor_Cars_logo.svg/150px-Rolls-Royce_Motor_Cars_logo.svg.png"
-            
+            "brandLogo":"https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Rolls-Royce_Motor_Cars_logo.svg/150px-Rolls-Royce_Motor_Cars_logo.svg.png",
+            "video":"https://www.youtube.com/watch?v=dq00WHzbpUg",
+            "audio":""
         },
         {
             "model": "2019 Rolls-Royce Dawn",
