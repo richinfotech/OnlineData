@@ -10,25 +10,25 @@
                 {
                     "bookName": "আমার বাংলা বই",
                     "bookCover" : "https://3.bp.blogspot.com/-TgPEqV2Lu-c/VzYHtniVI3I/AAAAAAAAAXY/WziCOcV9wsYsxrwZvGRzV3BjyvffdMoWACLcB/s320/Bangla-1.jpg",
-                    "banglaView": "",
-                    "banglaDownload": "https://drive.google.com/open?id=0B0EXISX1gyucYmZ6OEJEenRoYzg",
-                    "englishView": "",
+                    "banglaView": "https://drive.google.com/open?id=0B0EXISX1gyucYmZ6OEJEenRoYzg",
+                    "banglaDownload": "",
+                    "englishView": "https://drive.google.com/file/d/0B0EXISX1gyucYmZ6OEJEenRoYzg/view",
                     "englishDownload": ""
                 },
                 {
                     "bookName": "English For Today",
                     "bookCover" : "https://2.bp.blogspot.com/-YnoUilkb_xM/VzYPpCutYcI/AAAAAAAAAXs/SuuLUMr7gJELzyuhUPkBeOAWbOVAb4m2wCLcB/s320/English-1.jpg",
-                    "banglaView": "",
-                    "banglaDownload": "https://drive.google.com/open?id=0B0EXISX1gyucTUZLNVU0N2RMckU",
-                    "englishView": "",
+                    "banglaView": "https://drive.google.com/open?id=0B0EXISX1gyucTUZLNVU0N2RMckU",
+                    "banglaDownload": "",
+                    "englishView": "https://drive.google.com/file/d/18_fnManl_qUU4Gh--ZtT9-Q9XBuEf0BO/view",
                     "englishDownload": ""
                 },
                 {
                     "bookName": "প্রাথমিক গণিত",
                     "bookCover" : "https://2.bp.blogspot.com/-wZnVWwKda3s/VzYPnavaDHI/AAAAAAAAAXo/Oyl6YZHxyMgmI9ocPyJP5DZ6jyaCqsA4gCLcB/s320/Math-1.jpg",
-                    "banglaView": "",
-                    "banglaDownload": "https://drive.google.com/open?id=0B0EXISX1gyucUTVndGJwSGc4bGc",
-                    "englishView": "",
+                    "banglaView": "https://drive.google.com/open?id=0B0EXISX1gyucUTVndGJwSGc4bGc",
+                    "banglaDownload": "",
+                    "englishView": "https://drive.google.com/file/d/18_fnManl_qUU4Gh--ZtT9-Q9XBuEf0BO/view",
                     "englishDownload": ""
                 }
             ]
@@ -39,26 +39,26 @@
             "books": [
                 {
                     "bookName": "আমার বাংলা বই",
-                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c2_bangla.jpg",
-                    "banglaView": "",
+                    "bookCover" : "https://1.bp.blogspot.com/--LsJ7_XFOo0/VzaFPma1QSI/AAAAAAAAAYI/w88kzMtiJg8I40qVWwb13PxzFEz1ACFCgCLcB/s320/Bangla-1.jpg",
+                    "banglaView": "https://drive.google.com/open?id=0B0EXISX1gyucdlZkVmsxMzNueWc",
                     "banglaDownload": "",
-                    "englishView": "",
+                    "englishView": "https://drive.google.com/open?id=0B0EXISX1gyucdlZkVmsxMzNueWc",
                     "englishDownload": ""
                 },
                 {
                     "bookName": "English For Today",
-                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c2_english.jpg",
-                    "banglaView": "",
+                    "bookCover" : "https://4.bp.blogspot.com/-oinmt6Yc530/VzaFPKfz14I/AAAAAAAAAYA/s-YMirg4S9ovJnbO_UBbrdrh6_PPfXjUACLcB/s320/English-1.jpg",
+                    "banglaView": "https://drive.google.com/open?id=0B0EXISX1gyucdGpUSEZMUXdocFk",
                     "banglaDownload": "",
-                    "englishView": "",
+                    "englishView": "https://drive.google.com/open?id=0B0EXISX1gyucdGpUSEZMUXdocFk",
                     "englishDownload": ""
                 },
                 {
                     "bookName": "প্রাথমিক গণিত",
-                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c2_math.jpg",
-                    "banglaView": "https://drive.google.com/file/d/0B0EXISX1gyucUTVndGJwSGc4bGc/view",
+                    "bookCover" : "https://2.bp.blogspot.com/-CLhKZfS710M/VzaFPL_TA0I/AAAAAAAAAYE/rA54IL1jM0oRzlQ6oB_fphx62MKmWZ_IwCLcB/s320/Math-1.jpg",
+                    "banglaView": "https://drive.google.com/open?id=0B0EXISX1gyucZ1NJbFhfVnBFeVk",
                     "banglaDownload": "",
-                    "englishView": "",
+                    "englishView": "https://drive.google.com/open?id=14guWnOCBctgDFIiPAZT78e5il6_ADOJW",
                     "englishDownload": ""
                 }
             ]
@@ -69,73 +69,73 @@
             "books": [
                 {
                     "bookName": "আমার বাংলা বই",
-                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c3_amar%20bangla%20boi.jpg",
-                    "banglaView": "",
+                    "bookCover" : "https://3.bp.blogspot.com/-kImuMUmLUY4/VzaM7D17SAI/AAAAAAAAAYY/mqU1Kw3gHYkloiNQbzcnTBjFo2oD4myJgCLcB/s320/Bangla-1.jpg",
+                    "banglaView": "https://drive.google.com/open?id=0B0EXISX1gyucYm55eTZQUkNfSWM",
                     "banglaDownload": "",
-                    "englishView": "",
+                    "englishView": "https://drive.google.com/open?id=0B0EXISX1gyucYm55eTZQUkNfSWM",
                     "englishDownload": ""
                 },
                 {
                     "bookName": "English For Today",
-                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c3_english.jpg",
-                    "banglaView": "",
+                    "bookCover" : "https://1.bp.blogspot.com/-bBYVK9jwpqk/VzaNEaRje2I/AAAAAAAAAYo/SxsYbv0fIwASWTNp80lau0vgVCzZHS2rQCLcB/s320/English-1.jpg",
+                    "banglaView": "https://drive.google.com/open?id=0B0EXISX1gyucWFlneVZURVhkYTg",
                     "banglaDownload": "",
-                    "englishView": "",
+                    "englishView": "https://drive.google.com/open?id=0B0EXISX1gyucWFlneVZURVhkYTg",
                     "englishDownload": ""
                 },
                 {
                     "bookName": "প্রাথমিক গণিত",
-                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c3_math.jpg",
-                    "banglaView": "",
+                    "bookCover" : "https://4.bp.blogspot.com/-8BJ6nfj7fLE/VzaNLFuCkLI/AAAAAAAAAYw/78RfJzEUTGoIp7-1MblTHpDmCY8Pl-VxQCLcB/s320/Math-1.jpg",
+                    "banglaView": "https://drive.google.com/open?id=0B0EXISX1gyucMWtrZmZQTkVFTXc",
                     "banglaDownload": "",
-                    "englishView": "",
+                    "englishView": "https://drive.google.com/open?id=1R9psV2M9d-0q8z2s9qtnwjsc8kDHbIKs",
                     "englishDownload": ""
                 },
                 {
                     "bookName": "প্রাথমিক বিজ্ঞান",
-                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c2_math.jpghttp://www.ebook.gov.bd/img_2013/c3_science.jpg",
-                    "banglaView": "",
+                    "bookCover" : "https://4.bp.blogspot.com/-g9w0_OM_HTE/VzaNOPlJV-I/AAAAAAAAAY4/ypmP8Y2szzwnSFTGyIqr6LcVQs5rMoxZwCLcB/s320/Science-1.jpg",
+                    "banglaView": "https://drive.google.com/open?id=0B0EXISX1gyucZ2wwOC13S2xZbkU",
                     "banglaDownload": "",
-                    "englishView": "",
+                    "englishView": "https://drive.google.com/open?id=10w33QoiCMK8xKORVCDGYXRFi_hT7yk-W",
                     "englishDownload": ""
                 },
                 {
                     "bookName": "বাংলাদেশ ও বিশ্বপরিচয়",
-                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c3_bd%20and%20global.jpg",
-                    "banglaView": "",
+                    "bookCover" : "https://2.bp.blogspot.com/-fVNCN09UOvM/VzaM7qRYh_I/AAAAAAAAAYc/jX2fjmNqeloj5Nts2tu_SkXIId6ICFlzgCLcB/s320/Bangladesh%2Band%2BGlobal%2BStudies-1.jpg",
+                    "banglaView": "https://drive.google.com/open?id=0B0EXISX1gyucWVJURU5JYnlmclU",
                     "banglaDownload": "",
-                    "englishView": "",
+                    "englishView": "https://drive.google.com/open?id=1JTUVaTlyZjWcKf0IP3hicxmLP5F3np1Y",
                     "englishDownload": ""
                 },
                 {
                     "bookName": "ইসলাম ও নৈতিক শিক্ষা",
-                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c3_islam.jpg",
-                    "banglaView": "",
+                    "bookCover" : "https://4.bp.blogspot.com/-yynCbYJNEsM/VzaNMRC12hI/AAAAAAAAAY0/vBUMSbKTL20xqQOCublGjsDtMP2kHrgRgCLcB/s320/Islam-1.jpg",
+                    "banglaView": "https://drive.google.com/open?id=0B0EXISX1gyucMU1uWTY1ZHREcDA",
                     "banglaDownload": "",
-                    "englishView": "",
+                    "englishView": "https://drive.google.com/open?id=1Uzjn35unJtORihgdCiu7k4AgtKlkzdik",
                     "englishDownload": ""
                 },
                 {
                     "bookName": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
-                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c3_hindhu.jpg",
-                    "banglaView": "",
+                    "bookCover" : "https://1.bp.blogspot.com/-NXqEZO4El30/VzaNE6Rc1mI/AAAAAAAAAYs/tQjVawdz6fUJH9nC9GRcft15ug8-iYmhQCLcB/s1600/Hindusm%2BReligion-1.jpg",
+                    "banglaView": "https://drive.google.com/open?id=0B0EXISX1gyuceXFSdHFaQ3dycVU",
                     "banglaDownload": "",
-                    "englishView": "",
+                    "englishView": "https://drive.google.com/open?id=1-D8iLGCq-VEGJxN39vXCnY2jHyAf5jb1",
                     "englishDownload": ""
                 },
                 {
                     "bookName": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
-                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c3_buddah.jpg",
-                    "banglaView": "",
+                    "bookCover" : "https://1.bp.blogspot.com/-SYSF3MM48MU/VzaM7w0JbjI/AAAAAAAAAYg/bBd1BxJXoMg1tV5zJNryP0rYbCZvZjk6gCLcB/s320/Buddihst-1.jpg",
+                    "banglaView": "https://drive.google.com/open?id=0B0EXISX1gyucWlpMZlBrdi1hUmM",
                     "banglaDownload": "",
-                    "englishView": "",
+                    "englishView": "https://drive.google.com/open?id=10NfRanP6uT7tMb3Lr3aNr-SdagT5ESY0",
                     "englishDownload": ""
                 },{
                     "bookName": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
-                    "bookCover" : "http://www.ebook.gov.bd/img_2013/c3_christan.JPG",
-                    "banglaView": "",
+                    "bookCover" : "https://1.bp.blogspot.com/-H8Wo3BIhKSk/VzaNEYaz2UI/AAAAAAAAAYk/vxKQHBcjyEQv69I5GrNq9w0BhqYaImqmgCLcB/s320/Christian%2BReligion-1.jpg",
+                    "banglaView": "https://drive.google.com/open?id=0B0EXISX1gyucbkxqQjJsdUU4a3c",
                     "banglaDownload": "",
-                    "englishView": "",
+                    "englishView": "https://drive.google.com/open?id=1054fTTajqTsiK1Bdlo6jiw-m-Dwn-wMX",
                     "englishDownload": ""
                 }
             ]
