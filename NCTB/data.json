@@ -732,8 +732,9 @@
                 },
                 {
                     "bookName": "গণিত",
-                    "banglaView": "https://4.bp.blogspot.com/-eV6S0ht0un4/Vz3S-PWSa4I/AAAAAAAAAjE/7-1r-y3Bh8wWdfh-AoaOn6pppCmrcJUegCLcB/s320/Math-1.jpg",
-                    "banglaDownload": "https://drive.google.com/file/d/12xXzlNW5Ic_7i7mq__IGan6-ut8B7mN3/view",
+                    "bookCover":"https://4.bp.blogspot.com/-eV6S0ht0un4/Vz3S-PWSa4I/AAAAAAAAAjE/7-1r-y3Bh8wWdfh-AoaOn6pppCmrcJUegCLcB/s320/Math-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/12xXzlNW5Ic_7i7mq__IGan6-ut8B7mN3/view",
+                    "banglaDownload": "",
                     "englishView": "",
                     "englishDownload": ""
                 },
