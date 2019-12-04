@@ -1,0 +1,25 @@
+{
+    "versionCode": 1,
+    "cancellable": false,
+    "url": "",
+    "data":[
+        {
+          "name": "Sea Squirt",
+          "class": "Urochordata",
+          "image": "/media/animals/images/470x370/sea_squirt6.jpg",
+          "scientific": "Urochordata",
+          "location": "Worldwide",
+          "map": "/media/animals/maps/sea-squirt-location-map.png",
+          "color": "Green, Red, Blue, Yellow, Orange, Brown, Pink, White",
+          "skin": "Permeable",
+          "food": "Plankton",
+          "prey": "Plankton, Algae, Nutrients In Water",
+          "predators": "Eels, Snails, Starfish",
+          "features": "Long tube-like appearance",
+          "phylum": "Chordata",
+          "desc1": "There are more than 3,000 known sea squirt species found on the seabed around the world, with the majority of sea squirt species being found in the warmer, nutrient-rich tropical waters. Sea squirts can vary from just 3cm to 30cm in length depending on the species of sea squirt and its habitat.",
+          "desc2": "Sea squirts can be found in variety of colours and shapes due to the fact that their bodies are made of one solid structure (rather than having a skeleton), which is protected by a membrane just a few cells thick. Sea squirts are normally cylindrical in shape, but can also be round or even bell-shaped.",
+          "desc3": "Sea squirts are filter feeders which means that they feed by filtering the nutritious particles out of the water. Sea squirts filter the sea water through slits in their membranes, taking food and water in and letting waste and excess water out."
+        }
+      ]
+}
