@@ -1,0 +1,28 @@
+{
+    "versionCode": 1,
+    "cancellable": false,
+    "url": "",
+    "data":[
+        {
+          "name": "Catfish",
+          "class": "Osteichthyes",
+          "image": "/media/animals/images/470x370/catfish.jpg",
+          "scientific": "Siluriformes",
+          "origin": "Warm freshwater",
+          "diet": "Carnivore",
+          "water": "Fresh",
+          "phlevel": "6.5 - 8.0",
+          "map": "/media/animals/maps/catfish-location-map.png",
+          "color": "Brown, Black, Yellow, White, Tan, Grey",
+          "skin": "Scales",
+          "food": "Fish",
+          "habitat": "Fast-flowing rivers and lakes",
+          "prey": "Fish, Frogs, Worms",
+          "predator": "Large Fish, Birds, Mammals, Reptiles",
+          "feature": "Flat, broad head and whiskers",
+          "desc1": "Catfish are a group of bottom-feeding fish that are found in freshwater habitats and coastal regions on and around every continent in the world with the exception of Antarctica. Catfish are most easily identified by their flattened broad heads and the long whisker-like barbels that protrude from the mouth of the catfish.",
+          "desc2": "The long barbels of the catfish contain the taste buds of the catfish and so are often most commonly used for smelling and therefore sensing what is about to eat (and to hide from) in the surrounding waters. Despite the name however, not all catfish species have prominent whisker-like barbels.",
+          "desc3": "Catfish generally have a carnivorous diet, although the tiny catfish species have been known to ingest small aquatic plants. Catfish tend to feed on fish, insects and worms that dwell close to the river bed, along with amphibians such as frogs and newts and occasionally small reptiles and mammals."
+        }
+      ]
+}
