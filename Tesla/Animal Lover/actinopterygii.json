@@ -5,7 +5,7 @@
     "data":[
         {
           "name": "Silver Dollar",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/silver_dollar.jpg",
           "scientific": "Metynnis Argenteus",
           "map": "/media/animals/maps/silver-dollar-location-map.png",
@@ -28,7 +28,7 @@
         },
         {
           "name": "Lionfish",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/lionfish.jpeg",
           "scientific": "Pterois volitans",
           "map": "/media/animals/maps/lionfish-location-map.png",
@@ -51,7 +51,7 @@
         },
         {
           "name": "Seahorse",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/seahorse8.jpg",
           "scientific": "Hippocampus",
           "map": "/media/animals/maps/seahorse-location-map.png",
@@ -74,7 +74,7 @@
         },
         {
           "name": "Electric Eel",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/electric_eel3.jpg",
           "scientific": "Electrophorus Electricus",
           "map": "/media/animals/maps/electric-eel-location-map.png",
@@ -97,7 +97,7 @@
         },
         {
           "name": "Scorpion Fish",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/scorpion_fish.jpg",
           "scientific": "Scorpaenidae",
           "map": "/media/animals/maps/scorpion-fish-location-map.png",
@@ -120,7 +120,7 @@
         },
         {
           "name": "Gar",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/gar1.jpg",
           "scientific": "Lepisosteidae",
           "map": "/media/animals/maps/gar-location-map.png",
@@ -143,7 +143,7 @@
         },
         {
           "name": "Clown Fish",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/clown3.jpg",
           "scientific": "Amphiprioninae",
           "map": "/media/animals/maps/clown-fish-location-map.png",
@@ -166,7 +166,7 @@
         },
         {
           "name": "Guppy",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/guppy3.jpg",
           "scientific": "Poecilia Reticulata",
           "map": "/media/animals/maps/guppy-location-map.png",
@@ -189,7 +189,7 @@
         },
         {
           "name": "Moray Eel",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/moray_eel6.jpg",
           "scientific": "Muraenidae",
           "map": "/media/animals/maps/moray-eel-location-map.png",
@@ -212,7 +212,7 @@
         },
         {
           "name": "Flounder",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/flounder.jpg",
           "scientific": "Paralichthys",
           "map": "/media/animals/maps/flounder-location-map.png",
@@ -235,7 +235,7 @@
         },
         {
           "name": "Piranha",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/piranha3.jpg",
           "scientific": "Pygocentrus Nattereri",
           "map": "/media/animals/maps/piranha-location-map.png",
@@ -258,7 +258,7 @@
         },
         {
           "name": "Barb",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/barb3.jpg",
           "scientific": "Barbus Barbus",
           "map": "/media/animals/maps/barb-location-map.png",
@@ -281,7 +281,7 @@
         },
         {
           "name": "Molly",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/molly4.jpg",
           "scientific": "Poecilia",
           "map": "/media/animals/maps/molly-location-map.png",
@@ -304,7 +304,7 @@
         },
         {
           "name": "Siamese Fighting Fish",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/siamese_fighting_fish3.jpg",
           "scientific": "Betta Splendens",
           "map": "/media/animals/maps/siamese-fighting-fish-location-map.png",
@@ -327,7 +327,7 @@
         },
         {
           "name": "Puffer Fish",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/puffer_fish4.jpg",
           "scientific": "Tetraodontidae",
           "map": "/media/animals/maps/puffer-fish-location-map.png",
@@ -350,7 +350,7 @@
         },
         {
           "name": "Butterfly Fish",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/butterfly_fish5.jpg",
           "scientific": "Chaetodontidae",
           "map": "/media/animals/maps/butterfly-fish-location-map.png",
@@ -373,7 +373,7 @@
         },
         {
           "name": "Cichlid",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/cichlid9.jpg",
           "scientific": "Cichlidae",
           "map": "/media/animals/maps/cichlid-location-map.png",
@@ -396,7 +396,7 @@
         },
         {
           "name": "Barracuda",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/barracuda4.jpg",
           "scientific": "Sphyraena",
           "map": "/media/animals/maps/barracuda-location-map.png",
@@ -419,7 +419,7 @@
         },
         {
           "name": "Tang",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/tang3.jpg",
           "scientific": "Acanthuridae",
           "map": "/media/animals/maps/tang-location-map.png",
@@ -442,7 +442,7 @@
         },
         {
           "name": "Pike",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/pike1.jpg",
           "scientific": "Esox",
           "map": "/media/animals/maps/pike-location-map.png",
@@ -465,7 +465,7 @@
         },
         {
           "name": "Wrasse",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/wrasse5.jpg",
           "scientific": "Labridae",
           "map": "/media/animals/maps/wrasse-location-map.png",
@@ -488,7 +488,7 @@
         },
         {
           "name": "Discus",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/discus1.jpg",
           "scientific": "Symphysodon",
           "map": "/media/animals/maps/discus-location-map.png",
@@ -511,7 +511,7 @@
         },
         {
           "name": "X-Ray Tetra",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/x-ray_tetra.jpg",
           "scientific": "Pristella maxillaris",
           "map": "/media/animals/maps/x-ray-tetra-location-map.png",
@@ -534,7 +534,7 @@
         },
         {
           "name": "Sea Dragon",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/sea_dragon5.jpg",
           "scientific": "Phycodurus Eques",
           "map": "/media/animals/maps/sea-dragon-location-map-2.png",
@@ -557,7 +557,7 @@
         },
         {
           "name": "Angelfish",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/angelfish11.jpg",
           "scientific": "Pomacanthidae",
           "map": "/media/animals/maps/angelfish-location-map.png",
@@ -580,7 +580,7 @@
         },
         {
           "name": "Tetra",
-          "class": "Actinopterygii",
+          "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/tetra2.jpg",
           "scientific": "Paracheirodon Axelrodi",
           "map": "/media/animals/maps/tetra-location-map.png",
@@ -598,7 +598,7 @@
           "family": "Characidae",
           "origin": "South America",
           "desc1": "The tetra is a small and colourful fish native to the freshwater rivers and streams of South America and Africa. The tetra is one of the most well known and popular freshwater tropical fish kept in tanks and aquariums all around the world.",
-          "desc2": "There are around 150 known species of the tetra fish native to the clearwater streams and slow-moving rivers of both Africa South America. There are more than 100 different species of the tetra in Africa alone and even more in South America. The two groups of fish are classified as the characidaes (the tetra of South America) and the alestiidaes (the tetra of Africa).",
+          "desc2": "There are around 150 known species of the tetra fish native to the clearwater streams and slow-moving rivers of both Africa South America. There are more than 100 different species of the tetra in Africa alone and even more in South America. The two groups of fish are animalClassified as the characidaes (the tetra of South America) and the alestiidaes (the tetra of Africa).",
           "desc3": "Tetras are very commonly found in aquariums around the world and due to the hardiness of the tetra, they are easy fish to keep. The neon tetra is among the most commonly bred commercial species of tetra out of all of the tetra species."
         }
       ]

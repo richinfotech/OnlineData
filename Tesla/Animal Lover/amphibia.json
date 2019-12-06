@@ -5,7 +5,7 @@
     "data":[
         {
           "name": "Marine Toad",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/marine_toad2.jpg",
           "scientific": "Bufo Marinus",
           "map": "/media/animals/maps/marine-toad-location-map.png",
@@ -27,7 +27,7 @@
         },
         {
           "name": "Olm",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/olm1.jpg",
           "scientific": "Proteus Anguinus",
           "map": "/media/animals/maps/olm-location-map.png",
@@ -49,7 +49,7 @@
         },
         {
           "name": "Pool Frog",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/pool_frog.jpg",
           "scientific": "Pelophylax Lessonae",
           "map": "/media/animals/maps/pool-frog-location-map.png",
@@ -71,7 +71,7 @@
         },
         {
           "name": "Striped Rocket Frog",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/striped_rocket_frog1.jpg",
           "scientific": "Litoria Nasuta",
           "map": "/media/animals/maps/striped-rocket-frog-location-map.png",
@@ -93,7 +93,7 @@
         },
         {
           "name": "Burrowing Frog",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/burrowing_frog2.jpg",
           "scientific": "Heleioporus",
           "map": "/media/animals/maps/burrowing-frog-location-map.png",
@@ -115,7 +115,7 @@
         },
         {
           "name": "Fire-Bellied Toad",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/fire-bellied_toad4.jpg",
           "scientific": "Bombina",
           "map": "/media/animals/maps/fire-bellied-toad-location-map.png",
@@ -137,7 +137,7 @@
         },
         {
           "name": "Axolotl",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/axolotl6.jpg",
           "scientific": "Ambystoma Mexicanum",
           "map": "/media/animals/maps/axolotl-location-map.png",
@@ -159,7 +159,7 @@
         },
         {
           "name": "Monte Iberia Eleuth",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/monte_iberia_eleuth3.jpg",
           "scientific": "Eleutherodactylus Iberia",
           "map": "/media/animals/maps/monte-iberia-eleuth-location-map.png",
@@ -181,7 +181,7 @@
         },
         {
           "name": "Common Toad",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/common_toad7.jpg",
           "scientific": "Bufo Bufo",
           "map": "/media/animals/maps/common-toad-location-map.png",
@@ -203,7 +203,7 @@
         },
         {
           "name": "Tree Frog",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/tree_frog7.jpg",
           "scientific": "Hyla",
           "map": "/media/animals/maps/tree-frog-location-map.png",
@@ -225,7 +225,7 @@
         },
         {
           "name": "Common Frog",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/common_frog.jpg",
           "scientific": "Rana Temporaria",
           "map": "/media/animals/maps/common-frog-location-map.png",
@@ -247,7 +247,7 @@
         },
         {
           "name": "Bullfrog",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/bullfrog4.jpg",
           "scientific": "Rana Catesbeiana",
           "map": "/media/animals/maps/bullfrog-location-map.png",
@@ -269,7 +269,7 @@
         },
         {
           "name": "Edible Frog",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/edible_frog.jpg",
           "scientific": "Pelophylax kl. esculentus",
           "map": "/media/animals/maps/edible-frog-location-map.png",
@@ -291,7 +291,7 @@
         },
         {
           "name": "African Clawed Frog",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/african_clawed_frog7.jpg",
           "scientific": "Xenopus laevis",
           "map": "/media/animals/maps/african-clawed-frog-location-map.png",
@@ -313,7 +313,7 @@
         },
         {
           "name": "Salamander",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/salamander.png",
           "scientific": "Caudata",
           "map": "/media/animals/maps/salamander-location-map.png",
@@ -335,7 +335,7 @@
         },
         {
           "name": "Poison Dart Frog",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/poison_dart_frog.jpg",
           "scientific": "Dendrobatidae",
           "map": "/media/animals/maps/poison-dart-frog-location-map.png",
@@ -357,7 +357,7 @@
         },
         {
           "name": "Tiger Salamander",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/tiger_salamander1.jpg",
           "scientific": "Ambystoma Tigrinum",
           "map": "/media/animals/maps/tiger-salamander-location-map.png",
@@ -379,7 +379,7 @@
         },
         {
           "name": "Marsh Frog",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/marsh_frog5.jpg",
           "scientific": "Pelophylax Ridibundus",
           "map": "/media/animals/maps/marsh-frog-location-map.png",
@@ -401,7 +401,7 @@
         },
         {
           "name": "Horned Frog",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/horned_frog2.jpg",
           "scientific": "Ceratophrys Ornata",
           "map": "/media/animals/maps/horned-frog-location-map.png",
@@ -423,7 +423,7 @@
         },
         {
           "name": "African Tree Toad",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/african_tree_toad.jpg",
           "scientific": "Nectophryne afra",
           "map": "/media/animals/maps/african-tree-toad-location-map.png",
@@ -445,7 +445,7 @@
         },
         {
           "name": "Spadefoot Toad",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/spadefoot_toad2.jpg",
           "scientific": "Mesobatrachia",
           "map": "/media/animals/maps/spadefoot-toad-location-map.png",
@@ -467,7 +467,7 @@
         },
         {
           "name": "Frog",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/frog4.jpg",
           "scientific": "Rana Temporaria",
           "map": "/media/animals/maps/frog-location-map.png",
@@ -489,7 +489,7 @@
         },
         {
           "name": "Darwin's Frog",
-          "class": "Amphibia",
+          "animalClass": "Amphibia",
           "image": "/media/animals/images/470x370/darwins_frog2.jpg",
           "scientific": "Rhinoderma Darwinii",
           "map": "/media/animals/maps/darwins-frog-location-map.png",

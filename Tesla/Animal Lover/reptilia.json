@@ -5,7 +5,7 @@
     "data":[
         {
           "name": "Radiated Tortoise",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/radiated_tortoise1.jpg",
           "scientific": "Astrochelys radiata",
           "map": "/media/animals/maps/radiated-tortoise-location-map.png",
@@ -25,7 +25,7 @@
         },
         {
           "name": "Lizard",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/lizard4.jpg",
           "scientific": "Lacertilia",
           "map": "/media/animals/maps/lizard-location-map.png",
@@ -45,7 +45,7 @@
         },
         {
           "name": "Tuatara",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/tuatara.jpg",
           "scientific": "Sphenodon Punctatus",
           "map": "/media/animals/maps/tuatara-location-map.png",
@@ -65,7 +65,7 @@
         },
         {
           "name": "Slow Worm",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/slow_worm1.jpg",
           "scientific": "Anguis Fragilis",
           "map": "/media/animals/maps/slow-worm-location-map.png",
@@ -85,7 +85,7 @@
         },
         {
           "name": "Galapagos Tortoise",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/galapagos_tortoise3.jpg",
           "scientific": "Geochelone Nigra",
           "map": "/media/animals/maps/galapagos-tortoise-location-map.png",
@@ -105,7 +105,7 @@
         },
         {
           "name": "Indian Star Tortoise",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/indian_star_tortoise.jpg",
           "scientific": "Geochelone Elegans",
           "map": "/media/animals/maps/indian-star-tortoise-location-map.png",
@@ -125,7 +125,7 @@
         },
         {
           "name": "Gecko",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/gecko8.jpg",
           "scientific": "Gekkonidae",
           "map": "/media/animals/maps/gecko-location-map.png",
@@ -145,7 +145,7 @@
         },
         {
           "name": "Caiman Lizard",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/caiman_lizard3.jpg",
           "scientific": "Dracaena Guianensis",
           "map": "/media/animals/maps/caiman-lizard-location-map.png",
@@ -165,7 +165,7 @@
         },
         {
           "name": "Gila Monster",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/gila_monster5.jpg",
           "scientific": "Heloderma Suspectum",
           "map": "/media/animals/maps/gila-monster-location-map.png",
@@ -185,7 +185,7 @@
         },
         {
           "name": "Leaf-Tailed Gecko",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/leaf-tailed_gecko3.jpg",
           "scientific": "Uroplatus",
           "map": "/media/animals/maps/leaf-tailed-gecko-location-map.png",
@@ -205,7 +205,7 @@
         },
         {
           "name": "Snapping Turtle",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/snapping_turtle7.jpg",
           "scientific": "Chelydridae",
           "map": "/media/animals/maps/snapping-turtle-location-map.png",
@@ -225,7 +225,7 @@
         },
         {
           "name": "Sea Turtle",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/sea_turtle1.jpg",
           "scientific": "Chelonioidea",
           "map": "/media/animals/maps/sea-turtle-location-map.png",
@@ -245,7 +245,7 @@
         },
         {
           "name": "River Turtle",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/river_turtle2.jpg",
           "scientific": "Emydidae",
           "map": "/media/animals/maps/river-turtle-location-map.png",
@@ -265,7 +265,7 @@
         },
         {
           "name": "Aldabra Giant Tortoise",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/aldabra_giant_tortoise5.jpg",
           "scientific": "Geochelone gigantea",
           "map": "/media/animals/maps/aldabra-giant-tortoise-location-map.png",
@@ -285,7 +285,7 @@
         },
         {
           "name": "Leopard Tortoise",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/leopard_tortoise5.jpg",
           "scientific": "Geochelone Pardalis",
           "map": "/media/animals/maps/leopard-tortoise-location-map.png",
@@ -305,7 +305,7 @@
         },
         {
           "name": "Thorny Devil",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/thorny_devil1.jpg",
           "scientific": "Moloch Horridus",
           "map": "/media/animals/maps/thorny-devil-location-map.png",
@@ -325,7 +325,7 @@
         },
         {
           "name": "Iguana",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/iguana4.jpg",
           "scientific": "Iguana Iguana",
           "map": "/media/animals/maps/iguana-location-map.png",
@@ -345,7 +345,7 @@
         },
         {
           "name": "Caiman",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/caiman5.jpg",
           "scientific": "Caiman crocodilus, Melanosuchus niger, Caiman yacare, Paleosuchus palpebrosus, Paleosuchus trigonatus, Caiman latirostris",
           "map": "/media/animals/maps/caiman-location-map-2.png",
@@ -365,7 +365,7 @@
         },
         {
           "name": "Alligator",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/alligator6.jpg",
           "scientific": "Alligator mississippiensis",
           "map": "/media/animals/maps/alligator-location-map.png",
@@ -385,7 +385,7 @@
         },
         {
           "name": "Crocodile",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/crocodile6.jpg",
           "scientific": "Crocodylus acutus, Crocodylus intermedius, Crocodylus johnsoni, Crocodylus mindorensis, Crocodylus moreletii, Crocodylus niloticus, Crocodylus novaeguineae, Crocodylus palustris, Crocodylus porosus, Crocodylus rhombifer, Crocodylus siamensis, Osteolaemus tetraspis, Mecistops cataphractus",
           "map": "/media/animals/maps/crocodile-location-map-2.png",
@@ -405,7 +405,7 @@
         },
         {
           "name": "Chameleon",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/chameleon3.jpg",
           "scientific": "Chamaeleonidae",
           "map": "/media/animals/maps/chameleon-location-map.png",
@@ -425,7 +425,7 @@
         },
         {
           "name": "Desert Tortoise",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/desert_tortoise.jpg",
           "scientific": "Gopherus Agassizii",
           "map": "/media/animals/maps/desert-tortoise-location-map.png",
@@ -445,7 +445,7 @@
         },
         {
           "name": "Glass Lizard",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/glass_lizard.jpg",
           "scientific": "Ophisaurus",
           "map": "/media/animals/maps/glass-lizard-location-map.png",
@@ -465,7 +465,7 @@
         },
         {
           "name": "Sand Lizard",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/sand_lizard2.jpg",
           "scientific": "Lacerta Agilis",
           "map": "/media/animals/maps/sand-lizard-location-map.png",
@@ -485,7 +485,7 @@
         },
         {
           "name": "Frilled Lizard",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/frilled_lizard.jpg",
           "scientific": "Chlamydosaurus Kingii",
           "map": "/media/animals/maps/frilled-lizard-location-map.png",
@@ -505,7 +505,7 @@
         },
         {
           "name": "Water Dragon",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/water_dragon.jpg",
           "scientific": "Physignathus",
           "map": "/media/animals/maps/water-dragon-location-map.png",
@@ -525,7 +525,7 @@
         },
         {
           "name": "Monitor Lizard",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/monitor_lizard2.jpg",
           "scientific": "Varanus Indicus",
           "map": "/media/animals/maps/monitor-lizard-location-map.png",
@@ -545,7 +545,7 @@
         },
         {
           "name": "Bearded Dragon",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/dragon3.jpg",
           "scientific": "Pogona Vitticeps",
           "map": "/media/animals/maps/bearded-dragon-location-map.png",
@@ -565,7 +565,7 @@
         },
         {
           "name": "Tortoise",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/tortoise4.jpg",
           "scientific": "Geochelone Elegans",
           "map": "/media/animals/maps/tortoise-location-map.png",
@@ -585,7 +585,7 @@
         },
         {
           "name": "Gharial",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/gharial4.jpg",
           "scientific": "Gavialis gangeticus",
           "map": "/media/animals/maps/gharial-location-map-2.png",
@@ -605,7 +605,7 @@
         },
         {
           "name": "Komodo Dragon",
-          "class": "Reptilia",
+          "animalClass": "Reptilia",
           "image": "/media/animals/images/470x370/komodo_dragon.jpg",
           "scientific": "Varanus komodoensis",
           "map": "/media/animals/maps/komodo-dragon-location-map.png",

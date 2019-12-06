@@ -5,7 +5,7 @@
     "data":[
         {
           "name": "Catfish",
-          "class": "Osteichthyes",
+          "animalClass": "Osteichthyes",
           "image": "/media/animals/images/470x370/catfish.jpg",
           "scientific": "Siluriformes",
           "origin": "Warm freshwater",

@@ -5,7 +5,7 @@
     "data":[
         {
           "name": "Stingray",
-          "class": "Chondrichthyes",
+          "animalClass": "Chondrichthyes",
           "image": "/media/animals/images/470x370/stingray2.jpg",
           "scientific": "Dasyatis Centroura",
           "origin": null,
@@ -26,7 +26,7 @@
         },
         {
           "name": "Bull Shark",
-          "class": "Chondrichthyes",
+          "animalClass": "Chondrichthyes",
           "image": "/media/animals/images/470x370/bull_shark1.jpg",
           "scientific": "Carcharhinus Leucas",
           "origin": null,
@@ -47,7 +47,7 @@
         },
         {
           "name": "Grey Reef Shark",
-          "class": "Chondrichthyes",
+          "animalClass": "Chondrichthyes",
           "image": "/media/animals/images/470x370/grey_reef_shark5.jpg",
           "scientific": "Carcharhinus Amblyrhynchos",
           "origin": null,
@@ -68,7 +68,7 @@
         },
         {
           "name": "Spiny Dogfish",
-          "class": "Chondrichthyes",
+          "animalClass": "Chondrichthyes",
           "image": "/media/animals/images/470x370/spiny_dogfish.jpg",
           "scientific": "Squalus Acanthias",
           "origin": "Atlantic, Pacific and Indian Oceans",
@@ -89,7 +89,7 @@
         },
         {
           "name": "Basking Shark",
-          "class": "Chondrichthyes",
+          "animalClass": "Chondrichthyes",
           "image": "/media/animals/images/470x370/basking_shark.jpg",
           "scientific": "Cetorhinus Maximus",
           "origin": "Atlantic and Pacific Oceans",
@@ -110,7 +110,7 @@
         },
         {
           "name": "Zebra Shark",
-          "class": "Chondrichthyes",
+          "animalClass": "Chondrichthyes",
           "image": "/media/animals/images/470x370/zebra_shark.jpg",
           "scientific": "Stegostoma Fasciatum",
           "origin": "Indian and Pacific Oceans",
@@ -131,7 +131,7 @@
         },
         {
           "name": "Hammerhead Shark",
-          "class": "Chondrichthyes",
+          "animalClass": "Chondrichthyes",
           "image": "/media/animals/images/470x370/hammerhead_shark.jpg",
           "scientific": "Sphyrna Zygaena",
           "origin": null,
@@ -152,7 +152,7 @@
         },
         {
           "name": "Manta Ray",
-          "class": "Chondrichthyes",
+          "animalClass": "Chondrichthyes",
           "image": "/media/animals/images/470x370/manta_ray5.jpg",
           "scientific": "Manta Birostris",
           "origin": "Worldwide",
@@ -173,7 +173,7 @@
         },
         {
           "name": "Great White Shark",
-          "class": "Chondrichthyes",
+          "animalClass": "Chondrichthyes",
           "image": "/media/animals/images/470x370/white_shark2.jpg",
           "scientific": "Carcharodon carcharias",
           "origin": null,
@@ -194,7 +194,7 @@
         },
         {
           "name": "Nurse Shark",
-          "class": "Chondrichthyes",
+          "animalClass": "Chondrichthyes",
           "image": "/media/animals/images/470x370/nurse_shark3.jpg",
           "scientific": "Ginglymostoma Cirratum",
           "origin": null,
@@ -215,7 +215,7 @@
         },
         {
           "name": "Tiger Shark",
-          "class": "Chondrichthyes",
+          "animalClass": "Chondrichthyes",
           "image": "/media/animals/images/470x370/tiger_shark1.jpg",
           "scientific": "Galeocerdo Cuvier",
           "origin": null,
@@ -236,7 +236,7 @@
         },
         {
           "name": "Whale Shark",
-          "class": "Chondrichthyes",
+          "animalClass": "Chondrichthyes",
           "image": "/media/animals/images/470x370/whale_shark.jpg",
           "scientific": "Rhincodon Typus",
           "origin": null,
@@ -257,7 +257,7 @@
         },
         {
           "name": "Horn Shark",
-          "class": "Chondrichthyes",
+          "animalClass": "Chondrichthyes",
           "image": "/media/animals/images/470x370/horn_shark6.jpg",
           "scientific": "Heterodontus Francisci",
           "origin": "North Pacific",

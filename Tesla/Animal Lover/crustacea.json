@@ -5,7 +5,7 @@
     "data":[
         {
           "name": "Barnacle",
-          "class": "Crustacea",
+          "animalClass": "Crustacea",
           "image": "/media/animals/images/470x370/barnacle2.jpg",
           "scientific": "Cirripedia",
           "map": "/media/animals/maps/barnacle-location-map.png",
@@ -26,7 +26,7 @@
         },
         {
           "name": "Lobster",
-          "class": "Crustacea",
+          "animalClass": "Crustacea",
           "image": "/media/animals/images/470x370/lobster2.jpg",
           "scientific": "Nephropidae",
           "map": "/media/animals/maps/lobster-location-map.png",
@@ -47,7 +47,7 @@
         },
         {
           "name": "Crab",
-          "class": "Crustacea",
+          "animalClass": "Crustacea",
           "image": "/media/animals/images/470x370/crab6.jpg",
           "scientific": "Brachyura",
           "map": "/media/animals/maps/crab-location-map.png",
@@ -68,7 +68,7 @@
         },
         {
           "name": "Shrimp",
-          "class": "Crustacea",
+          "animalClass": "Crustacea",
           "image": "/media/animals/images/470x370/shrimp4.jpg",
           "scientific": "Caridea",
           "map": "/media/animals/maps/shrimp-location-map.png",
@@ -89,7 +89,7 @@
         },
         {
           "name": "Prawn",
-          "class": "Crustacea",
+          "animalClass": "Crustacea",
           "image": "/media/animals/images/470x370/prawn1.jpg",
           "scientific": "Dendrobranchiata",
           "map": "/media/animals/maps/prawn-location-map.png",
@@ -110,7 +110,7 @@
         },
         {
           "name": "Woodlouse",
-          "class": "Crustacea",
+          "animalClass": "Crustacea",
           "image": "/media/animals/images/470x370/woodlouse4.jpg",
           "scientific": "Oniscidea",
           "map": "/media/animals/maps/woodlouse-location-map.png",
@@ -131,7 +131,7 @@
         },
         {
           "name": "King Crab",
-          "class": "Crustacea",
+          "animalClass": "Crustacea",
           "image": "/media/animals/images/470x370/king_crab1.jpg",
           "scientific": "Lopholithodes Mandtii",
           "map": "/media/animals/maps/king-crab-location-map.png",
