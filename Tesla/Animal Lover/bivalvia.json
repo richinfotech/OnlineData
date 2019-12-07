@@ -1,0 +1,49 @@
+{
+    "versionCode": 1,
+    "cancellable": false,
+    "url": "",
+    "data":[
+        {
+          "name": "Giant Clam",
+          "kingdom": "Animalia",
+          "phylum": "Mollusca",
+          "class": "Bivalvia",
+          "genus": "Tridacna",
+          "scientific": "Tridacna Gigas",
+          "location": "Indian and Pacific Oceans",
+          "numberofspecies": 100,
+          "color": "Green, Red, Blue, Yellow, Orange, Brown, Pink",
+          "skin": "Shell",
+          "food": "Algae",
+          "habitat": "Saltwater seafloors",
+          "prey": "Algae, Phytoplantkon, Nutrients In Water",
+          "predators": "Eels, Snails, Starfish",
+          "image": "/media/animals/images/180x170/giant_clam7.jpg",
+          "map": "/media/animals/maps/giant-clam-location-map.png",
+          "desc1": "Giant clams are founded anchored to the coral reefs in the warm, tropical waters of the Indian and South Pacific oceans, where giant clams spend the majority of their time feeding on the abundant variety of food that a coral reef has to offer.",
+          "desc2": "Due to the large size of the giant clam, there have been reports of giant clams eating human beings. Despite this though, no reports of man-eating giant clams have ever been verified as it is thought that the giant clam would simply hide in its shell rather than attack an approaching human.",
+          "desc3": "Giant clams are also preyed upon by humans, who catch the giant clams in order to feed on a particular muscle which is seen as a culinary delicacy in many countries. The excessive harvesting of giant clams by humans has led to rapid declines in the world's giant clam population."
+        },
+        {
+          "name": "Oyster",
+          "kingdom": "Animalia",
+          "phylum": "Mollusca",
+          "class": "Bivalvia",
+          "genus": null,
+          "scientific": "Ostreidae",
+          "location": "Worldwide",
+          "numberofspecies": 150,
+          "color": "Black. Brown, Yellow, Tan, Silver, White",
+          "skin": "Shell",
+          "food": "Plankton",
+          "habitat": "Reefs and rocky shores",
+          "prey": "Plankton and Nutrients in Water",
+          "predators": "Fish, Birds, Humans",
+          "image": "",
+          "map": "/media/animals/maps/oyster-location-map.png",
+          "desc1": "The oyster is a sessile (immobile) mollusc that is commonly found clinging onto shipwrecks, debris and harbour walls around the world. Oysters are bivalve molluscs meaning that they are closely related to other animals such as scallops, clams and mussels.",
+          "desc2": "Oysters are found in salt water environments all around the world but are more commonly found in more temperate regions where the shallows are richer in nutrients. Oysters are thought to be among the oldest animals on the planet although their exact evolutionary path remains unclear.",
+          "desc3": "As with other molluscs, oysters filter water in and out of their protective shells so that their vulnerable bodies inside are never put in danger. The hard shell of the oyster is primarily made up of calcium."
+        }
+      ]
+}
