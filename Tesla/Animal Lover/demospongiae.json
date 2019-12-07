@@ -1,0 +1,28 @@
+{
+    "versionCode": 1,
+    "cancellable": false,
+    "url": "",
+    "data":[
+        {
+          "name": "Sponge",
+          "kingdom": "Animalia",
+          "phylum": "Porifera",
+          "class": "Demospongiae",
+          "scientific": "Demospongiae",
+          "location": "Worldwide",
+          "numberofspecies": "5,000",
+          "color": "Green, Red, Blue, Yellow, Orange, Brown",
+          "skin": "Smooth",
+          "food": "Bacteria",
+          "prey": "Bacteria, Phytoplankton, Nutrients In Water",
+          "habitat": "Saltwater seafloors",
+          "predators": "Fish, Turtles. Crustaceans",
+          "features": "Brightly coloured and non-moving lifestyle",
+          "image": "/media/animals/images/470x370/sponge4.jpg",
+          "map": "/media/animals/maps/sponge-location-map.png",
+          "desc1": "Sponges are thought to have evolved around 500 million years ago, and today there are more than 5,000 known species of sponge with another 5,000 species thought to have not yet been discovered. Most sponges live in a salt water environment, attached to objects on the sea floor. Less than 200 sponge species inhabit freshwater habitats.",
+          "desc2": "The body of the sponge is made up of a jelly-like substance that is supported by a thin layer of cells on either side. The body of the sponge contain thousands of pores which allow water to keep flowing through it.",
+          "desc3": "Sponges are omnivorous animals that obtain their nutrition from the food particles in the water. Sponges primarily eat bacteria, phytoplankton and bits out of the water. A number of sponge species are known to have a more carnivorous diet, eating small fish and crustaceans on the reefs."
+        }
+      ]
+}
