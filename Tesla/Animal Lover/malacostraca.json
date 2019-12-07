@@ -1,0 +1,31 @@
+{
+    "versionCode": 1,
+    "cancellable": false,
+    "url": "",
+    "data":[
+        {
+          "name": "Hermit Crab",
+          "class": "Malacostraca",
+          "image": "/media/animals/images/470x370/hermit_crab1.jpg",
+          "scientific": "Paguroidea",
+          "map": "/media/animals/maps/hermit-crab-location-map.png",
+          "location": "Worldwide",
+          "diet": "Omnivore",
+          "color": "Green, Red, Blue, Yellow, Orange, Brown, Pink, White",
+          "habitat": "Coastal waters",
+          "prey": "Fish, Worms, Plankton",
+          "predators": "Fish, Sharks, Cuttlefish",
+          "food": "Fish",
+          "desc1": "The hermit crab is a small sized crustacean, that is found in ocean waters worldwide. Despite its snail-like appearance, the hermit crab is related to crabs, although they are not that closely related as the hermit crab is not a true crab.",
+          "desc2": "There are more than 500 different species of hermit crab found in marine habitats all around the world. Although hermit crabs do venture into deeper waters, they are more commonly found in coastal waters where there is more food and places to hide.",
+          "desc3": "The hermit crab has a soft under-body which it protects by carrying a shell on its back. The shell of the hermit crab is not its own, but one that belonged to another animal. As hermit crabs grow, they continue to find larger shells to accommodate their increasing size.",
+          "phylum": "Arthropoda",
+          "order": "Decapoda",
+          "numberofspecies": "500",
+          "skin": "Shell",
+          "features": "Long body shape and lives in protective shell",
+          "family": "Paguroidea",
+          "kingdom": "Animalia"
+        }
+      ]
+}
