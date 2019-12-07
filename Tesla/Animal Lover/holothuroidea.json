@@ -1,0 +1,30 @@
+{
+    "versionCode": 1,
+    "cancellable": false,
+    "url": "",
+    "data":[
+        {
+          "name": "Sea Slug",
+          "kingdom": "Animalia",
+          "phylum": "Echinodermata",
+          "class": "Holothuroidea",
+          "scientific": "Holothuroidea",
+          "origin": "Sea Slug",
+          "diet": "Herbivore",
+          "water": "Salt",
+          "phlevel": "7.5-8.4",
+          "color": "Tan, Black, White, Yellow, Orange, Purple",
+          "skin": "Smooth",
+          "food": "Algae",
+          "habitat": "Shallow and deep oceans",
+          "prey": "Algae, Plankton",
+          "predators": "Fish, Crabs, Lobsters",
+          "features": "Elongated body shape and colourful markings",
+          "image": "/media/animals/images/470x370/sea_slug6.jpg",
+          "map": "/media/animals/maps/sea-slug-location-map.png",
+          "desc1": "The sea slug is also commonly referred to as a sea cucumber, mainly because of the of the sea slug's shape and the fact that it is normally found on coral or rocks usually being very still, making it look like a type of aquatic vegetable.",
+          "desc2": "The sea slug is a herbivorous animal and feeds on plankton and decaying matter on the ocean floor, along with grazing on the rocks and coral reefs for algae. By munching on the decomposing plant matter on the ocean floor, the sea slug is of great benefit to every marine environment where the sea inhabits.",
+          "desc3": "The sea slug is often an interesting addition to a salt-water aquarium and can be useful in keeping the algae levels at a minimum. Although the sea slug leads a relatively motionless existence, they are an important factor in any marine environment."
+        }
+      ]
+}
