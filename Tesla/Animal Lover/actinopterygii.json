@@ -280,7 +280,7 @@
           "desc3": "Due to their small size and bright colours, barb are commonly kept in household aquariums worldwide. The most common barb kept in aquariums are the cherry barb (pink/red in colour) and the tiger barb (silver body with thick, black stripes and red fin on its belly)."
         },
         {
-          "name": "Molly",
+          "name": "Molly fish",
           "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/molly4.jpg",
           "scientific": "Poecilia",
@@ -418,7 +418,7 @@
           "desc3": "Despite the difference in size and colour between barracuda species, all species of barracuda have a similar elongated appearance, and pointed head with powerful jaws, containing rows of sharp fang-like teeth used for eating larger prey."
         },
         {
-          "name": "Tang",
+          "name": "Tang fish",
           "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/tang3.jpg",
           "scientific": "Acanthuridae",
@@ -441,7 +441,7 @@
           "desc3": "Tang are found around shallow coral reefs where there is an abundance of food and plenty of places to hide from approaching predators. The tang is named after the razor-sharp scalpel (also known as tang) at the base of their tails. When the tang feels threatened, it hides in a crevice in the coral or rocks and anchors itself in using this scalpel. The scalpel at the base of the tang's tail can also be used to defend itself if it is caught."
         },
         {
-          "name": "Pike",
+          "name": "Pike fish",
           "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/pike1.jpg",
           "scientific": "Esox",
@@ -464,7 +464,7 @@
           "desc3": "Pike are generally quite large in size, but it is the female pike that often become the largest predators within their environment. Pikes can range in size from just half a meter, to 1.8m in length depending on the species and the area which it inhabits. The grey-green scales of the pike give it perfect camouflage when it is hiding amongst the reeds."
         },
         {
-          "name": "Wrasse",
+          "name": "Wrasse fish",
           "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/wrasse5.jpg",
           "scientific": "Labridae",
@@ -487,7 +487,7 @@
           "desc3": "Wrasse come in a variety of colours and sizes depending on the species of wrasse. Wrasse tend to be relatively small in size, with many species of wrasse being less than 20 cm in length. One species of wrasse however is enormous in comparison, growing to more than 2 meters long."
         },
         {
-          "name": "Discus",
+          "name": "Discus fish",
           "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/discus1.jpg",
           "scientific": "Symphysodon",
@@ -510,7 +510,7 @@
           "desc3": "The Discus is one of only a few Cichlid species found outside of Africa. They are found inhabiting sections of deep, calm, well-wooded waters in the Amazon Basin and its tributaries. These slow-moving rivers and backwaters of the Amazon river system that stretch through Brazil, Columbia and Peru, provide the perfect habitat for these large Fish, which generally shelter amongst the submerged roots and branches. Discus are known to be fussy about the water conditions in artificial habitats and are not for the inexperienced keeper. In their natural environment, Discus inhabit soft, acidic, and very warm waters, where there is less competition from other Fish."
         },
         {
-          "name": "X-Ray Tetra",
+          "name": "X-Ray Tetra fish",
           "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/x-ray_tetra.jpg",
           "scientific": "Pristella maxillaris",
