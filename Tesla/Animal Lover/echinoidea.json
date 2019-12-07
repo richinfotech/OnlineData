@@ -1,0 +1,30 @@
+{
+    "versionCode": 1,
+    "cancellable": false,
+    "url": "",
+    "data":[
+        {
+          "name": "Sea Urchin",
+          "kingdom": "Animalia",
+          "phylum": "Echinodermata",
+          "class": "Echinoidea",
+          "order": "Echinoida",
+          "scientific": "Echinoidea",
+          "origin": "Worldwide",
+          "water": "Salt",
+          "phlevel": "6.0-9.0",
+          "color": "Multi-colored",
+          "skin": "Plates",
+          "food": "Algae",
+          "habitat": "Rocky ocean floor and coral reefs",
+          "prey": "Algae, Fish, Barnacles",
+          "predators": "Fish, Birds, Crabs, Sea Otter",
+          "features": "Small stinging structures and claw-like mouth",
+          "image": "/media/animals/images/470x370/sea_urchin2.jpg",
+          "map": "/media/animals/maps/sea-urchin-location-map.png",
+          "desc1": "The sea urchin is found across the ocean floors worldwide, but rarely in the colder, polar regions. Sea urchins are commonly found along the rocky ocean floor in both shallow and deeper water and sea urchins are also commonly found inhabiting coral reefs.",
+          "desc2": "There are nearly 200 different species of recognised sea urchin, that come in all shapes and sizes. Some sea urchins are covered in long thin spikes where others have a hard shell that is made up of chalky plates. The red sea urchin is the longest living creature on earth, with some living more than 200 years.",
+          "desc3": "Sea urchins are preyed about by many predators that inhabit their marine environment, but also those animals that don't. The main predators of the sea urchin are crabs, large fish, sea otters, eels, birds and humans. In some countries, certain species of the sea urchin are hunted and served as a delicacy."
+        }
+      ]
+}
