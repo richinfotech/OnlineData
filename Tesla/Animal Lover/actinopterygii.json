@@ -211,7 +211,7 @@
           "desc3": "The moray eel is a relatively secretive animal, spending much of its time hiding in holes and crevices amongst the rocks and coral on the ocean floor. By spending the majority of their time hiding, moray eels are able to remain out of sight from predators and are also able to ambush any unsuspecting prey that passes."
         },
         {
-          "name": "Flounder",
+          "name": "Flounder fish",
           "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/flounder.jpg",
           "scientific": "Paralichthys",
@@ -234,7 +234,7 @@
           "desc3": "All five flounder species are very similar in appearance but can vary quite dramatically in size. Flounder can vary from 5 to 25 inches in size depending on the species, but all flounder species have a rounded, flattened body shape with a medium-sized flat tail fin."
         },
         {
-          "name": "Piranha",
+          "name": "Piranha fish",
           "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/piranha3.jpg",
           "scientific": "Pygocentrus Nattereri",
@@ -395,7 +395,7 @@
           "desc3": "The cichlid is native to the Victoria, Malawi, and Edward Lakes of eastern Africa and the Tanganyika lake which is the largest lake in central Africa. The two different types of cichlids are thought to have evolved from different fish. The great diversity of the cichlids in these lakes is of significant importance to scientists studying evolution within species."
         },
         {
-          "name": "Barracuda",
+          "name": "Barracuda fish",
           "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/barracuda4.jpg",
           "scientific": "Sphyraena",
@@ -579,7 +579,7 @@
           "desc3": "Both the freshwater angelfish and the marine angelfish are known to be relatively difficult fish to keep in household aquariums, as both types of angelfish require very specific water conditions. Angelfish are very susceptible to changes in the water such as salt levels and pH levels, and will often die if changes are too drastic."
         },
         {
-          "name": "Tetra",
+          "name": "Tetra fish",
           "animalClass": "Actinopterygii",
           "image": "/media/animals/images/470x370/tetra2.jpg",
           "scientific": "Paracheirodon Axelrodi",
