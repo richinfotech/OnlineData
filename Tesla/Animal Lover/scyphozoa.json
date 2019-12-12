@@ -3,7 +3,6 @@
     "cancellable": false,
     "url": "",
     "data":[
-      [
         {
           "name": "Jellyfish",
           "animalClass": "Scyphozoa",
@@ -38,6 +37,5 @@
           "wingspan": null,
           "desc5": null
         }
-      ]
       ]
 }
