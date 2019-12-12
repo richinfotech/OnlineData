@@ -5,7 +5,7 @@
     "data": [
       {
         "name": "Avocet",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/avocet.jpg",
         "scientific": "Recurvirostra",
         "map": "/media/animals/maps/avocet-location-map.png",
@@ -39,7 +39,7 @@
       },
       {
         "name": "Duck",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/duck4.jpg",
         "scientific": "Anas Platyrhynchos",
         "map": "/media/animals/maps/duck-location-map.png",
@@ -73,7 +73,7 @@
       },
       {
         "name": "Common Loon",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/common_loon4.jpg",
         "scientific": "Gavia Immer",
         "map": "/media/animals/maps/common-loon-location-map.png",
@@ -107,7 +107,7 @@
       },
       {
         "name": "Heron",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/heron.jpg",
         "scientific": "Ardeidae",
         "map": "/media/animals/maps/heron-location-map.png",
@@ -141,7 +141,7 @@
       },
       {
         "name": "Swan",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/swan6.jpg",
         "scientific": "Cygnus Atratus",
         "map": "/media/animals/maps/swan-location-map.png",
@@ -175,7 +175,7 @@
       },
       {
         "name": "Common Buzzard",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/common_buzzard2.jpg",
         "scientific": "Buteo Buteo",
         "map": "/media/animals/maps/common-buzzard-location-map.png",
@@ -209,7 +209,7 @@
       },
       {
         "name": "Rockhopper Penguin",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/rockhopper_penguin_3.jpg",
         "scientific": "Eudyptes Chrysocome",
         "map": "/media/animals/maps/rockhopper-penguin-location-map-2.png",
@@ -243,7 +243,7 @@
       },
       {
         "name": "Gentoo Penguin",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/gentoo_penguin.jpg",
         "scientific": "Pygoscelis papua",
         "map": "/media/animals/maps/gentoo-penguin-location-map.png",
@@ -277,7 +277,7 @@
       },
       {
         "name": "Humboldt Penguin",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/humboldt_penguin6.jpg",
         "scientific": "Spheniscus Humboldti",
         "map": "/media/animals/maps/humboldt-penguin-location-map.png",
@@ -311,7 +311,7 @@
       },
       {
         "name": "Booby",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/booby3.jpg",
         "scientific": "Sula Nebouxii",
         "map": "/media/animals/maps/booby-location-map.png",
@@ -345,7 +345,7 @@
       },
       {
         "name": "Roseate Spoonbill",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/roseate_spoonbill2.jpg",
         "scientific": "Ajaja ajaja",
         "map": "/media/animals/maps/roseate-spoonbill-location-map.png",
@@ -379,7 +379,7 @@
       },
       {
         "name": "Snowy Owl",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/snowy_owl.jpg",
         "scientific": "Bubo Scandiacus",
         "map": "/media/animals/maps/snowy-owl-location-map.png",
@@ -413,7 +413,7 @@
       },
       {
         "name": "Frigatebird",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/frigatebird1.jpg",
         "scientific": "Fregata",
         "map": "/media/animals/maps/frigatebird-location-map.png",
@@ -447,7 +447,7 @@
       },
       {
         "name": "Magellanic Penguin",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/magellanic_penguin7.jpg",
         "scientific": "Spheniscus Magellanicus",
         "map": "/media/animals/maps/magellanic-penguin-location-map.png",
@@ -465,7 +465,7 @@
         "features": null,
         "family": "Spheniscidae",
         "kingdom": "Animalia",
-        "desc1": "The Magellanic penguin is a small to medium sized species of penguin found inhabiting the rocky islands off the coast of parts of South America. The Magellanic penguin is most closely related to the African penguin, the Galapagos penguin and the Humboldt penguin which it is similar in appearance to. Despite being classed as a threatened species, the Magellanic penguin is one of the most numerous of all of these types of penguin.",
+        "desc1": "The Magellanic penguin is a small to medium sized species of penguin found inhabiting the rocky islands off the coast of parts of South America. The Magellanic penguin is most closely related to the African penguin, the Galapagos penguin and the Humboldt penguin which it is similar in appearance to. Despite being animalClassed as a threatened species, the Magellanic penguin is one of the most numerous of all of these types of penguin.",
         "desc2": "The Magellanic penguin is found breed off the coast of Argentina and southern Chile and on the Falkland islands further south. Like other species of penguin the Magellanic penguin spends the majority of its time hunting for food in the surrounding ocean, coming onto land to nest in large colonies on the beaches.",
         "desc3": "The Magellanic penguin is a medium sized penguin that can grow up to 76cm in height. Like other penguin species, the flippers of the Magellanic penguin are not that long but act as the perfect tools for propelling the Magellanic penguin through the water when it is in search of food. Like the other penguins in their group, Magellanic penguins have white and brownish black markings, with a broad dark band running across the top of their white chest.",
         "desc4": "Like other penguin species, the Magellanic penguin is a highly sociable bird, living in flocks with numerous other Magellanic penguin individuals. As well as gathering together in large colonies on the beaches during the breeding season, the Magellanic penguin flocks also spend their time out at sea hunting together rather than on their own.",
@@ -481,7 +481,7 @@
       },
       {
         "name": "Turkey",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/turkey3.jpg",
         "scientific": "Meleagris",
         "map": "/media/animals/maps/turkey-location-map.png",
@@ -515,7 +515,7 @@
       },
       {
         "name": "Chinstrap Penguin",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/chinstrap_penguin3.jpg",
         "scientific": "Pygoscelis Antarcticus",
         "map": "/media/animals/maps/chinstrap-penguin-location-map.png",
@@ -549,7 +549,7 @@
       },
       {
         "name": "Nightingale",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/nightingale1.jpg",
         "scientific": "Luscinia Magarhynchos",
         "map": "/media/animals/maps/nightingale-location-map.png",
@@ -583,7 +583,7 @@
       },
       {
         "name": "Flamingo",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/flamingo6.jpg",
         "scientific": "Phoenicopterus",
         "map": "/media/animals/maps/flamingo-location-map.png",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Chicken",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/chicken.jpg",
         "scientific": "Gallus Gallus",
         "map": "/media/animals/maps/chicken-location-map-2.png",
@@ -651,7 +651,7 @@
       },
       {
         "name": "Parrot",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/parrot.jpeg",
         "scientific": "Psittacine",
         "map": "/media/animals/maps/parrot-location-map.png",
@@ -685,7 +685,7 @@
       },
       {
         "name": "Little Penguin",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/little_penguin.jpg",
         "scientific": "Eudyptula Minor",
         "map": "/media/animals/maps/little-penguin-location-map.png",
@@ -719,7 +719,7 @@
       },
       {
         "name": "Adelie Penguin",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/adelie_penguin2.jpg",
         "scientific": "Pygoscelis adeliae",
         "map": "/media/animals/maps/adelie-penguin-location-map.png",
@@ -753,7 +753,7 @@
       },
       {
         "name": "Penguin",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/penguin5.jpg",
         "scientific": "Aptenodytes Forsteri",
         "map": "/media/animals/maps/penguin-location-map.png",
@@ -787,7 +787,7 @@
       },
       {
         "name": "Bird",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/bird17.jpg",
         "scientific": null,
         "map": "/media/animals/maps/bird-location-map.png",
@@ -821,7 +821,7 @@
       },
       {
         "name": "Albatross",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/albatross3.jpg",
         "scientific": "Diomedeidae",
         "map": "/media/animals/maps/albatross-location-map.png",
@@ -855,7 +855,7 @@
       },
       {
         "name": "Crane",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/crane1.jpg",
         "scientific": "Gruidae",
         "map": "/media/animals/maps/crane-location-map.png",
@@ -889,7 +889,7 @@
       },
       {
         "name": "Quetzal",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/quetzal4.jpg",
         "scientific": "Pharomachrus, Euptilotis",
         "map": "/media/animals/maps/quetzal-location-map.png",
@@ -923,7 +923,7 @@
       },
       {
         "name": "Green Bee-Eater",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/green_bee-eater2.jpg",
         "scientific": "Merops Orientalis",
         "map": "/media/animals/maps/green-bee-eater-location-map.png",
@@ -957,7 +957,7 @@
       },
       {
         "name": "Ostrich",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/ostrich_7.jpg",
         "scientific": "Struthio Camelus",
         "map": "/media/animals/maps/ostrich-location-map.png",
@@ -991,7 +991,7 @@
       },
       {
         "name": "Umbrellabird",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/umbrellabird_5.jpg",
         "scientific": "Cephalopterus",
         "map": "/media/animals/maps/umbrellabird-location-map.png",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Robin",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/robin5.jpg",
         "scientific": "Erithacus Rubecula",
         "map": "/media/animals/maps/robin-location-map.png",
@@ -1059,7 +1059,7 @@
       },
       {
         "name": "Royal Penguin",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/royal_penguin.jpg",
         "scientific": "Eudyptes Schlegeli",
         "map": "/media/animals/maps/royal-penguin-location-map.png",
@@ -1093,7 +1093,7 @@
       },
       {
         "name": "Dodo",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/dodo.jpg",
         "scientific": "Raphus Cucullatus",
         "map": "/media/animals/maps/dodo-location-map.png",
@@ -1127,7 +1127,7 @@
       },
       {
         "name": "Puffin",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/puffin_6.jpg",
         "scientific": "Fratercula arctica",
         "map": "/media/animals/maps/puffin-location-map.png",
@@ -1161,7 +1161,7 @@
       },
       {
         "name": "Kingfisher",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/kingfisher.jpg",
         "scientific": "Coraciiformes",
         "map": "/media/animals/maps/kingfisher-location-map.png",
@@ -1195,7 +1195,7 @@
       },
       {
         "name": "Tawny Owl",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/tawny_owl1.jpg",
         "scientific": "Strix Aluco",
         "map": "/media/animals/maps/tawny-owl-location-map.png",
@@ -1229,7 +1229,7 @@
       },
       {
         "name": "Tropicbird",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/tropicbird.jpg",
         "scientific": "Phaethon",
         "map": "/media/animals/maps/tropicbird-location-map.png",
@@ -1247,7 +1247,7 @@
         "features": null,
         "family": "Phaethontidae",
         "kingdom": "Animalia",
-        "desc1": "The tropicbird is a large species of sea bird found nesting on the warmer cliffs and islands that dot our oceans. Despite having been thought to be closely related to other large sea birds such as pelicans, boobies and frigatebirds, the tropicbird has been recently classified in a group of its own.",
+        "desc1": "The tropicbird is a large species of sea bird found nesting on the warmer cliffs and islands that dot our oceans. Despite having been thought to be closely related to other large sea birds such as pelicans, boobies and frigatebirds, the tropicbird has been recently animalClassified in a group of its own.",
         "desc2": "There are three different species of tropicbird found throughout the tropical Atlantic, Pacific and Indian Oceans. The exact range and location depends on the species of tropicbird, although all three species can be found in parts of all the major oceans.",
         "desc3": "Tropicbirds are large-sized birds and can grow to up to a meter in height. The three different tropicbird species are the red-billed tropicbird, the red-tailed tropicbird and the white-tailed tropicbird, all of which are generally white in colour with long tail feathers, and thin spindly legs.",
         "desc4": "Tropicbirds are known to catch their prey by plunging into the surface of the water in order to snap up their dinner. Away from their breeding colonies, tropicbirds are generally solitary animals usually seen hunting on their own or in a pair.",
@@ -1263,7 +1263,7 @@
       },
       {
         "name": "Galapagos Penguin",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/galapagos_penguin.jpg",
         "scientific": "Spheniscus Mendiculus",
         "map": "/media/animals/maps/galapagos-penguin-location-map.png",
@@ -1297,7 +1297,7 @@
       },
       {
         "name": "Magpie",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/magpie3.jpg",
         "scientific": "Pica Pica",
         "map": "/media/animals/maps/magpie-location-map.png",
@@ -1331,7 +1331,7 @@
       },
       {
         "name": "Uguisu",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/uguisu.jpg",
         "scientific": "Cettia diphone",
         "map": "/media/animals/maps/uguisu-location-map.png",
@@ -1365,7 +1365,7 @@
       },
       {
         "name": "Cassowary",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/cassowary1.jpg",
         "scientific": "Casuarius",
         "map": "/media/animals/maps/cassowary-location-map.png",
@@ -1399,7 +1399,7 @@
       },
       {
         "name": "Keel Billed Toucan",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/keel_billed_toucan2.jpg",
         "scientific": "Ramphastos Sulfuratus",
         "map": "/media/animals/maps/keel-billed-toucan-location-map.png",
@@ -1433,7 +1433,7 @@
       },
       {
         "name": "Kakapo",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/kakapo3.jpg",
         "scientific": "Strigops Habroptilus",
         "map": "/media/animals/maps/kakapo-location-map.png",
@@ -1467,7 +1467,7 @@
       },
       {
         "name": "Woodpecker",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/woodpecker3.jpg",
         "scientific": "Picidae",
         "map": "/media/animals/maps/woodpecker-location-map.png",
@@ -1501,7 +1501,7 @@
       },
       {
         "name": "Budgerigar",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/budgerigar9.jpg",
         "scientific": "Melopsittacus Undulatus",
         "map": "/media/animals/maps/budgerigar-location-map.png",
@@ -1535,7 +1535,7 @@
       },
       {
         "name": "Barn Owl",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/barn_owl1.jpg",
         "scientific": "Tyto Alba",
         "map": "/media/animals/maps/barn-owl-location-map-2.png",
@@ -1569,7 +1569,7 @@
       },
       {
         "name": "Macaw",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/macaw7.jpg",
         "scientific": "Arini",
         "map": "/media/animals/maps/macaw-location-map.png",
@@ -1603,7 +1603,7 @@
       },
       {
         "name": "Golden Oriole",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/golden_oriole.jpg",
         "scientific": "Oriolus oriolus",
         "map": "/media/animals/maps/golden-oriole-location-map.png",
@@ -1621,7 +1621,7 @@
         "features": null,
         "family": "Oriolidae",
         "kingdom": "Animalia",
-        "desc1": "The Golden Oriole (also known as the Eurasian Oriole), is a small species of Bird found throughout Europe and western Asia. The Golden Oriole's name is thought to have arisen during the 18th century after the classical Latin word meaning gold. Although almost indistinguishable in appearance, some believe that the Golden Orioles found in Europe, are actually a separate sub-species to those found in Asia. They are also known to be the only member of the Oriole family that breeds in the more temperate regions of the northern hemisphere.",
+        "desc1": "The Golden Oriole (also known as the Eurasian Oriole), is a small species of Bird found throughout Europe and western Asia. The Golden Oriole's name is thought to have arisen during the 18th century after the animalClassical Latin word meaning gold. Although almost indistinguishable in appearance, some believe that the Golden Orioles found in Europe, are actually a separate sub-species to those found in Asia. They are also known to be the only member of the Oriole family that breeds in the more temperate regions of the northern hemisphere.",
         "desc2": "The male Golden Oriole is an incredibly coloured Bird, with striking yellow and jet black plumage, and fully black wings. As with many other Birds, the female of the species is more dull-looking being slightly greener in colour. Both however, are hard to spot in the canopy as they are perfectly camouflaged amongst the leaves. Golden Orioles tend to be between 20 - 24 cm in height and are often mistaken for Thrushes and even green Woodpeckers when in flight. They have dark red eyes, and a fairly thick, pink beak that is curved slightly downwards at the end.",
         "desc3": "The Golden Oriole is predominantly found throughout Europe and western Asia but also in parts of Africa. The Golden Oriole is a summer migrant meaning that it migrates north for the cooler summer climates, and flies back south to the tropics when the winter begins to emerge. The Golden Oriole is nearly always found in well-timbered forests and woodland, along with parks, orchards and gardens. They spend the majority of their time high in the tree canopy where their distinctive plumage helps them to remain hidden from lurking predators.",
         "desc4": "Due to its excellent camouflage amongst the leaves, and its shy nature, the Golden Oriole is an almost impossible Bird to spot. However, it is its unmistakable song that alerts all around to its presence, which is said to sound very fluty and can be heard over considerable distances. Their basic calls however are often compared to the screech of a Jay, but both are used to communicate with other Golden Orioles inhabiting the surrounding forest. The Golden Oriole is a migratory and generally quite solitary Bird, but can be seen migrating, often under the cover of night, in large flocks.",
@@ -1637,7 +1637,7 @@
       },
       {
         "name": "Vulture",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/vulture1.jpg",
         "scientific": "Aegypius Monachus",
         "map": "/media/animals/maps/vulture-location-map.png",
@@ -1656,7 +1656,7 @@
         "family": "Accipitridae",
         "kingdom": "Animalia",
         "desc1": "The vulture is a large, carnivorous bird that is most well known for its scavenging nature. The vulture is one of the few types of bird that is found distributed so widely around the world, as vultures are found on every continent excluding the Antarctic and Australia and the islands that surround it.",
-        "desc2": "Different species of vultures of firstly classified into two groups, the old world vultures and the new world vultures. There are thought to be nearly 30 different species of vulture that are found worldwide.",
+        "desc2": "Different species of vultures of firstly animalClassified into two groups, the old world vultures and the new world vultures. There are thought to be nearly 30 different species of vulture that are found worldwide.",
         "desc3": "The old world vultures are found in Asia, Europe and Africa with these species of vulture thought to be most closely related to eagles and hawks. The old world vulture is not thought to be closely related to the new world vulture and the old world vulture uses its spectacular sight alone in order to find food.",
         "desc4": "The new world vultures are found in the Americas and although there are definitive similarities between the old world vulture and the new world vulture, they are believed to be connected through evolutionary status rather than DNA. The new world vultures tend to be slightly smaller than the old world vultures and use both sight and their excellent sense of smell in order to find their food.",
         "water": null,
@@ -1671,7 +1671,7 @@
       },
       {
         "name": "Sparrow",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/sparrow8.jpg",
         "scientific": "Passeridae",
         "map": "/media/animals/maps/sparrow-location-map.png",
@@ -1705,7 +1705,7 @@
       },
       {
         "name": "Crested Penguin",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/crested_penguin1.jpg",
         "scientific": "Eudyptes robustus",
         "map": "/media/animals/maps/crested-penguin-location-map.png",
@@ -1739,7 +1739,7 @@
       },
       {
         "name": "Falcon",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/falcon1.jpg",
         "scientific": "Falconiforme",
         "map": "/media/animals/maps/falcon-location-map.png",
@@ -1773,7 +1773,7 @@
       },
       {
         "name": "Macaroni Penguin",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/macaroni_penguin3.jpg",
         "scientific": "Eudyptes Chrysolophus",
         "map": "/media/animals/maps/macaroni-penguin-location-map.png",
@@ -1791,7 +1791,7 @@
         "features": null,
         "family": "Spheniscidae",
         "kingdom": "Animalia",
-        "desc1": "The macaroni penguin is a large-sized species of penguin found in the Sub-Antarctic regions. the macaroni penguin is one of six species of crested penguins is so closely related to the royal penguin, that some people class the two as the same species.",
+        "desc1": "The macaroni penguin is a large-sized species of penguin found in the Sub-Antarctic regions. the macaroni penguin is one of six species of crested penguins is so closely related to the royal penguin, that some people animalClass the two as the same species.",
         "desc2": "The macaroni penguin spends most of its time during the colder winter months fishing in the cold oceans where the macaroni penguin is more protected from the bitter conditions of the Antarctic winter on the land. However, when the summer is approaching and temperatures at the South Pole increase, the macaroni penguin makes its way to land in order to breed.",
         "desc3": "The macaroni penguin is the most numerous species of penguin on the planet as there approximately 18 million macaroni penguin individuals. The macaroni penguin population numbers are declined severely over the past few decades meaning that the macaroni penguin is today considered to be a vulnerable species.",
         "desc4": "Macaroni penguins are one the biggest and heaviest species of penguin as adult macaroni penguins generally average about 70cm in height. The macaroni penguin also has a couple of very distinctive features including a long red-coloured beak and a crest of thin bright-yellow feathers on its head.",
@@ -1807,7 +1807,7 @@
       },
       {
         "name": "Grouse",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/grouse3.jpg",
         "scientific": "Tetraoninae",
         "map": "/media/animals/maps/grouse-location-map.png",
@@ -1841,7 +1841,7 @@
       },
       {
         "name": "Long-Eared Owl",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/long-eared_owl2.jpg",
         "scientific": "Casuarius",
         "map": "/media/animals/maps/long-eared-owl-location-map.png",
@@ -1875,7 +1875,7 @@
       },
       {
         "name": "Moorhen",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/moorhen.jpg",
         "scientific": "Gallinula",
         "map": "/media/animals/maps/moorhen-location-map.png",
@@ -1909,7 +1909,7 @@
       },
       {
         "name": "Birds Of Paradise",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/birds_of_paradise3.jpg",
         "scientific": "Paradisaeidae",
         "map": "/media/animals/maps/birds-of-paradise-location-map.png",
@@ -1943,7 +1943,7 @@
       },
       {
         "name": "King Penguin",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/king_penguin1.jpg",
         "scientific": "Aptenodytes Patagonicus",
         "map": "/media/animals/maps/king-penguin-location-map.png",
@@ -1977,7 +1977,7 @@
       },
       {
         "name": "Yellow-Eyed Penguin",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/yellow-eyed_penguin2.jpg",
         "scientific": "Megadyptes Antipodes",
         "map": "/media/animals/maps/yellow-eyed-penguin-location-map.png",
@@ -2011,7 +2011,7 @@
       },
       {
         "name": "Peacock",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/peacock7.jpg",
         "scientific": "Pavo Cristatus",
         "map": "/media/animals/maps/peacock-location-map.png",
@@ -2045,7 +2045,7 @@
       },
       {
         "name": "Quail",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/quail.jpg",
         "scientific": "Coturnix Coturnix",
         "map": "/media/animals/maps/quail-location-map.png",
@@ -2079,7 +2079,7 @@
       },
       {
         "name": "Pelican",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/pelican1.jpg",
         "scientific": "Pelecanus Occidentalis",
         "map": "/media/animals/maps/pelican-location-map.png",
@@ -2113,7 +2113,7 @@
       },
       {
         "name": "Goose",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/geese3.jpg",
         "scientific": "Branta",
         "map": "/media/animals/maps/goose-location-map.png",
@@ -2147,7 +2147,7 @@
       },
       {
         "name": "Kiwi",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/kiwi4.jpg",
         "scientific": "Apteryx australis",
         "map": "/media/animals/maps/kiwi-location-map.png",
@@ -2181,7 +2181,7 @@
       },
       {
         "name": "Hummingbird",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/hummingbird8.jpg",
         "scientific": "Trochilidae",
         "map": "/media/animals/maps/hummingbird-location-map.png",
@@ -2215,7 +2215,7 @@
       },
       {
         "name": "African Penguin",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/african_penguin3.jpg",
         "scientific": "Spheniscus demersus",
         "map": "/media/animals/maps/african-penguin-location-map.png",
@@ -2249,7 +2249,7 @@
       },
       {
         "name": "Guinea Fowl",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/guinea_fowl2.jpg",
         "scientific": "Numididae",
         "map": "/media/animals/maps/guinea-fowl-location-map.png",
@@ -2283,7 +2283,7 @@
       },
       {
         "name": "Emu",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/emu1.jpg",
         "scientific": "Dromaius Novaehollandiae",
         "map": "/media/animals/maps/emu-location-map.png",
@@ -2317,7 +2317,7 @@
       },
       {
         "name": "Pheasant",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/pheasant8.jpg",
         "scientific": "Phasianus Colchicus",
         "map": "/media/animals/maps/pheasant-location-map.png",
@@ -2351,7 +2351,7 @@
       },
       {
         "name": "Toucan",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/toucan3.jpg",
         "scientific": "Ramphastos Toco",
         "map": "/media/animals/maps/toucan-location-map.png",
@@ -2385,7 +2385,7 @@
       },
       {
         "name": "Ibis",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/ibis1.jpg",
         "scientific": "Threskiornithidae",
         "map": "/media/animals/maps/ibis-location-map.png",
@@ -2419,7 +2419,7 @@
       },
       {
         "name": "Emperor Penguin",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/emperor_penguin3.jpg",
         "scientific": "Aptenodytes forsteri",
         "map": "/media/animals/maps/emperor-penguin-location-map.png",
@@ -2453,7 +2453,7 @@
       },
       {
         "name": "Eagle",
-        "class": "Aves",
+        "animalClass": "Aves",
         "image": "/media/animals/images/470x370/eagle1.jpg",
         "scientific": "Hieraatus Spilogaster",
         "map": "/media/animals/maps/eagle-location-map.png",
