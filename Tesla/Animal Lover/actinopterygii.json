@@ -228,7 +228,7 @@
         "conservation": "Least Concern"
       },
       {
-        "name": "Silver Dollar",
+        "name": "Silver Dollar Fish",
         "animalClass": "Actinopterygii",
         "image": "/media/animals/images/470x370/silver_dollar.jpg",
         "scientific": "Metynnis Argenteus",
@@ -284,7 +284,7 @@
         "conservation": "Least Concern"
       },
       {
-        "name": "Discus",
+        "name": "Discus Fish",
         "animalClass": "Actinopterygii",
         "image": "/media/animals/images/470x370/discus1.jpg",
         "scientific": "Symphysodon",
@@ -452,7 +452,7 @@
         "conservation": "Least Concern"
       },
       {
-        "name": "Barb",
+        "name": "Barb Fish",
         "animalClass": "Actinopterygii",
         "image": "/media/animals/images/470x370/barb3.jpg",
         "scientific": "Barbus Barbus",
@@ -480,7 +480,7 @@
         "conservation": "Least Concern"
       },
       {
-        "name": "Piranha",
+        "name": "Piranha Fish",
         "animalClass": "Actinopterygii",
         "image": "/media/animals/images/470x370/piranha3.jpg",
         "scientific": "Pygocentrus Nattereri",
@@ -564,7 +564,7 @@
         "conservation": "Least Concern"
       },
       {
-        "name": "Tang",
+        "name": "Tang Fish",
         "animalClass": "Actinopterygii",
         "image": "/media/animals/images/470x370/tang3.jpg",
         "scientific": "Acanthuridae",
@@ -648,7 +648,7 @@
         "conservation": "Not Listed"
       },
       {
-        "name": "Guppy",
+        "name": "Guppy Fish",
         "animalClass": "Actinopterygii",
         "image": "/media/animals/images/470x370/guppy3.jpg",
         "scientific": "Poecilia Reticulata",
@@ -676,7 +676,7 @@
         "conservation": "Least Concern"
       },
       {
-        "name": "Tetra",
+        "name": "Tetra Fish",
         "animalClass": "Actinopterygii",
         "image": "/media/animals/images/470x370/tetra2.jpg",
         "scientific": "Paracheirodon Axelrodi",
