@@ -5,7 +5,7 @@
     "data": [
       {
         "name": "Coral",
-        "class": "Anthozoa",
+        "animalClass": "Anthozoa",
         "image": "/media/animals/images/470x370/coral10.jpg",
         "scientific": "Anthozoa",
         "map": "/media/animals/maps/coral-location-map.png",
