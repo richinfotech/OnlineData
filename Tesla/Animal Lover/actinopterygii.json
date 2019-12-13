@@ -172,7 +172,7 @@
         "conservation": "Least Concern"
       },
       {
-        "name": "Molly",
+        "name": "Molly Fish",
         "animalClass": "Actinopterygii",
         "image": "/media/animals/images/470x370/molly4.jpg",
         "scientific": "Poecilia",
@@ -368,7 +368,7 @@
         "conservation": "Least Concern"
       },
       {
-        "name": "Gar",
+        "name": "Gar Fish",
         "animalClass": "Actinopterygii",
         "image": "/media/animals/images/470x370/gar1.jpg",
         "scientific": "Lepisosteidae",
