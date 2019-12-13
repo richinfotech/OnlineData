@@ -3,7 +3,6 @@
     "cancellable": false,
     "url": "",
     "data":[
-      [
         {
           "name": "Tunicate",
           "animalClass": "Urochordata",
@@ -39,5 +38,5 @@
           "desc5": null
         }
       ]
-      ]
+    
 }
