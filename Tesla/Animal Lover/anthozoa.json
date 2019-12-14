@@ -2,29 +2,37 @@
     "versionCode": 1,
     "cancellable": false,
     "url": "",
-    "data":[
-        {
-          "name": "Coral",
-          "kingdom": "Animalia",
-          "phylum": "Cnidaria",
-          "class": "Anthozoa",
-          "order": "Octocorallia",
-          "family": "Alcyonacea",
-          "scientific": "Anthozoa",
-          "location": "Tropical Oceans",
-          "numberofspecies": "70,000",
-          "color": "Multi-coloured",
-          "skin": "Porous",
-          "food": "Plankton",
-          "habtat": "Forest and thick woodland",
-          "prey": "Plankton, Fish, Shrimp",
-          "predators": "Starfish, Marine slugs and snails",
-          "features": "Variety of colours and full of holes for species to hind in",
-          "image": "/media/animals/images/470x370/coral10.jpg",
-          "map": "/media/animals/maps/coral-location-map.png",
-          "desc1": "It may shock you to know that the hole-filled rock-like substance, known as coral, is actually an animal and a vital part of the marine world. Coral is a similar animal species to the sea anemone and almost appears to be half animal and half plant when you look into what coral does.",
-          "desc2": "There are thought to be around 70,000 different species of coral that are found throughout the oceans of the world but are in abundance in the southern hemisphere due to the warm and tropical climates.",
-          "desc3": "Coral species are generally divided into two subspecies, depending on how many tentacles the coral individual has. Those coral species with eight tentacles are known as Alcyonaria, which includes soft coral, sea fans and sea pens. Those coral species with more than eight tentacles are known as Zoantharia, which includes the coral species that are found in coral reefs."
-        }
-      ]
+    "data": [
+      {
+        "name": "Coral",
+        "animalClass": "Anthozoa",
+        "image": "/media/animals/images/470x370/coral10.jpg",
+        "scientific": "Anthozoa",
+        "map": "/media/animals/maps/coral-location-map.png",
+        "location": "Tropical Oceans",
+        "diet": null,
+        "color": "Multi-coloured",
+        "habitat": "Forest and thick woodland",
+        "prey": "Plankton, Fish, Shrimp",
+        "predators": "Starfish, Marine slugs and snails",
+        "food": "Plankton",
+        "phylum": "Cnidaria",
+        "order": "Octocorallia",
+        "numberofspecies": "70,000",
+        "skin": "Porous",
+        "features": "Variety of colours and full of holes for species to hind in",
+        "family": "Alcyonacea",
+        "kingdom": "Animalia",
+        "desc1": "It may shock you to know that the hole-filled rock-like substance, known as coral, is actually an animal and a vital part of the marine world. Coral is a similar animal species to the sea anemone and almost appears to be half animal and half plant when you look into what coral does.",
+        "desc2": "There are thought to be around 70,000 different species of coral that are found throughout the oceans of the world but are in abundance in the southern hemisphere due to the warm and tropical climates.",
+        "desc3": "Coral species are generally divided into two subspecies, depending on how many tentacles the coral individual has. Those coral species with eight tentacles are known as Alcyonaria, which includes soft coral, sea fans and sea pens. Those coral species with more than eight tentacles are known as Zoantharia, which includes the coral species that are found in coral reefs.",
+        "desc4": "The coral catches small fish and animals such as plankton using stinging cells on their tentacles, although these animals obtain most of their nutrients from algae. This means that most corals depend on sunlight and grow in clear and shallow water, typically at depths shallower than 60 m (200 ft). There are however a number of coral species that have adapted to inhabiting the oceans at depths of up to 3000 m.",
+        "water": null,
+        "phlevel": null,
+        "conservation": "Threatened",
+        "speed": null,
+        "lifestyle": null,
+        "funfact": null
+      }
+    ]
 }
