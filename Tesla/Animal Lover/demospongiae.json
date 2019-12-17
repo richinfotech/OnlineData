@@ -6,9 +6,9 @@
       {
         "name": "Sea Urchin",
         "animalClass": "Echinoidea",
-        "image-src": "/media/animals/images/470x370/sea_urchin2.jpg",
+        "image": "/media/animals/images/470x370/sea_urchin2.jpg",
         "scientific": "Echinoidea",
-        "map-src": "/media/animals/maps/sea-urchin-location-map.png",
+        "map": "/media/animals/maps/sea-urchin-location-map.png",
         "location": "Worldwide",
         "diet": null,
         "color": "",
