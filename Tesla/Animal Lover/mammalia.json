@@ -1910,7 +1910,7 @@
     {
       "name": "Human",
       "animalClass": "Mammalia",
-      "image": "/media/animals/images/470x370/human2.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bougle_whole2_retouched.png",
       "scientific": "Homo Sapiens Sapiens",
       "map": "/media/animals/maps/human-location-map.png",
       "location": null,
