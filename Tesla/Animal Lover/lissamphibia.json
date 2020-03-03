@@ -1,0 +1,41 @@
+{
+    "versionCode": 1,
+    "cancellable": false,
+    "url": "",
+    "data":[
+      {
+        "name": "Newt",
+        "class": "Lissamphibia",
+        "image": "/media/animals/images/470x370/newt1.jpg",
+        "scientific": "Lissotriton Vulgaris",
+        "map": "/media/animals/maps/newt-location-map.png",
+        "location": null,
+        "diet": "Omnivore",
+        "color": "Black, Brown, Grey, Green, Orange, Red, Yellow",
+        "habitat": "Temperate forests and river banks",
+        "prey": "Worms, Insects, Water snails",
+        "predators": "Birds, Fox, Reptiles",
+        "food": "Worms",
+        "phylum": "Chordata",
+        "order": "Caudata",
+        "numberofspecies": null,
+        "skin": "Scales",
+        "features": "Permeable, toxic skin and feathery gills",
+        "family": "Salamandridae",
+        "kingdom": "Animalia",
+        "desc1": "The newt is a small amphibian and the average newt only tends to grow to around 15cm long, some newts however are bigger or smaller depending on the species of newt. The newt is found naturally in North America, Europe and Asia and the newt is thought to be a subspecies of the salamander.",
+        "desc2": "A newt tends to lay its eggs individually, with the newt normally finding ponds or slow-moving streams in which to do this. The individual newt eggs attach themselves to aquatic plants and hatch in about 3 weeks. The main difference between newt eggs and frog or toad eggs is that the eggs of the newt are laid individually and are attached to plants. Frog and toad eggs float close to the surface of the water and are usually found in big clumps, where there are often hundreds of eggs together.",
+        "desc3": "The newt tadpoles have a slight resemblance to baby fish, other than the fact that they have feathered external gills. The baby newt will grow legs during the first few months, at which time, the baby newt will be able to explore both water and land.",
+        "desc4": "The newt is generally a solitary animal but some species of newt are known to hibernate in groups. Newts generally come together during the mating season which tends to take place in early spring.",
+        "water": null,
+        "phlevel": null,
+        "conservation": "Least Concern",
+        "speed": "42km/h (30mph)",
+        "lifestyle": "Solitary",
+        "funfact": null,
+        "genus": "Pleurodelinae",
+        "wingspan": null,
+        "desc5": null
+      }
+    ]
+}

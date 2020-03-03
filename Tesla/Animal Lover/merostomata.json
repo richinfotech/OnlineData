@@ -1,0 +1,41 @@
+{
+    "versionCode": 1,
+    "cancellable": false,
+    "url": "",
+    "data":[
+      {
+        "name": "Horseshoe Crab",
+        "animalClass": "Merostomata",
+        "image": "/media/animals/images/470x370/horseshoe_crab1.jpg",
+        "scientific": "Limulidae",
+        "map": "/media/animals/maps/horseshoe-crab-location-map.png",
+        "location": "Worldwide",
+        "diet": "Omnivore",
+        "color": "Black. Brown, Yellow, Tan, Silver, White",
+        "habitat": "Muddy bottoms of shallow water",
+        "prey": "Worms, Molluscs, Crustaceans",
+        "predators": "Sharks, Sea Turtles, Humans",
+        "food": "Worms",
+        "phylum": "Arthropoda",
+        "order": "Xiphosurida",
+        "numberofspecies": "4",
+        "skin": "Shell",
+        "features": "Armoured shell with long, thin tail",
+        "family": "Limulidae",
+        "kingdom": "Animalia",
+        "desc1": "The horseshoe crab (also known as the king crab), is a hard-shelled invertebrate found on the sea floor in warmer climates. Despite its name, the horseshoe crab is not actually a crab (or crustacean) and is in fact more closely related to arachnids such as spiders and scorpions.",
+        "desc2": "There are four different species of horseshoe crab found inhabiting the warmer shallows off the coasts of India, Japan, Indonesia, the eastern USA, and the Gulf of Mexico.",
+        "desc3": "The horseshoe crab has a hard outer shell, five pairs of legs and a long, thin tail which the horseshoe crab uses for changing direction whilst swimming rather than as a defensive weapon.",
+        "desc4": "The appearance of the horseshoe crab is thought to have changed very little from when it first evolved around 500 million years ago. Horseshoe crabs breathe using book gills, which are thin plates found on the abdomen of the horseshoe crab.",
+        "water": null,
+        "phlevel": null,
+        "conservation": "Least Concern",
+        "speed": null,
+        "lifestyle": null,
+        "funfact": null,
+        "genus": null,
+        "wingspan": null,
+        "desc5": null
+      }
+    ]
+}

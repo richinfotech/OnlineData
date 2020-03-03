@@ -1,0 +1,41 @@
+{
+    "versionCode": 1,
+    "cancellable": false,
+    "url": "",
+    "data":[
+      {
+        "name": "Sea Slug",
+        "class": "Holothuroidea",
+        "image": "/media/animals/images/470x370/sea_slug6.jpg",
+        "scientific": "Holothuroidea",
+        "map": "/media/animals/maps/sea-slug-location-map.png",
+        "location": "Worldwide",
+        "diet": "Herbivore",
+        "color": "Tan, Black, White, Yellow, Orange, Purple",
+        "habitat": "Shallow and deep oceans",
+        "prey": "Algae, Plankton",
+        "predators": "Fish, Crabs, Lobsters",
+        "food": "Algae",
+        "phylum": "Echinodermata",
+        "order": null,
+        "numberofspecies": null,
+        "skin": "Smooth",
+        "features": "Elongated body shape and colourful markings",
+        "family": null,
+        "kingdom": "Animalia",
+        "desc1": "The sea slug is also commonly referred to as a sea cucumber, mainly because of the of the sea slug's shape and the fact that it is normally found on coral or rocks usually being very still, making it look like a type of aquatic vegetable.",
+        "desc2": "The sea slug is a herbivorous animal and feeds on plankton and decaying matter on the ocean floor, along with grazing on the rocks and coral reefs for algae. By munching on the decomposing plant matter on the ocean floor, the sea slug is of great benefit to every marine environment where the sea inhabits.",
+        "desc3": "Due to their motionless nature, sea slugs are often very exposed and are therefore popular prey for a wide variety of predatory animals in the oceans. Crabs, lobsters, fish and even humans are among the animals that prey on the fleshy sea slug.",
+        "desc4": "Some species of sea slug are able to protect themselves from danger by wrapping their tentacles around potential predators, so that the predator is unable to harm them. This only applies however to the species of sea slug that actually have tentacles, others are completely defenceless.",
+        "water": "Salt",
+        "phlevel": "7.5-8.4",
+        "conservation": "Least Concern",
+        "speed": null,
+        "lifestyle": null,
+        "funfact": null,
+        "genus": null,
+        "wingspan": null,
+        "desc5": null
+      }
+    ]
+}

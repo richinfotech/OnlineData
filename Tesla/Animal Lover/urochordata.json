@@ -1,0 +1,42 @@
+{
+    "versionCode": 1,
+    "cancellable": false,
+    "url": "",
+    "data":[
+        {
+          "name": "Tunicate or Sea Squirt",
+          "animalClass": "Urochordata",
+          "image": "/media/animals/images/470x370/sea_squirt6.jpg",
+          "scientific": "Urochordata",
+          "map": "/media/animals/maps/sea-squirt-location-map.png",
+          "location": "Worldwide",
+          "diet": null,
+          "color": "Green, Red, Blue, Yellow, Orange, Brown, Pink, White",
+          "habitat": "Coastal Waters",
+          "prey": "Plankton, Algae, Nutrients In Water",
+          "predators": "Eels, Snails, Starfish",
+          "food": "Plankton",
+          "phylum": "Chordata",
+          "order": null,
+          "numberofspecies": "3,000",
+          "skin": "Permeable",
+          "features": "Long tube-like appearance",
+          "family": null,
+          "kingdom": "Animalia",
+          "desc1": "There are more than 3,000 known sea squirt species found on the seabed around the world, with the majority of sea squirt species being found in the warmer, nutrient-rich tropical waters. Sea squirts can vary from just 3cm to 30cm in length depending on the species of sea squirt and its habitat.",
+          "desc2": "Sea squirts can be found in variety of colours and shapes due to the fact that their bodies are made of one solid structure (rather than having a skeleton), which is protected by a membrane just a few cells thick. Sea squirts are normally cylindrical in shape, but can also be round or even bell-shaped.",
+          "desc3": "Sea squirts are filter feeders which means that they feed by filtering the nutritious particles out of the water. Sea squirts filter the sea water through slits in their membranes, taking food and water in and letting waste and excess water out.",
+          "desc4": "Sea squirts primarily feed on the plankton and nutrients in the water along with the algae that grows on them. Many larger sea squirt species have stick tentacle-like appendages which catch food particles as they float past. Some really large species of sea squirts that are found in the deep ocean, are even known to trap and ingest small animal including fish and jellyfish.",
+          "water": null,
+          "phlevel": null,
+          "conservation": "Threatened",
+          "speed": null,
+          "lifestyle": null,
+          "funfact": null,
+          "genus": null,
+          "wingspan": null,
+          "desc5": null
+        }
+      ]
+    
+}

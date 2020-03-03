@@ -1,0 +1,41 @@
+{
+    "versionCode": 1,
+    "cancellable": false,
+    "url": "",
+    "data":[
+      {
+        "name": "Starfish",
+        "animalClass": "Asteroidea",
+        "image": "/media/animals/images/470x370/starfish3.jpg",
+        "scientific": "Protoreaster Nodosus",
+        "map": "/media/animals/maps/starfish-location-map.png",
+        "location": null,
+        "diet": "Omnivore",
+        "color": "Multi-coloured",
+        "habitat": "Shallow to deeper coastal waters",
+        "prey": "Crustaceans, Worms, Sea Urchins",
+        "predators": "Fish, Rays, Sharks",
+        "food": "Crustaceans",
+        "phylum": "Echinodermata",
+        "order": null,
+        "numberofspecies": null,
+        "skin": "Rough",
+        "features": "Long arms and suckers on their feet",
+        "family": null,
+        "kingdom": "Animalia",
+        "desc1": "The starfish (commonly as a sea star) is generally found with 5 arms that are attached to a central disc. This central disc is the activity centre of the starfish and also contains the mouth of the starfish.",
+        "desc2": "The starfish feeds on oysters and clams, the 2 stomachs of the starfish helping with the digestion of complex organisms. The starfish uses one stomach to begin the digestion of the food, and the other stomach to expand outwards and engulf their prey. Starfish can be found in the oceans all around the world.",
+        "desc3": "Due to the slow-moving nature of the starfish, the starfish is preyed upon by many animal predators including fish, crabs, rays, sharks, humans and birds when the starfish are washed onto the shore.",
+        "desc4": "The starfish has the incredible ability to regenerate itself into a new starfish, with a single lost arm attached to a portion of the central starfish body disc!",
+        "water": null,
+        "phlevel": null,
+        "conservation": "Threatened",
+        "speed": "12.8km/h (8mph)",
+        "lifestyle": "Solitary",
+        "funfact": null,
+        "genus": null,
+        "wingspan": null,
+        "desc5": null
+      }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "versionCode": 1,
+    "cancellable": false,
+    "url": "",
+    "data":[
+      {
+        "name": "Sea Urchin",
+        "animalClass": "Echinoidea",
+        "image": "/media/animals/images/470x370/sea_urchin2.jpg",
+        "scientific": "Echinoidea",
+        "map": "/media/animals/maps/sea-urchin-location-map.png",
+        "location": "Worldwide",
+        "diet": null,
+        "color": "",
+        "habitat": "Rocky ocean floor and coral reefs",
+        "prey": "Algae, Fish, Barnacles",
+        "predators": "Fish, Birds, Crabs, Sea Otter",
+        "food": "Algae",
+        "phylum": "Echinodermata",
+        "order": "Echinoida",
+        "numberofspecies": null,
+        "skin": "Plates",
+        "features": "Small stinging structures and claw-like mouth",
+        "family": null,
+        "kingdom": "Animalia",
+        "desc1": "The sea urchin is found across the ocean floors worldwide, but rarely in the colder, polar regions. Sea urchins are commonly found along the rocky ocean floor in both shallow and deeper water and sea urchins are also commonly found inhabiting coral reefs.",
+        "desc2": "There are nearly 200 different species of recognised sea urchin, that come in all shapes and sizes. Some sea urchins are covered in long thin spikes where others have a hard shell that is made up of chalky plates. The red sea urchin is the longest living creature on earth, with some living more than 200 years.",
+        "desc3": "Sea urchins are omnivorous animals and therefore eat both plant and animal matter. The sea urchin mainly feeds on algae on the coral and rocks, along with decomposing matter such as dead fish, mussels, sponges and barnacles.",
+        "desc4": "Sea urchins are preyed about by many predators that inhabit their marine environment, but also those animals that don't. The main predators of the sea urchin are crabs, large fish, sea otters, eels, birds and humans. In some countries, certain species of the sea urchin are hunted and served as a delicacy.",
+        "water": "Salt",
+        "phlevel": "6.0-9.0",
+        "conservation": "Threatened",
+        "speed": null,
+        "lifestyle": null,
+        "funfact": null,
+        "genus": null,
+        "wingspan": null,
+        "desc5": "Due to dredging on the ocean floor and pollution in the water, the sea urchin populations are declining and the sea urchin and today thought to be threatened with extinction."
+      }
+    ]
+}

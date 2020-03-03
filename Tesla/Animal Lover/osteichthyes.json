@@ -1,0 +1,41 @@
+{
+    "versionCode": 1,
+    "cancellable": false,
+    "url": "",
+    "data":[
+        {
+          "name": "Catfish",
+          "animalClass": "Osteichthyes",
+          "image": "/media/animals/images/470x370/catfish.jpg",
+          "scientific": "Siluriformes",
+          "map": "/media/animals/maps/catfish-location-map.png",
+          "location": "Warm freshwater",
+          "diet": "Carnivore",
+          "color": "Brown, Black, Yellow, White, Tan, Grey",
+          "habitat": "Fast-flowing rivers and lakes",
+          "prey": "Fish, Frogs, Worms",
+          "predators": "Large Fish, Birds, Mammals, Reptiles",
+          "food": "Fish",
+          "phylum": "Chordata",
+          "order": "Siluriformes",
+          "numberofspecies": null,
+          "skin": "Scales",
+          "features": "Flat, broad head and whiskers",
+          "family": null,
+          "kingdom": "Animalia",
+          "desc1": "Catfish are a group of bottom-feeding fish that are found in freshwater habitats and coastal regions on and around every continent in the world with the exception of Antarctica. Catfish are most easily identified by their flattened broad heads and the long whisker-like barbels that protrude from the mouth of the catfish.",
+          "desc2": "The long barbels of the catfish contain the taste buds of the catfish and so are often most commonly used for smelling and therefore sensing what is about to eat (and to hide from) in the surrounding waters. Despite the name however, not all catfish species have prominent whisker-like barbels.",
+          "desc3": "There are nearly 3,000 known species of catfish in the world but it is thought that the actual number of catfish species could be as high as 4,500 as many species of catfish are found in areas where there is little or no human contact. Although catfish can generally be found in faster-flowing rivers and streams, some catfish species have adapted to living in shallow salt-water environments while other catfish species live their lives in caves underground.",
+          "desc4": "The average catfish is around a meter in length usually slightly less depending on the species. Catfish however can range in size from just a centimetre in length to more than two meters long. The largest species of catfish is the Mekong catfish, which is found inhabiting parts of the Mekong river that flows through Laos, Thailand, Cambodia and Vietnam. The largest Mekong catfish ever found measured nearly 3 meters in length.",
+          "water": "Fresh",
+          "phlevel": "6.5 - 8.0",
+          "conservation": "Threatened",
+          "speed": null,
+          "lifestyle": null,
+          "funfact": null,
+          "genus": null,
+          "wingspan": null,
+          "desc5": null
+        }
+      ]
+}

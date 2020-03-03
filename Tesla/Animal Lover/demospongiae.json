@@ -1,0 +1,41 @@
+{
+    "versionCode": 1,
+    "cancellable": false,
+    "url": "",
+    "data":[
+      {
+        "name": "Sponge",
+        "class": "Demospongiae",
+        "image": "/media/animals/images/470x370/sponge4.jpg",
+        "scientific": "Demospongiae",
+        "map": "/media/animals/maps/sponge-location-map.png",
+        "location": "Worldwide",
+        "diet": null,
+        "color": "Green, Red, Blue, Yellow, Orange, Brown",
+        "habitat": "Saltwater seafloors",
+        "prey": "Bacteria, Phytoplankton, Nutrients In Water",
+        "predators": "Fish, Turtles. Crustaceans",
+        "food": "Bacteria",
+        "phylum": "Porifera",
+        "order": null,
+        "numberofspecies": "5,000",
+        "skin": "Smooth",
+        "features": "Brightly coloured and non-moving lifestyle",
+        "family": null,
+        "kingdom": "Animalia",
+        "desc1": "Sponges are thought to have evolved around 500 million years ago, and today there are more than 5,000 known species of sponge with another 5,000 species thought to have not yet been discovered. Most sponges live in a salt water environment, attached to objects on the sea floor. Less than 200 sponge species inhabit freshwater habitats.",
+        "desc2": "The body of the sponge is made up of a jelly-like substance that is supported by a thin layer of cells on either side. The body of the sponge contain thousands of pores which allow water to keep flowing through it.",
+        "desc3": "Sponges have no organs, and obtain their nutrition from the water that is continuously flowing through them. Sponges can be found in variety of different sizes and shapes tubes, fans, cups, cones and blobs.",
+        "desc4": "Sponges are omnivorous animals that obtain their nutrition from the food particles in the water. Sponges primarily eat bacteria, phytoplankton and bits out of the water. A number of sponge species are known to have a more carnivorous diet, eating small fish and crustaceans on the reefs.",
+        "water": null,
+        "phlevel": null,
+        "conservation": "Threatened",
+        "speed": null,
+        "lifestyle": null,
+        "funfact": null,
+        "genus": null,
+        "wingspan": null,
+        "desc5": null
+      }
+    ]
+}
