@@ -1,0 +1,137 @@
+{
+    "versionCode": 1,
+    "cancellable": false,
+    "url": "",
+    "category":[
+        {
+          "type":"informal",
+          "items":[
+            {
+                "name" : "tshirt" ,
+                "iron": "8",
+                "wash": "10" 
+             },
+             {
+                 "name" : "shirt" ,
+                 "iron": "10",
+                 "wash": "15" 
+              },
+              {
+                "name" : "pants" ,
+                "iron": "12",
+                "wash": "15" 
+             },
+             {
+                "name" : "jeans" ,
+                "iron": "15",
+                "wash": "30" 
+             },
+             {
+                "name" : "pyjama pants" ,
+                "iron": "10",
+                "wash": "10" 
+             },
+             {
+                "name" : "backpack" ,
+                "iron": "0",
+                "wash": "20" 
+             }
+            
+             
+          ]
+        },
+
+        {
+            "type":"linen",
+            "items":[
+              {
+                  "name" : "bedsheet" ,
+                  "iron": "20",
+                  "wash": "60" 
+               },
+               {
+                   "name" : "towel" ,
+                   "iron": "10",
+                   "wash": "15" 
+                },
+                {
+                    "name" : "blanket" ,
+                    "iron": "25",
+                    "wash": "100" 
+                 }
+                   
+            ]
+        },
+
+        {
+            "type":"formal",
+            "items":[
+              {
+                  "name" : "coat" ,
+                  "iron": "25",
+                  "wash": "35" 
+               },
+
+               {
+                   "name" : "jacket" ,
+                   "iron": "20",
+                   "wash": "30" 
+                },
+                {
+                    "name" : "abaya" ,
+                    "iron": "20",
+                    "wash": "45" 
+                 },
+                 {
+                    "name" : "overcoat" ,
+                    "iron": "20",
+                    "wash": "50" 
+                 },
+                 {
+                    "name" : "sherwani" ,
+                    "iron": "15",
+                    "wash": "30" 
+                 }
+                 
+                  
+            ]
+        },
+
+        {
+            "type":"others",
+            "items":[
+              {
+                  "name" : "doormat" ,
+                  "iron": "0",
+                  "wash": "30" 
+               },
+               {
+                   "name" : "sweater" ,
+                   "iron": "25",
+                   "wash": "25" 
+                },
+                {
+                    "name" : "sofa cover large" ,
+                    "iron": "60",
+                    "wash": "40" 
+                 },
+                 {
+                    "name" : "cushion cover" ,
+                    "iron": "15",
+                    "wash": "20" 
+                 },
+                 {
+                    "name" : "sofa cover regular" ,
+                    "iron": "12",
+                    "wash": "30" 
+                 }
+                 
+                  
+                 
+            ]
+        }
+
+         
+    ]
+
+}
